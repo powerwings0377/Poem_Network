@@ -1,0 +1,10 @@
+Poem_Network.py 会一口气完成：
+
+读取原始 NPMI 文件（如 output_npmi_20260201_210505_npmi.csv）
+
+数据清洗 → 生成 cleaned_poetry_pairs.csv
+
+社区发现 → 生成 community_assignment.csv（节点所属社区）
+
+其他附属文件：node_centralities.csv、community_themes.csv
+

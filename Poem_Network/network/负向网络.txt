@@ -1,0 +1,1094 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="山" label="山" />
+      <node id="水" label="水" />
+      <node id="花" label="花" />
+      <node id="开" label="开" />
+      <node id="阴" label="阴" />
+      <node id="前" label="前" />
+      <node id="后" label="后" />
+      <node id="世" label="世" />
+      <node id="事" label="事" />
+      <node id="儿" label="儿" />
+      <node id="童" label="童" />
+      <node id="东" label="东" />
+      <node id="海" label="海" />
+      <node id="笙" label="笙" />
+      <node id="歌" label="歌" />
+      <node id="相" label="相" />
+      <node id="依" label="依" />
+      <node id="星" label="星" />
+      <node id="河" label="河" />
+      <node id="晓" label="晓" />
+      <node id="月" label="月" />
+      <node id="老" label="老" />
+      <node id="翁" label="翁" />
+      <node id="宝" label="宝" />
+      <node id="剑" label="剑" />
+      <node id="微" label="微" />
+      <node id="风" label="风" />
+      <node id="日" label="日" />
+      <node id="大" label="大" />
+      <node id="夫" label="夫" />
+      <node id="野" label="野" />
+      <node id="春" label="春" />
+      <node id="雨" label="雨" />
+      <node id="章" label="章" />
+      <node id="句" label="句" />
+      <node id="归" label="归" />
+      <node id="来" label="来" />
+      <node id="冰" label="冰" />
+      <node id="雪" label="雪" />
+      <node id="还" label="还" />
+      <node id="家" label="家" />
+      <node id="赤" label="赤" />
+      <node id="城" label="城" />
+      <node id="金" label="金" />
+      <node id="石" label="石" />
+      <node id="烟" label="烟" />
+      <node id="尘" label="尘" />
+      <node id="身" label="身" />
+      <node id="闲" label="闲" />
+      <node id="忘" label="忘" />
+      <node id="机" label="机" />
+      <node id="流" label="流" />
+      <node id="莺" label="莺" />
+      <node id="狂" label="狂" />
+      <node id="池" label="池" />
+      <node id="边" label="边" />
+      <node id="人" label="人" />
+      <node id="今" label="今" />
+      <node id="年" label="年" />
+      <node id="看" label="看" />
+      <node id="荆" label="荆" />
+      <node id="州" label="州" />
+      <node id="汉" label="汉" />
+      <node id="从" label="从" />
+      <node id="兹" label="兹" />
+      <node id="江" label="江" />
+      <node id="寄" label="寄" />
+      <node id="言" label="言" />
+      <node id="商" label="商" />
+      <node id="姑" label="姑" />
+      <node id="苏" label="苏" />
+      <node id="钓" label="钓" />
+      <node id="鱼" label="鱼" />
+      <node id="桂" label="桂" />
+      <node id="树" label="树" />
+      <node id="皎" label="皎" />
+      <node id="洁" label="洁" />
+      <node id="湖" label="湖" />
+      <node id="两" label="两" />
+      <node id="岸" label="岸" />
+      <node id="间" label="间" />
+      <node id="波" label="波" />
+      <node id="浪" label="浪" />
+      <node id="景" label="景" />
+      <node id="乔" label="乔" />
+      <node id="木" label="木" />
+      <node id="高" label="高" />
+      <node id="斋" label="斋" />
+      <node id="闻" label="闻" />
+      <node id="道" label="道" />
+      <node id="况" label="况" />
+      <node id="复" label="复" />
+      <node id="庭" label="庭" />
+      <node id="塘" label="塘" />
+      <node id="头" label="头" />
+      <node id="白" label="白" />
+      <node id="罗" label="罗" />
+      <node id="衣" label="衣" />
+      <node id="襄" label="襄" />
+      <node id="阳" label="阳" />
+      <node id="北" label="北" />
+      <node id="斗" label="斗" />
+      <node id="郭" label="郭" />
+      <node id="少" label="少" />
+      <node id="万" label="万" />
+      <node id="壑" label="壑" />
+      <node id="碧" label="碧" />
+      <node id="云" label="云" />
+      <node id="访" label="访" />
+      <node id="松" label="松" />
+      <node id="柏" label="柏" />
+      <node id="帝" label="帝" />
+      <node id="子" label="子" />
+      <node id="寻" label="寻" />
+      <node id="常" label="常" />
+      <node id="宿" label="宿" />
+      <node id="昔" label="昔" />
+      <node id="青" label="青" />
+      <node id="朝" label="朝" />
+      <node id="廷" label="廷" />
+      <node id="平" label="平" />
+      <node id="原" label="原" />
+      <node id="僧" label="僧" />
+      <node id="登" label="登" />
+      <node id="临" label="临" />
+      <node id="寺" label="寺" />
+      <node id="先" label="先" />
+      <node id="生" label="生" />
+      <node id="虚" label="虚" />
+      <node id="空" label="空" />
+      <node id="忆" label="忆" />
+      <node id="银" label="银" />
+      <node id="出" label="出" />
+      <node id="语" label="语" />
+      <node id="古" label="古" />
+      <node id="红" label="红" />
+      <node id="颜" label="颜" />
+      <node id="樱" label="樱" />
+      <node id="桃" label="桃" />
+      <node id="神" label="神" />
+      <node id="女" label="女" />
+      <node id="草" label="草" />
+      <node id="病" label="病" />
+      <node id="筋" label="筋" />
+      <node id="力" label="力" />
+      <node id="入" label="入" />
+      <node id="梦" label="梦" />
+      <node id="光" label="光" />
+      <node id="回" label="回" />
+      <node id="首" label="首" />
+      <node id="重" label="重" />
+      <node id="叠" label="叠" />
+      <node id="新" label="新" />
+      <node id="乡" label="乡" />
+      <node id="直" label="直" />
+      <node id="死" label="死" />
+      <node id="殷" label="殷" />
+      <node id="勤" label="勤" />
+      <node id="路" label="路" />
+      <node id="沧" label="沧" />
+      <node id="荣" label="荣" />
+      <node id="枯" label="枯" />
+      <node id="西" label="西" />
+      <node id="长" label="长" />
+      <node id="沙" label="沙" />
+      <node id="珍" label="珍" />
+      <node id="深" label="深" />
+      <node id="鹤" label="鹤" />
+      <node id="极" label="极" />
+      <node id="目" label="目" />
+      <node id="孙" label="孙" />
+      <node id="吟" label="吟" />
+      <node id="游" label="游" />
+      <node id="望" label="望" />
+      <node id="缕" label="缕" />
+      <node id="清" label="清" />
+      <node id="积" label="积" />
+      <node id="秋" label="秋" />
+      <node id="端" label="端" />
+      <node id="片" label="片" />
+      <node id="等" label="等" />
+      <node id="浦" label="浦" />
+      <node id="弟" label="弟" />
+      <node id="十" label="十" />
+      <node id="载" label="载" />
+      <node id="台" label="台" />
+      <node id="色" label="色" />
+      <node id="鬓" label="鬓" />
+      <node id="诗" label="诗" />
+      <node id="情" label="情" />
+      <node id="浮" label="浮" />
+      <node id="夜" label="夜" />
+      <node id="岁" label="岁" />
+      <node id="晏" label="晏" />
+      <node id="桥" label="桥" />
+      <node id="渔" label="渔" />
+      <node id="樵" label="樵" />
+      <node id="斜" label="斜" />
+      <node id="楼" label="楼" />
+      <node id="贫" label="贫" />
+      <node id="贱" label="贱" />
+      <node id="蛾" label="蛾" />
+      <node id="眉" label="眉" />
+      <node id="主" label="主" />
+      <node id="提" label="提" />
+      <node id="携" label="携" />
+      <node id="净" label="净" />
+      <node id="地" label="地" />
+      <node id="夕" label="夕" />
+      <node id="稚" label="稚" />
+      <node id="镜" label="镜" />
+      <node id="中" label="中" />
+      <node id="宵" label="宵" />
+      <node id="晚" label="晚" />
+      <node id="兄" label="兄" />
+      <node id="外" label="外" />
+      <node id="埃" label="埃" />
+      <node id="绮" label="绮" />
+      <node id="谷" label="谷" />
+      <node id="口" label="口" />
+      <node id="犹" label="犹" />
+      <node id="自" label="自" />
+      <node id="识" label="识" />
+      <node id="寐" label="寐" />
+      <node id="闺" label="闺" />
+      <node id="影" label="影" />
+      <node id="涛" label="涛" />
+      <node id="南" label="南" />
+      <node id="驱" label="驱" />
+      <node id="马" label="马" />
+      <node id="傍" label="傍" />
+      <node id="发" label="发" />
+      <node id="珠" label="珠" />
+      <node id="帘" label="帘" />
+      <node id="飘" label="飘" />
+      <node id="无" label="无" />
+      <node id="限" label="限" />
+      <node id="感" label="感" />
+      <node id="激" label="激" />
+      <node id="霜" label="霜" />
+      <node id="苍" label="苍" />
+      <node id="翠" label="翠" />
+      <node id="窗" label="窗" />
+      <node id="暮" label="暮" />
+      <node id="怜" label="怜" />
+      <node id="壁" label="壁" />
+      <node id="魏" label="魏" />
+      <node id="阙" label="阙" />
+      <node id="昨" label="昨" />
+      <node id="晨" label="晨" />
+      <node id="阁" label="阁" />
+      <node id="千" label="千" />
+      <node id="灯" label="灯" />
+      <node id="父" label="父" />
+      <node id="期" label="期" />
+      <node id="紫" label="紫" />
+      <node id="棘" label="棘" />
+      <node id="天" label="天" />
+      <node id="际" label="际" />
+      <node id="枝" label="枝" />
+      <node id="时" label="时" />
+      <node id="节" label="节" />
+      <node id="灞" label="灞" />
+      <node id="陵" label="陵" />
+      <node id="胡" label="胡" />
+      <node id="徒" label="徒" />
+      <node id="心" label="心" />
+      <node id="书" label="书" />
+      <node id="封" label="封" />
+      <node id="侯" label="侯" />
+      <node id="行" label="行" />
+      <node id="终" label="终" />
+      <node id="太" label="太" />
+      <node id="掩" label="掩" />
+      <node id="扉" label="扉" />
+      <node id="扁" label="扁" />
+      <node id="舟" label="舟" />
+      <node id="旧" label="旧" />
+      <node id="蝉" label="蝉" />
+      <node id="声" label="声" />
+      <node id="猿" label="猿" />
+      <node id="说" label="说" />
+      <node id="竹" label="竹" />
+      <node id="叹" label="叹" />
+      <node id="茅" label="茅" />
+      <node id="屋" label="屋" />
+      <node id="远" label="远" />
+      <node id="澜" label="澜" />
+      <node id="林" label="林" />
+      <node id="起" label="起" />
+      <node id="苔" label="苔" />
+      <node id="泉" label="泉" />
+      <node id="里" label="里" />
+      <node id="留" label="留" />
+      <node id="连" label="连" />
+      <node id="摇" label="摇" />
+      <node id="岐" label="岐" />
+      <node id="渡" label="渡" />
+      <node id="国" label="国" />
+      <node id="钟" label="钟" />
+      <node id="往" label="往" />
+      <node id="辛" label="辛" />
+      <node id="遥" label="遥" />
+      <node id="照" label="照" />
+      <node id="在" label="在" />
+      <node id="鸟" label="鸟" />
+      <node id="去" label="去" />
+      <node id="尊" label="尊" />
+      <node id="酒" label="酒" />
+      <node id="田" label="田" />
+      <node id="园" label="园" />
+      <node id="沾" label="沾" />
+      <node id="容" label="容" />
+      <node id="易" label="易" />
+      <node id="寸" label="寸" />
+      <node id="鸡" label="鸡" />
+      <node id="鸣" label="鸣" />
+      <node id="浔" label="浔" />
+      <node id="溪" label="溪" />
+      <node id="霓" label="霓" />
+      <node id="裳" label="裳" />
+      <node id="雁" label="雁" />
+      <node id="向" label="向" />
+      <node id="闭" label="闭" />
+      <node id="门" label="门" />
+      <node id="洲" label="洲" />
+      <node id="单" label="单" />
+      <node id="于" label="于" />
+      <node id="百" label="百" />
+      <node id="故" label="故" />
+      <node id="巾" label="巾" />
+      <node id="手" label="手" />
+      <node id="绿" label="绿" />
+      <node id="嘶" label="嘶" />
+      <node id="杀" label="杀" />
+      <node id="吹" label="吹" />
+      <node id="莓" label="莓" />
+      <node id="涯" label="涯" />
+      <node id="细" label="细" />
+      <node id="猛" label="猛" />
+      <node id="虎" label="虎" />
+      <node id="蘋" label="蘋" />
+      <node id="思" label="思" />
+      <node id="知" label="知" />
+      <node id="音" label="音" />
+      <node id="巫" label="巫" />
+      <node id="峡" label="峡" />
+      <node id="啼" label="啼" />
+      <node id="读" label="读" />
+      <node id="难" label="难" />
+      <node id="半" label="半" />
+      <node id="楚" label="楚" />
+      <node id="早" label="早" />
+      <node id="鸿" label="鸿" />
+      <node id="送" label="送" />
+      <node id="客" label="客" />
+      <node id="妻" label="妻" />
+      <node id="蹄" label="蹄" />
+      <node id="动" label="动" />
+      <node id="骨" label="骨" />
+      <node id="肉" label="肉" />
+      <node id="薜" label="薜" />
+      <node id="萝" label="萝" />
+      <node id="九" label="九" />
+      <node id="欲" label="欲" />
+      <node id="尽" label="尽" />
+      <node id="然" label="然" />
+      <node id="过" label="过" />
+      <node id="近" label="近" />
+      <node id="残" label="残" />
+      <node id="塞" label="塞" />
+      <node id="魂" label="魂" />
+      <node id="居" label="居" />
+      <node id="士" label="士" />
+      <node id="稀" label="稀" />
+      <node id="欹" label="欹" />
+      <node id="枕" label="枕" />
+      <node id="芜" label="芜" />
+      <node id="吾" label="吾" />
+      <node id="公" label="公" />
+      <node id="阑" label="阑" />
+      <node id="干" label="干" />
+      <node id="画" label="画" />
+      <node id="屏" label="屏" />
+      <node id="怀" label="怀" />
+      <node id="抱" label="抱" />
+      <node id="火" label="火" />
+      <node id="程" label="程" />
+      <node id="藓" label="藓" />
+      <node id="问" label="问" />
+      <node id="对" label="对" />
+      <node id="烽" label="烽" />
+      <node id="露" label="露" />
+      <node id="湿" label="湿" />
+      <node id="含" label="含" />
+      <node id="黄" label="黄" />
+      <node id="洞" label="洞" />
+      <node id="房" label="房" />
+      <node id="叶" label="叶" />
+      <node id="村" label="村" />
+      <node id="汀" label="汀" />
+      <node id="芦" label="芦" />
+      <node id="杨" label="杨" />
+      <node id="争" label="争" />
+      <node id="奈" label="奈" />
+      <node id="牛" label="牛" />
+      <node id="羊" label="羊" />
+      <node id="梧" label="梧" />
+      <node id="随" label="随" />
+      <node id="关" label="关" />
+      <node id="泪" label="泪" />
+      <node id="满" label="满" />
+      <node id="馀" label="馀" />
+      <node id="朱" label="朱" />
+      <node id="弦" label="弦" />
+      <node id="征" label="征" />
+      <node id="战" label="战" />
+      <node id="经" label="经" />
+      <node id="量" label="量" />
+      <node id="朔" label="朔" />
+      <node id="滴" label="滴" />
+      <node id="迢" label="迢" />
+      <node id="递" label="递" />
+      <node id="急" label="急" />
+      <node id="信" label="信" />
+      <node id="杜" label="杜" />
+      <node id="鹃" label="鹃" />
+      <node id="规" label="规" />
+      <node id="湘" label="湘" />
+      <node id="那" label="那" />
+      <node id="堪" label="堪" />
+      <node id="醒" label="醒" />
+      <node id="八" label="八" />
+      <node id="数" label="数" />
+      <node id="异" label="异" />
+      <node id="他" label="他" />
+      <node id="呜" label="呜" />
+      <node id="咽" label="咽" />
+      <node id="离" label="离" />
+      <node id="宫" label="宫" />
+      <node id="寒" label="寒" />
+      <node id="凉" label="凉" />
+      <node id="披" label="披" />
+      <node id="垂" label="垂" />
+      <node id="群" label="群" />
+      <node id="落" label="落" />
+      <node id="孤" label="孤" />
+      <node id="峰" label="峰" />
+      <node id="晖" label="晖" />
+      <node id="杳" label="杳" />
+      <node id="冥" label="冥" />
+      <node id="别" label="别" />
+      <node id="独" label="独" />
+      <node id="昏" label="昏" />
+      <node id="立" label="立" />
+      <node id="悲" label="悲" />
+      <node id="坐" label="坐" />
+      <node id="食" label="食" />
+      <node id="怅" label="怅" />
+      <node id="苦" label="苦" />
+      <node id="愁" label="愁" />
+      <node id="幽" label="幽" />
+      <node id="忧" label="忧" />
+      <node id="伤" label="伤" />
+      <node id="帆" label="帆" />
+      <node id="荒" label="荒" />
+      <node id="凄" label="凄" />
+      <node id="痕" label="痕" />
+      <node id="断" label="断" />
+      <node id="肠" label="肠" />
+      <node id="恨" label="恨" />
+      <node id="茫" label="茫" />
+      <node id="萧" label="萧" />
+      <node id="寂" label="寂" />
+      <node id="寞" label="寞" />
+      <node id="绝" label="绝" />
+    </nodes>
+    <edges>
+      <edge source="山" target="水" id="0" weight="0.0001" />
+      <edge source="山" target="阴" id="1" weight="0.0005" />
+      <edge source="山" target="江" id="2" weight="0.0012" />
+      <edge source="山" target="商" id="3" weight="0.0013" />
+      <edge source="山" target="青" id="4" weight="0.0022" />
+      <edge source="山" target="僧" id="5" weight="0.0024" />
+      <edge source="山" target="寺" id="6" weight="0.0025" />
+      <edge source="山" target="头" id="7" weight="0.0031" />
+      <edge source="山" target="秋" id="8" weight="0.0041" />
+      <edge source="山" target="色" id="9" weight="0.0043" />
+      <edge source="山" target="千" id="10" weight="0.0066" />
+      <edge source="山" target="中" id="11" weight="0.0094" />
+      <edge source="山" target="旧" id="12" weight="0.0136" />
+      <edge source="山" target="楚" id="13" weight="0.0152" />
+      <edge source="山" target="深" id="14" weight="0.0173" />
+      <edge source="山" target="雨" id="15" weight="0.0175" />
+      <edge source="山" target="关" id="16" weight="0.0183" />
+      <edge source="山" target="故" id="17" weight="0.0184" />
+      <edge source="山" target="空" id="18" weight="0.0245" />
+      <edge source="山" target="寒" id="19" weight="1.5038" />
+      <edge source="水" target="汉" id="20" weight="0.0012" />
+      <edge source="水" target="河" id="21" weight="0.0021" />
+      <edge source="水" target="临" id="22" weight="0.0028" />
+      <edge source="水" target="色" id="23" weight="0.0062" />
+      <edge source="水" target="边" id="24" weight="0.0097" />
+      <edge source="水" target="溪" id="25" weight="0.01" />
+      <edge source="水" target="江" id="26" weight="0.0134" />
+      <edge source="水" target="流" id="27" weight="0.0325" />
+      <edge source="水" target="楚" id="28" weight="0.0168" />
+      <edge source="水" target="秋" id="29" weight="0.0181" />
+      <edge source="水" target="湘" id="30" weight="0.0234" />
+      <edge source="水" target="烟" id="31" weight="0.0239" />
+      <edge source="水" target="寒" id="32" weight="1.5053" />
+      <edge source="花" target="开" id="33" weight="0.0001" />
+      <edge source="花" target="野" id="34" weight="0.0004" />
+      <edge source="花" target="看" id="35" weight="0.0011" />
+      <edge source="花" target="庭" id="36" weight="0.0038" />
+      <edge source="花" target="烟" id="37" weight="0.0048" />
+      <edge source="花" target="前" id="38" weight="0.0049" />
+      <edge source="花" target="红" id="39" weight="0.0083" />
+      <edge source="花" target="残" id="40" weight="0.013" />
+      <edge source="花" target="芦" id="41" weight="0.0163" />
+      <edge source="花" target="落" id="42" weight="2.9994" />
+      <edge source="阴" target="光" id="43" weight="0.003" />
+      <edge source="前" target="后" id="44" weight="0.0001" />
+      <edge source="前" target="灯" id="45" weight="0.0066" />
+      <edge source="前" target="窗" id="46" weight="0.0093" />
+      <edge source="前" target="门" id="47" weight="0.0121" />
+      <edge source="前" target="程" id="48" weight="0.0141" />
+      <edge source="后" target="雨" id="49" weight="0.0032" />
+      <edge source="后" target="别" id="50" weight="1.4976" />
+      <edge source="世" target="事" id="51" weight="0.0001" />
+      <edge source="世" target="人" id="52" weight="0.0011" />
+      <edge source="世" target="路" id="53" weight="0.0062" />
+      <edge source="事" target="闲" id="54" weight="0.0048" />
+      <edge source="事" target="万" id="55" weight="0.0097" />
+      <edge source="事" target="往" id="56" weight="0.0102" />
+      <edge source="事" target="心" id="57" weight="0.0217" />
+      <edge source="儿" target="童" id="58" weight="0.0001" />
+      <edge source="童" target="子" id="59" weight="0.0055" />
+      <edge source="东" target="海" id="60" weight="0.0002" />
+      <edge source="东" target="西" id="61" weight="0.0033" />
+      <edge source="东" target="风" id="62" weight="0.0042" />
+      <edge source="东" target="向" id="63" weight="0.0101" />
+      <edge source="东" target="林" id="64" weight="0.0168" />
+      <edge source="海" target="边" id="65" weight="0.0085" />
+      <edge source="笙" target="歌" id="66" weight="0.0003" />
+      <edge source="歌" target="狂" id="67" weight="0.0026" />
+      <edge source="相" target="依" id="68" weight="0.0003" />
+      <edge source="相" target="访" id="69" weight="0.0021" />
+      <edge source="相" target="识" id="70" weight="0.0054" />
+      <edge source="相" target="对" id="71" weight="0.0143" />
+      <edge source="相" target="思" id="72" weight="0.0168" />
+      <edge source="相" target="看" id="73" weight="0.0184" />
+      <edge source="相" target="忆" id="74" weight="0.0217" />
+      <edge source="依" target="然" id="75" weight="0.0158" />
+      <edge source="依" target="旧" id="76" weight="0.0171" />
+      <edge source="星" target="河" id="77" weight="0.0003" />
+      <edge source="河" target="银" id="78" weight="0.0027" />
+      <edge source="河" target="汉" id="79" weight="0.0054" />
+      <edge source="河" target="关" id="80" weight="0.0206" />
+      <edge source="晓" target="月" id="81" weight="0.0004" />
+      <edge source="晓" target="日" id="82" weight="0.0004" />
+      <edge source="月" target="出" id="83" weight="0.0027" />
+      <edge source="月" target="新" id="84" weight="0.0043" />
+      <edge source="月" target="中" id="85" weight="0.0057" />
+      <edge source="月" target="岁" id="86" weight="0.0065" />
+      <edge source="月" target="江" id="87" weight="0.0085" />
+      <edge source="月" target="秋" id="88" weight="0.0085" />
+      <edge source="月" target="照" id="89" weight="0.0094" />
+      <edge source="月" target="夜" id="90" weight="0.0217" />
+      <edge source="月" target="影" id="91" weight="0.0109" />
+      <edge source="月" target="色" id="92" weight="0.0109" />
+      <edge source="月" target="九" id="93" weight="0.0122" />
+      <edge source="月" target="残" id="94" weight="0.0157" />
+      <edge source="月" target="八" id="95" weight="0.024" />
+      <edge source="月" target="落" id="96" weight="1.5064" />
+      <edge source="老" target="翁" id="97" weight="0.0004" />
+      <edge source="老" target="病" id="98" weight="0.0028" />
+      <edge source="老" target="僧" id="99" weight="0.0074" />
+      <edge source="老" target="大" id="100" weight="0.0122" />
+      <edge source="老" target="人" id="101" weight="0.013" />
+      <edge source="宝" target="剑" id="102" weight="0.0004" />
+      <edge source="微" target="风" id="103" weight="0.0004" />
+      <edge source="微" target="雨" id="104" weight="0.0254" />
+      <edge source="风" target="烟" id="105" weight="0.0007" />
+      <edge source="风" target="尘" id="106" weight="0.0008" />
+      <edge source="风" target="狂" id="107" weight="0.0009" />
+      <edge source="风" target="松" id="108" weight="0.0045" />
+      <edge source="风" target="春" id="109" weight="0.0046" />
+      <edge source="风" target="飘" id="110" weight="0.0058" />
+      <edge source="风" target="霜" id="111" weight="0.006" />
+      <edge source="风" target="清" id="112" weight="0.0064" />
+      <edge source="风" target="波" id="113" weight="0.0079" />
+      <edge source="风" target="临" id="114" weight="0.0082" />
+      <edge source="风" target="起" id="115" weight="0.0086" />
+      <edge source="风" target="摇" id="116" weight="0.009" />
+      <edge source="风" target="雪" id="117" weight="0.0092" />
+      <edge source="风" target="吹" id="118" weight="0.0109" />
+      <edge source="风" target="北" id="119" weight="0.011" />
+      <edge source="风" target="动" id="120" weight="0.0122" />
+      <edge source="风" target="雨" id="121" weight="0.0132" />
+      <edge source="风" target="秋" id="122" weight="0.0143" />
+      <edge source="风" target="随" id="123" weight="0.018" />
+      <edge source="风" target="西" id="124" weight="0.0182" />
+      <edge source="风" target="朔" id="125" weight="0.0199" />
+      <edge source="风" target="急" id="126" weight="0.0203" />
+      <edge source="风" target="江" id="127" weight="0.0247" />
+      <edge source="风" target="悲" id="128" weight="1.5022" />
+      <edge source="风" target="凉" id="129" weight="1.5022" />
+      <edge source="日" target="白" id="130" weight="0.0041" />
+      <edge source="日" target="夜" id="131" weight="0.0046" />
+      <edge source="日" target="斜" id="132" weight="0.0159" />
+      <edge source="日" target="秋" id="133" weight="0.0066" />
+      <edge source="日" target="昔" id="134" weight="0.0083" />
+      <edge source="日" target="暮" id="135" weight="0.0146" />
+      <edge source="日" target="尽" id="136" weight="0.0153" />
+      <edge source="日" target="终" id="137" weight="0.0155" />
+      <edge source="日" target="归" id="138" weight="0.0165" />
+      <edge source="日" target="落" id="139" weight="2.9926" />
+      <edge source="日" target="寒" id="140" weight="1.4963" />
+      <edge source="大" target="夫" id="141" weight="0.0004" />
+      <edge source="野" target="人" id="142" weight="0.001" />
+      <edge source="野" target="寺" id="143" weight="0.0285" />
+      <edge source="春" target="雨" id="144" weight="0.0005" />
+      <edge source="春" target="来" id="145" weight="0.0027" />
+      <edge source="春" target="深" id="146" weight="0.0033" />
+      <edge source="春" target="江" id="147" weight="0.0042" />
+      <edge source="春" target="草" id="148" weight="0.0071" />
+      <edge source="春" target="残" id="149" weight="0.0151" />
+      <edge source="春" target="寒" id="150" weight="1.4923" />
+      <edge source="雨" target="云" id="151" weight="0.006" />
+      <edge source="雨" target="暮" id="152" weight="0.0107" />
+      <edge source="雨" target="细" id="153" weight="0.0112" />
+      <edge source="雨" target="声" id="154" weight="0.0125" />
+      <edge source="雨" target="过" id="155" weight="0.0125" />
+      <edge source="雨" target="烟" id="156" weight="0.0166" />
+      <edge source="雨" target="中" id="157" weight="0.0176" />
+      <edge source="雨" target="夜" id="158" weight="0.0393" />
+      <edge source="雨" target="秋" id="159" weight="0.0189" />
+      <edge source="章" target="句" id="160" weight="0.0005" />
+      <edge source="归" target="来" id="161" weight="0.0005" />
+      <edge source="归" target="期" id="162" weight="0.0067" />
+      <edge source="归" target="心" id="163" weight="0.0077" />
+      <edge source="归" target="去" id="164" weight="0.0096" />
+      <edge source="归" target="路" id="165" weight="0.0102" />
+      <edge source="归" target="思" id="166" weight="0.0292" />
+      <edge source="归" target="云" id="167" weight="0.0147" />
+      <edge source="归" target="梦" id="168" weight="0.0236" />
+      <edge source="归" target="人" id="169" weight="0.0237" />
+      <edge source="归" target="客" id="170" weight="0.0271" />
+      <edge source="归" target="独" id="171" weight="1.5053" />
+      <edge source="来" target="晚" id="172" weight="0.0051" />
+      <edge source="来" target="古" id="173" weight="0.0058" />
+      <edge source="来" target="往" id="174" weight="0.0093" />
+      <edge source="来" target="秋" id="175" weight="0.0123" />
+      <edge source="来" target="近" id="176" weight="0.0129" />
+      <edge source="冰" target="雪" id="177" weight="0.0005" />
+      <edge source="雪" target="积" id="178" weight="0.0041" />
+      <edge source="雪" target="霜" id="179" weight="0.023899999999999998" />
+      <edge source="还" target="家" id="180" weight="0.0006" />
+      <edge source="还" target="乡" id="181" weight="0.0032" />
+      <edge source="家" target="人" id="182" weight="0.0097" />
+      <edge source="家" target="贫" id="183" weight="0.0116" />
+      <edge source="赤" target="城" id="184" weight="0.0006" />
+      <edge source="城" target="郭" id="185" weight="0.002" />
+      <edge source="城" target="头" id="186" weight="0.0042" />
+      <edge source="城" target="外" id="187" weight="0.0052" />
+      <edge source="城" target="阳" id="188" weight="0.0052" />
+      <edge source="城" target="边" id="189" weight="0.015799999999999998" />
+      <edge source="城" target="江" id="190" weight="0.0084" />
+      <edge source="城" target="长" id="191" weight="0.0154" />
+      <edge source="城" target="古" id="192" weight="0.025" />
+      <edge source="城" target="孤" id="193" weight="1.4971" />
+      <edge source="金" target="石" id="194" weight="0.0007" />
+      <edge source="金" target="缕" id="195" weight="0.004" />
+      <edge source="金" target="闺" id="196" weight="0.0057" />
+      <edge source="石" target="桥" id="197" weight="0.0047" />
+      <edge source="石" target="壁" id="198" weight="0.0062" />
+      <edge source="石" target="白" id="199" weight="0.0076" />
+      <edge source="烟" target="景" id="200" weight="0.0017" />
+      <edge source="烟" target="尘" id="201" weight="0.0105" />
+      <edge source="烟" target="火" id="202" weight="0.014" />
+      <edge source="烟" target="波" id="203" weight="0.0151" />
+      <edge source="尘" target="埃" id="204" weight="0.0052" />
+      <edge source="身" target="闲" id="205" weight="0.0008" />
+      <edge source="身" target="终" id="206" weight="0.008" />
+      <edge source="身" target="病" id="207" weight="0.022" />
+      <edge source="闲" target="吟" id="208" weight="0.0037" />
+      <edge source="闲" target="等" id="209" weight="0.0041" />
+      <edge source="忘" target="机" id="210" weight="0.0009" />
+      <edge source="流" target="莺" id="211" weight="0.0009" />
+      <edge source="流" target="年" id="212" weight="0.0047" />
+      <edge source="流" target="江" id="213" weight="0.005" />
+      <edge source="流" target="落" id="214" weight="1.5022" />
+      <edge source="莺" target="啼" id="215" weight="0.0116" />
+      <edge source="池" target="边" id="216" weight="0.0009" />
+      <edge source="池" target="塘" id="217" weight="0.0018" />
+      <edge source="边" target="江" id="218" weight="0.0048" />
+      <edge source="边" target="天" id="219" weight="0.018" />
+      <edge source="边" target="草" id="220" weight="0.0245" />
+      <edge source="人" target="间" id="221" weight="0.0017" />
+      <edge source="人" target="游" id="222" weight="0.0037" />
+      <edge source="人" target="古" id="223" weight="0.0048" />
+      <edge source="人" target="主" id="224" weight="0.0048" />
+      <edge source="人" target="生" id="225" weight="0.0089" />
+      <edge source="人" target="杀" id="226" weight="0.0109" />
+      <edge source="人" target="稀" id="227" weight="0.0136" />
+      <edge source="人" target="故" id="228" weight="0.0163" />
+      <edge source="人" target="行" id="229" weight="0.0221" />
+      <edge source="人" target="征" id="230" weight="0.0406" />
+      <edge source="人" target="愁" id="231" weight="1.5056" />
+      <edge source="人" target="幽" id="232" weight="1.5056" />
+      <edge source="今" target="年" id="233" weight="0.0011" />
+      <edge source="今" target="古" id="234" weight="0.0028" />
+      <edge source="今" target="夕" id="235" weight="0.0049" />
+      <edge source="今" target="宵" id="236" weight="0.0051" />
+      <edge source="今" target="夜" id="237" weight="0.0055" />
+      <edge source="年" target="少" id="238" weight="0.002" />
+      <edge source="年" target="新" id="239" weight="0.0031" />
+      <edge source="年" target="昔" id="240" weight="0.0041" />
+      <edge source="年" target="十" id="241" weight="0.0087" />
+      <edge source="年" target="年" id="242" weight="0.0105" />
+      <edge source="年" target="去" id="243" weight="0.0132" />
+      <edge source="年" target="经" id="244" weight="0.019" />
+      <edge source="看" target="回" id="245" weight="0.0059" />
+      <edge source="荆" target="州" id="246" weight="0.0011" />
+      <edge source="荆" target="棘" id="247" weight="0.0069" />
+      <edge source="汉" target="江" id="248" weight="0.0028" />
+      <edge source="从" target="兹" id="249" weight="0.0012" />
+      <edge source="从" target="自" id="250" weight="0.01" />
+      <edge source="江" target="湖" id="251" weight="0.0015" />
+      <edge source="江" target="头" id="252" weight="0.0032" />
+      <edge source="江" target="沧" id="253" weight="0.0033" />
+      <edge source="江" target="清" id="254" weight="0.0074" />
+      <edge source="江" target="南" id="255" weight="0.0077" />
+      <edge source="江" target="楚" id="256" weight="0.0118" />
+      <edge source="江" target="村" id="257" weight="0.0159" />
+      <edge source="江" target="秋" id="258" weight="0.0186" />
+      <edge source="江" target="楼" id="259" weight="0.0255" />
+      <edge source="寄" target="言" id="260" weight="0.0013" />
+      <edge source="寄" target="书" id="261" weight="0.0079" />
+      <edge source="言" target="语" id="262" weight="0.0027" />
+      <edge source="姑" target="苏" id="263" weight="0.0013" />
+      <edge source="钓" target="鱼" id="264" weight="0.0014" />
+      <edge source="桂" target="树" id="265" weight="0.0015" />
+      <edge source="桂" target="松" id="266" weight="0.0095" />
+      <edge source="树" target="庭" id="267" weight="0.0018" />
+      <edge source="树" target="碧" id="268" weight="0.0045" />
+      <edge source="树" target="影" id="269" weight="0.0057" />
+      <edge source="树" target="色" id="270" weight="0.0066" />
+      <edge source="树" target="枝" id="271" weight="0.0071" />
+      <edge source="树" target="红" id="272" weight="0.0126" />
+      <edge source="树" target="高" id="273" weight="0.0128" />
+      <edge source="皎" target="洁" id="274" weight="0.0015" />
+      <edge source="皎" target="然" id="275" weight="0.0124" />
+      <edge source="两" target="岸" id="276" weight="0.0016" />
+      <edge source="两" target="鬓" id="277" weight="0.0043" />
+      <edge source="间" target="云" id="278" weight="0.007" />
+      <edge source="间" target="林" id="279" weight="0.0086" />
+      <edge source="波" target="浪" id="280" weight="0.0017" />
+      <edge source="波" target="涛" id="281" weight="0.0057" />
+      <edge source="波" target="澜" id="282" weight="0.0085" />
+      <edge source="波" target="沧" id="283" weight="0.0085" />
+      <edge source="景" target="清" id="284" weight="0.004" />
+      <edge source="乔" target="木" id="285" weight="0.0017" />
+      <edge source="木" target="草" id="286" weight="0.0028" />
+      <edge source="木" target="万" id="287" weight="0.0179" />
+      <edge source="木" target="古" id="288" weight="0.0217" />
+      <edge source="木" target="落" id="289" weight="1.5093" />
+      <edge source="高" target="斋" id="290" weight="0.0017" />
+      <edge source="高" target="僧" id="291" weight="0.0027" />
+      <edge source="高" target="台" id="292" weight="0.0043" />
+      <edge source="高" target="阁" id="293" weight="0.0066" />
+      <edge source="高" target="楼" id="294" weight="0.0078" />
+      <edge source="闻" target="道" id="295" weight="0.0018" />
+      <edge source="闻" target="说" id="296" weight="0.0082" />
+      <edge source="道" target="直" id="297" weight="0.0032" />
+      <edge source="道" target="路" id="298" weight="0.0032" />
+      <edge source="道" target="远" id="299" weight="0.0122" />
+      <edge source="道" target="吾" id="300" weight="0.0137" />
+      <edge source="况" target="复" id="301" weight="0.0018" />
+      <edge source="头" target="白" id="302" weight="0.0111" />
+      <edge source="头" target="渡" id="303" weight="0.009" />
+      <edge source="头" target="回" id="304" weight="0.0128" />
+      <edge source="白" target="鹤" id="305" weight="0.0035" />
+      <edge source="白" target="发" id="306" weight="0.0066" />
+      <edge source="白" target="首" id="307" weight="0.0081" />
+      <edge source="白" target="蘋" id="308" weight="0.0113" />
+      <edge source="白" target="露" id="309" weight="0.0202" />
+      <edge source="罗" target="衣" id="310" weight="0.0019" />
+      <edge source="罗" target="绮" id="311" weight="0.0052" />
+      <edge source="衣" target="沾" id="312" weight="0.0098" />
+      <edge source="衣" target="裳" id="313" weight="0.0139" />
+      <edge source="襄" target="阳" id="314" weight="0.0019" />
+      <edge source="阳" target="夕" id="315" weight="0.0079" />
+      <edge source="阳" target="浔" id="316" weight="0.01" />
+      <edge source="阳" target="台" id="317" weight="0.0123" />
+      <edge source="阳" target="斜" id="318" weight="0.0203" />
+      <edge source="阳" target="残" id="319" weight="0.0217" />
+      <edge source="北" target="斗" id="320" weight="0.002" />
+      <edge source="北" target="望" id="321" weight="0.0037" />
+      <edge source="北" target="西" id="322" weight="0.0037" />
+      <edge source="万" target="壑" id="323" weight="0.002" />
+      <edge source="万" target="重" id="324" weight="0.0058" />
+      <edge source="万" target="十" id="325" weight="0.0062" />
+      <edge source="万" target="千" id="326" weight="0.0068" />
+      <edge source="万" target="古" id="327" weight="0.0073" />
+      <edge source="万" target="里" id="328" weight="0.0156" />
+      <edge source="碧" target="云" id="329" weight="0.0021" />
+      <edge source="碧" target="落" id="330" weight="1.5004" />
+      <edge source="云" target="端" id="331" weight="0.0041" />
+      <edge source="云" target="片" id="332" weight="0.0041" />
+      <edge source="云" target="浮" id="333" weight="0.0043" />
+      <edge source="云" target="暮" id="334" weight="0.006" />
+      <edge source="云" target="外" id="335" weight="0.0069" />
+      <edge source="云" target="黄" id="336" weight="0.0149" />
+      <edge source="云" target="秋" id="337" weight="0.0162" />
+      <edge source="云" target="楚" id="338" weight="0.0187" />
+      <edge source="云" target="深" id="339" weight="0.0188" />
+      <edge source="云" target="寒" id="340" weight="1.4978" />
+      <edge source="云" target="孤" id="341" weight="1.4978" />
+      <edge source="松" target="柏" id="342" weight="0.0022" />
+      <edge source="松" target="青" id="343" weight="0.007" />
+      <edge source="松" target="枝" id="344" weight="0.0128" />
+      <edge source="帝" target="子" id="345" weight="0.0022" />
+      <edge source="子" target="孙" id="346" weight="0.0036" />
+      <edge source="子" target="弟" id="347" weight="0.0043" />
+      <edge source="子" target="稚" id="348" weight="0.0049" />
+      <edge source="子" target="妻" id="349" weight="0.012" />
+      <edge source="子" target="游" id="350" weight="0.0137" />
+      <edge source="子" target="规" id="351" weight="0.0231" />
+      <edge source="寻" target="常" id="352" weight="0.0022" />
+      <edge source="宿" target="昔" id="353" weight="0.0022" />
+      <edge source="昔" target="忆" id="354" weight="0.0026" />
+      <edge source="昔" target="时" id="355" weight="0.0087" />
+      <edge source="青" target="草" id="356" weight="0.0077" />
+      <edge source="青" target="天" id="357" weight="0.0111" />
+      <edge source="青" target="苔" id="358" weight="0.0159" />
+      <edge source="青" target="冥" id="359" weight="1.4979" />
+      <edge source="朝" target="廷" id="360" weight="0.0023" />
+      <edge source="朝" target="朝" id="361" weight="0.0025" />
+      <edge source="平" target="原" id="362" weight="0.0023" />
+      <edge source="平" target="地" id="363" weight="0.0048" />
+      <edge source="平" target="生" id="364" weight="0.0132" />
+      <edge source="平" target="芜" id="365" weight="0.0136" />
+      <edge source="平" target="沙" id="366" weight="0.0187" />
+      <edge source="原" target="中" id="367" weight="0.0071" />
+      <edge source="登" target="临" id="368" weight="0.0024" />
+      <edge source="登" target="楼" id="369" weight="0.0047" />
+      <edge source="寺" target="古" id="370" weight="0.0046" />
+      <edge source="先" target="生" id="371" weight="0.0026" />
+      <edge source="生" target="死" id="372" weight="0.0106" />
+      <edge source="生" target="涯" id="373" weight="0.0112" />
+      <edge source="生" target="浮" id="374" weight="0.0155" />
+      <edge source="虚" target="空" id="375" weight="0.0026" />
+      <edge source="空" target="馀" id="376" weight="0.0185" />
+      <edge source="出" target="塞" id="377" weight="0.0132" />
+      <edge source="出" target="门" id="378" weight="0.0165" />
+      <edge source="古" target="千" id="379" weight="0.0127" />
+      <edge source="红" target="颜" id="380" weight="0.0028" />
+      <edge source="红" target="叶" id="381" weight="0.0156" />
+      <edge source="颜" target="色" id="382" weight="0.0068" />
+      <edge source="樱" target="桃" id="383" weight="0.0028" />
+      <edge source="神" target="女" id="384" weight="0.0028" />
+      <edge source="草" target="色" id="385" weight="0.0103" />
+      <edge source="草" target="百" id="386" weight="0.0103" />
+      <edge source="草" target="绿" id="387" weight="0.0108" />
+      <edge source="草" target="秋" id="388" weight="0.0261" />
+      <edge source="筋" target="力" id="389" weight="0.0028" />
+      <edge source="入" target="梦" id="390" weight="0.0029" />
+      <edge source="梦" target="寐" id="391" weight="0.0056" />
+      <edge source="梦" target="魂" id="392" weight="0.0278" />
+      <edge source="梦" target="里" id="393" weight="0.0136" />
+      <edge source="梦" target="中" id="394" weight="0.0206" />
+      <edge source="光" target="寒" id="395" weight="1.4803" />
+      <edge source="回" target="首" id="396" weight="0.003" />
+      <edge source="重" target="叠" id="397" weight="0.0031" />
+      <edge source="重" target="珍" id="398" weight="0.0033" />
+      <edge source="新" target="秋" id="399" weight="0.0089" />
+      <edge source="乡" target="关" id="400" weight="0.0217" />
+      <edge source="乡" target="故" id="401" weight="0.0224" />
+      <edge source="乡" target="思" id="402" weight="0.0227" />
+      <edge source="乡" target="异" id="403" weight="0.0243" />
+      <edge source="乡" target="他" id="404" weight="0.0247" />
+      <edge source="乡" target="望" id="405" weight="0.0348" />
+      <edge source="殷" target="勤" id="406" weight="0.0032" />
+      <edge source="勤" target="辛" id="407" weight="0.0093" />
+      <edge source="路" target="傍" id="408" weight="0.0057" />
+      <edge source="路" target="行" id="409" weight="0.008" />
+      <edge source="路" target="岐" id="410" weight="0.025799999999999997" />
+      <edge source="路" target="长" id="411" weight="0.0099" />
+      <edge source="路" target="难" id="412" weight="0.0118" />
+      <edge source="路" target="客" id="413" weight="0.0123" />
+      <edge source="沧" target="洲" id="414" weight="0.0102" />
+      <edge source="荣" target="枯" id="415" weight="0.0033" />
+      <edge source="西" target="楼" id="416" weight="0.0095" />
+      <edge source="西" target="陵" id="417" weight="0.0099" />
+      <edge source="西" target="望" id="418" weight="0.011" />
+      <edge source="长" target="沙" id="419" weight="0.0033" />
+      <edge source="长" target="叹" id="420" weight="0.0084" />
+      <edge source="深" target="夜" id="421" weight="0.0476" />
+      <edge source="极" target="目" id="422" weight="0.0035" />
+      <edge source="极" target="浦" id="423" weight="0.0041" />
+      <edge source="吟" target="苦" id="424" weight="1.5052" />
+      <edge source="游" target="旧" id="425" weight="0.0082" />
+      <edge source="游" target="远" id="426" weight="0.0085" />
+      <edge source="望" target="南" id="427" weight="0.0057" />
+      <edge source="望" target="遥" id="428" weight="0.0094" />
+      <edge source="望" target="怅" id="429" weight="1.5046" />
+      <edge source="清" target="净" id="430" weight="0.0048" />
+      <edge source="清" target="秋" id="431" weight="0.0058" />
+      <edge source="清" target="晨" id="432" weight="0.0064" />
+      <edge source="清" target="溪" id="433" weight="0.0146" />
+      <edge source="清" target="凉" id="434" weight="1.4863" />
+      <edge source="秋" target="天" id="435" weight="0.0101" />
+      <edge source="秋" target="色" id="436" weight="0.0138" />
+      <edge source="秋" target="夜" id="437" weight="0.0194" />
+      <edge source="秋" target="声" id="438" weight="0.0273" />
+      <edge source="浦" target="南" id="439" weight="0.0216" />
+      <edge source="弟" target="兄" id="440" weight="0.0129" />
+      <edge source="十" target="载" id="441" weight="0.0043" />
+      <edge source="鬓" target="发" id="442" weight="0.0058" />
+      <edge source="诗" target="情" id="443" weight="0.0043" />
+      <edge source="情" target="含" id="444" weight="0.0148" />
+      <edge source="情" target="离" id="445" weight="1.4985" />
+      <edge source="夜" target="昨" id="446" weight="0.0062" />
+      <edge source="夜" target="半" id="447" weight="0.0295" />
+      <edge source="岁" target="晏" id="448" weight="0.0047" />
+      <edge source="岁" target="晚" id="449" weight="0.0101" />
+      <edge source="岁" target="暮" id="450" weight="0.0146" />
+      <edge source="岁" target="寒" id="451" weight="1.4997" />
+      <edge source="渔" target="樵" id="452" weight="0.0047" />
+      <edge source="渔" target="父" id="453" weight="0.0067" />
+      <edge source="渔" target="舟" id="454" weight="0.0093" />
+      <edge source="贫" target="贱" id="455" weight="0.0047" />
+      <edge source="蛾" target="眉" id="456" weight="0.0047" />
+      <edge source="提" target="携" id="457" weight="0.0048" />
+      <edge source="携" target="手" id="458" weight="0.0107" />
+      <edge source="镜" target="中" id="459" weight="0.0051" />
+      <edge source="中" target="窗" id="460" weight="0.006" />
+      <edge source="晚" target="早" id="461" weight="0.0118" />
+      <edge source="外" target="帘" id="462" weight="0.0103" />
+      <edge source="外" target="里" id="463" weight="0.0116" />
+      <edge source="谷" target="口" id="464" weight="0.0052" />
+      <edge source="犹" target="自" id="465" weight="0.0053" />
+      <edge source="犹" target="在" id="466" weight="0.0095" />
+      <edge source="自" target="怜" id="467" weight="0.0061" />
+      <edge source="自" target="徒" id="468" weight="0.0076" />
+      <edge source="自" target="独" id="469" weight="1.4987" />
+      <edge source="驱" target="马" id="470" weight="0.0057" />
+      <edge source="马" target="胡" id="471" weight="0.0074" />
+      <edge source="马" target="嘶" id="472" weight="0.0108" />
+      <edge source="马" target="蹄" id="473" weight="0.012" />
+      <edge source="珠" target="帘" id="474" weight="0.0058" />
+      <edge source="无" target="限" id="475" weight="0.0059" />
+      <edge source="感" target="激" id="476" weight="0.0059" />
+      <edge source="苍" target="翠" id="477" weight="0.006" />
+      <edge source="苍" target="苔" id="478" weight="0.0087" />
+      <edge source="苍" target="梧" id="479" weight="0.0179" />
+      <edge source="暮" target="天" id="480" weight="0.0191" />
+      <edge source="魏" target="阙" id="481" weight="0.0062" />
+      <edge source="阁" target="紫" id="482" weight="0.0068" />
+      <edge source="千" target="里" id="483" weight="0.0088" />
+      <edge source="灯" target="孤" id="484" weight="1.521" />
+      <edge source="天" target="际" id="485" weight="0.007" />
+      <edge source="天" target="连" id="486" weight="0.0093" />
+      <edge source="天" target="涯" id="487" weight="0.0183" />
+      <edge source="天" target="寒" id="488" weight="1.4888" />
+      <edge source="枝" target="竹" id="489" weight="0.0083" />
+      <edge source="时" target="节" id="490" weight="0.0072" />
+      <edge source="时" target="别" id="491" weight="1.4986" />
+      <edge source="灞" target="陵" id="492" weight="0.0073" />
+      <edge source="心" target="寸" id="493" weight="0.0099" />
+      <edge source="心" target="离" id="494" weight="1.5062" />
+      <edge source="心" target="伤" id="495" weight="1.5062" />
+      <edge source="书" target="读" id="496" weight="0.0117" />
+      <edge source="封" target="侯" id="497" weight="0.0079" />
+      <edge source="行" target="太" id="498" weight="0.0081" />
+      <edge source="行" target="雁" id="499" weight="0.01" />
+      <edge source="行" target="远" id="500" weight="0.0182" />
+      <edge source="行" target="客" id="501" weight="0.0234" />
+      <edge source="行" target="独" id="502" weight="1.5021" />
+      <edge source="掩" target="扉" id="503" weight="0.0081" />
+      <edge source="扁" target="舟" id="504" weight="0.0081" />
+      <edge source="舟" target="孤" id="505" weight="1.5082" />
+      <edge source="旧" target="国" id="506" weight="0.0091" />
+      <edge source="蝉" target="声" id="507" weight="0.0082" />
+      <edge source="蝉" target="鸣" id="508" weight="0.0145" />
+      <edge source="声" target="猿" id="509" weight="0.0082" />
+      <edge source="声" target="泉" id="510" weight="0.0087" />
+      <edge source="声" target="钟" id="511" weight="0.0093" />
+      <edge source="声" target="数" id="512" weight="0.0242" />
+      <edge source="猿" target="鸟" id="513" weight="0.0095" />
+      <edge source="猿" target="啼" id="514" weight="0.0249" />
+      <edge source="茅" target="屋" id="515" weight="0.0084" />
+      <edge source="远" target="公" id="516" weight="0.0138" />
+      <edge source="远" target="客" id="517" weight="0.0212" />
+      <edge source="远" target="别" id="518" weight="1.5082" />
+      <edge source="苔" target="莓" id="519" weight="0.0111" />
+      <edge source="苔" target="绿" id="520" weight="0.014" />
+      <edge source="苔" target="藓" id="521" weight="0.0142" />
+      <edge source="泉" target="寒" id="522" weight="1.5054" />
+      <edge source="里" target="故" id="523" weight="0.0104" />
+      <edge source="留" target="连" id="524" weight="0.0088" />
+      <edge source="摇" target="落" id="525" weight="1.4936" />
+      <edge source="国" target="故" id="526" weight="0.0258" />
+      <edge source="国" target="去" id="527" weight="0.0318" />
+      <edge source="往" target="独" id="528" weight="1.5053" />
+      <edge source="辛" target="苦" id="529" weight="3.0272" />
+      <edge source="鸟" target="黄" id="530" weight="0.0154" />
+      <edge source="鸟" target="啼" id="531" weight="0.0234" />
+      <edge source="尊" target="酒" id="532" weight="0.0097" />
+      <edge source="酒" target="醒" id="533" weight="0.0238" />
+      <edge source="田" target="园" id="534" weight="0.0098" />
+      <edge source="园" target="故" id="535" weight="0.0146" />
+      <edge source="沾" target="巾" id="536" weight="0.0104" />
+      <edge source="沾" target="泪" id="537" weight="1.5105" />
+      <edge source="容" target="易" id="538" weight="0.0099" />
+      <edge source="鸡" target="鸣" id="539" weight="0.0099" />
+      <edge source="霓" target="裳" id="540" weight="0.01" />
+      <edge source="雁" target="鸿" id="541" weight="0.0119" />
+      <edge source="向" target="独" id="542" weight="1.5051" />
+      <edge source="闭" target="门" id="543" weight="0.0102" />
+      <edge source="洲" target="汀" id="544" weight="0.0161" />
+      <edge source="单" target="于" id="545" weight="0.0103" />
+      <edge source="百" target="战" id="546" weight="0.0192" />
+      <edge source="绿" target="杨" id="547" weight="0.0165" />
+      <edge source="杀" target="愁" id="548" weight="1.5103" />
+      <edge source="猛" target="虎" id="549" weight="0.0113" />
+      <edge source="思" target="客" id="550" weight="0.0159" />
+      <edge source="思" target="量" id="551" weight="0.0197" />
+      <edge source="知" target="音" id="552" weight="0.0116" />
+      <edge source="音" target="信" id="553" weight="0.0207" />
+      <edge source="巫" target="峡" id="554" weight="0.0116" />
+      <edge source="楚" target="客" id="555" weight="0.026" />
+      <edge source="送" target="客" id="556" weight="0.0119" />
+      <edge source="客" target="愁" id="557" weight="1.5129" />
+      <edge source="骨" target="肉" id="558" weight="0.0122" />
+      <edge source="薜" target="萝" id="559" weight="0.0122" />
+      <edge source="欲" target="尽" id="560" weight="0.0123" />
+      <edge source="欲" target="问" id="561" weight="0.0142" />
+      <edge source="欲" target="别" id="562" weight="1.5063" />
+      <edge source="居" target="士" id="563" weight="0.0135" />
+      <edge source="欹" target="枕" id="564" weight="0.0136" />
+      <edge source="阑" target="干" id="565" weight="0.0138" />
+      <edge source="画" target="屏" id="566" weight="0.0139" />
+      <edge source="怀" target="抱" id="567" weight="0.014" />
+      <edge source="火" target="烽" id="568" weight="0.0143" />
+      <edge source="露" target="湿" id="569" weight="0.0147" />
+      <edge source="露" target="滴" id="570" weight="0.0201" />
+      <edge source="黄" target="叶" id="571" weight="0.0215" />
+      <edge source="黄" target="昏" id="572" weight="1.5001" />
+      <edge source="洞" target="房" id="573" weight="0.0151" />
+      <edge source="叶" target="落" id="574" weight="3.0106" />
+      <edge source="争" target="奈" id="575" weight="0.0171" />
+      <edge source="牛" target="羊" id="576" weight="0.0173" />
+      <edge source="泪" target="满" id="577" weight="0.0184" />
+      <edge source="泪" target="垂" id="578" weight="1.4909" />
+      <edge source="泪" target="痕" id="579" weight="1.5265" />
+      <edge source="朱" target="弦" id="580" weight="0.0187" />
+      <edge source="征" target="战" id="581" weight="0.0189" />
+      <edge source="迢" target="递" id="582" weight="0.0203" />
+      <edge source="杜" target="鹃" id="583" weight="0.023" />
+      <edge source="那" target="堪" id="584" weight="0.0235" />
+      <edge source="呜" target="咽" id="585" weight="0.0345" />
+      <edge source="离" target="宫" id="586" weight="1.4779" />
+      <edge source="离" target="披" id="587" weight="1.4905" />
+      <edge source="离" target="群" id="588" weight="1.493" />
+      <edge source="离" target="忧" id="589" weight="1.5061" />
+      <edge source="离" target="别" id="590" weight="6.0" />
+      <edge source="离" target="恨" id="591" weight="3.0" />
+      <edge source="寒" target="食" id="592" weight="1.5044" />
+      <edge source="凉" target="荒" id="593" weight="1.5151" />
+      <edge source="凉" target="凄" id="594" weight="1.5248" />
+      <edge source="落" target="晖" id="595" weight="1.4957" />
+      <edge source="孤" target="峰" id="596" weight="1.4941" />
+      <edge source="孤" target="帆" id="597" weight="1.5148" />
+      <edge source="杳" target="冥" id="598" weight="1.4964" />
+      <edge source="独" target="立" id="599" weight="1.5009" />
+      <edge source="独" target="坐" id="600" weight="1.5028" />
+      <edge source="断" target="肠" id="601" weight="3.0604" />
+      <edge source="断" target="绝" id="602" weight="3.0" />
+      <edge source="茫" target="茫" id="603" weight="3.0" />
+      <edge source="萧" target="萧" id="604" weight="3.0" />
+      <edge source="寂" target="寞" id="605" weight="3.0" />
+    </edges>
+  </graph>
+</gexf>

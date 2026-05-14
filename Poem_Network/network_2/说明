@@ -1,0 +1,8 @@
+您的项目目录应该有以下文件：
+
+text
+D:\Python_Project\Poem_Network\
+├── cleaned_poetry_pairs.csv      # 清洗后的边数据（24,077条）
+├── community_assignment.csv      # 社区分配结果（668个节点）
+├── node_centralities.csv        # 节点中心性数据
+└── community_themes.csv         # 社区主题信息

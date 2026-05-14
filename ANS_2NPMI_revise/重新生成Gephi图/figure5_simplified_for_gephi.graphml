@@ -1,0 +1,5629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="weight_norm" attr.type="double" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="inner_degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="degree_all" attr.type="long" />
+  <key id="d0" for="node" attr.name="community" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="焚香">
+      <data key="d0">3</data>
+      <data key="d1">57</data>
+      <data key="d2">25</data>
+    </node>
+    <node id="楚客">
+      <data key="d0">1</data>
+      <data key="d1">86</data>
+      <data key="d2">47</data>
+    </node>
+    <node id="干戈">
+      <data key="d0">2</data>
+      <data key="d1">65</data>
+      <data key="d2">36</data>
+    </node>
+    <node id="将军">
+      <data key="d0">2</data>
+      <data key="d1">60</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="春色">
+      <data key="d0">0</data>
+      <data key="d1">110</data>
+      <data key="d2">76</data>
+    </node>
+    <node id="人间">
+      <data key="d0">3</data>
+      <data key="d1">79</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="芙蓉">
+      <data key="d0">0</data>
+      <data key="d1">86</data>
+      <data key="d2">63</data>
+    </node>
+    <node id="春风">
+      <data key="d0">0</data>
+      <data key="d1">155</data>
+      <data key="d2">101</data>
+    </node>
+    <node id="潇湘">
+      <data key="d0">1</data>
+      <data key="d1">77</data>
+      <data key="d2">47</data>
+    </node>
+    <node id="故人">
+      <data key="d0">1</data>
+      <data key="d1">87</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="东林">
+      <data key="d0">3</data>
+      <data key="d1">71</data>
+      <data key="d2">23</data>
+    </node>
+    <node id="杏花">
+      <data key="d0">0</data>
+      <data key="d1">92</data>
+      <data key="d2">61</data>
+    </node>
+    <node id="男儿">
+      <data key="d0">2</data>
+      <data key="d1">73</data>
+      <data key="d2">50</data>
+    </node>
+    <node id="长安">
+      <data key="d0">2</data>
+      <data key="d1">111</data>
+      <data key="d2">42</data>
+    </node>
+    <node id="山色">
+      <data key="d0">3</data>
+      <data key="d1">67</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="烟霞">
+      <data key="d0">3</data>
+      <data key="d1">58</data>
+      <data key="d2">25</data>
+    </node>
+    <node id="青楼">
+      <data key="d0">0</data>
+      <data key="d1">124</data>
+      <data key="d2">61</data>
+    </node>
+    <node id="须臾">
+      <data key="d0">2</data>
+      <data key="d1">90</data>
+      <data key="d2">48</data>
+    </node>
+    <node id="红粉">
+      <data key="d0">0</data>
+      <data key="d1">106</data>
+      <data key="d2">72</data>
+    </node>
+    <node id="归客">
+      <data key="d0">1</data>
+      <data key="d1">113</data>
+      <data key="d2">59</data>
+    </node>
+    <node id="秋色">
+      <data key="d0">1</data>
+      <data key="d1">84</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="世事">
+      <data key="d0">3</data>
+      <data key="d1">78</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="路傍">
+      <data key="d0">2</data>
+      <data key="d1">81</data>
+      <data key="d2">37</data>
+    </node>
+    <node id="天涯">
+      <data key="d0">1</data>
+      <data key="d1">93</data>
+      <data key="d2">54</data>
+    </node>
+    <node id="孤舟">
+      <data key="d0">1</data>
+      <data key="d1">104</data>
+      <data key="d2">60</data>
+    </node>
+    <node id="钓鱼">
+      <data key="d0">3</data>
+      <data key="d1">67</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="楚水">
+      <data key="d0">1</data>
+      <data key="d1">86</data>
+      <data key="d2">52</data>
+    </node>
+    <node id="回首">
+      <data key="d0">1</data>
+      <data key="d1">91</data>
+      <data key="d2">47</data>
+    </node>
+    <node id="桃李">
+      <data key="d0">0</data>
+      <data key="d1">95</data>
+      <data key="d2">65</data>
+    </node>
+    <node id="杨柳">
+      <data key="d0">0</data>
+      <data key="d1">141</data>
+      <data key="d2">97</data>
+    </node>
+    <node id="近来">
+      <data key="d0">3</data>
+      <data key="d1">74</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="鸳鸯">
+      <data key="d0">0</data>
+      <data key="d1">91</data>
+      <data key="d2">66</data>
+    </node>
+    <node id="别离">
+      <data key="d0">1</data>
+      <data key="d1">101</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="行路">
+      <data key="d0">2</data>
+      <data key="d1">65</data>
+      <data key="d2">37</data>
+    </node>
+    <node id="玉楼">
+      <data key="d0">0</data>
+      <data key="d1">96</data>
+      <data key="d2">61</data>
+    </node>
+    <node id="红尘">
+      <data key="d0">2</data>
+      <data key="d1">77</data>
+      <data key="d2">40</data>
+    </node>
+    <node id="梨花">
+      <data key="d0">0</data>
+      <data key="d1">98</data>
+      <data key="d2">64</data>
+    </node>
+    <node id="功名">
+      <data key="d0">2</data>
+      <data key="d1">74</data>
+      <data key="d2">45</data>
+    </node>
+    <node id="秋风">
+      <data key="d0">1</data>
+      <data key="d1">96</data>
+      <data key="d2">48</data>
+    </node>
+    <node id="他乡">
+      <data key="d0">1</data>
+      <data key="d1">93</data>
+      <data key="d2">52</data>
+    </node>
+    <node id="水声">
+      <data key="d0">3</data>
+      <data key="d1">76</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="花间">
+      <data key="d0">0</data>
+      <data key="d1">95</data>
+      <data key="d2">59</data>
+    </node>
+    <node id="猿声">
+      <data key="d0">1</data>
+      <data key="d1">92</data>
+      <data key="d2">51</data>
+    </node>
+    <node id="君王">
+      <data key="d0">0</data>
+      <data key="d1">90</data>
+      <data key="d2">62</data>
+    </node>
+    <node id="春草">
+      <data key="d0">1</data>
+      <data key="d1">101</data>
+      <data key="d2">46</data>
+    </node>
+    <node id="垂杨">
+      <data key="d0">0</data>
+      <data key="d1">112</data>
+      <data key="d2">68</data>
+    </node>
+    <node id="夕阳">
+      <data key="d0">1</data>
+      <data key="d1">94</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="山僧">
+      <data key="d0">3</data>
+      <data key="d1">76</data>
+      <data key="d2">35</data>
+    </node>
+    <node id="万里">
+      <data key="d0">1</data>
+      <data key="d1">130</data>
+      <data key="d2">73</data>
+    </node>
+    <node id="道士">
+      <data key="d0">3</data>
+      <data key="d1">56</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="汉家">
+      <data key="d0">2</data>
+      <data key="d1">75</data>
+      <data key="d2">36</data>
+    </node>
+    <node id="英雄">
+      <data key="d0">2</data>
+      <data key="d1">61</data>
+      <data key="d2">39</data>
+    </node>
+    <node id="洞庭">
+      <data key="d0">1</data>
+      <data key="d1">85</data>
+      <data key="d2">57</data>
+    </node>
+    <node id="颜色">
+      <data key="d0">2</data>
+      <data key="d1">88</data>
+      <data key="d2">37</data>
+    </node>
+    <node id="相识">
+      <data key="d0">2</data>
+      <data key="d1">94</data>
+      <data key="d2">37</data>
+    </node>
+    <node id="落花">
+      <data key="d0">0</data>
+      <data key="d1">122</data>
+      <data key="d2">76</data>
+    </node>
+    <node id="青山">
+      <data key="d0">1</data>
+      <data key="d1">96</data>
+      <data key="d2">47</data>
+    </node>
+    <node id="宫中">
+      <data key="d0">0</data>
+      <data key="d1">105</data>
+      <data key="d2">69</data>
+    </node>
+    <node id="相思">
+      <data key="d0">1</data>
+      <data key="d1">96</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="闲居">
+      <data key="d0">3</data>
+      <data key="d1">58</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="故国">
+      <data key="d0">1</data>
+      <data key="d1">88</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="千里">
+      <data key="d0">1</data>
+      <data key="d1">90</data>
+      <data key="d2">50</data>
+    </node>
+    <node id="丈夫">
+      <data key="d0">2</data>
+      <data key="d1">70</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="黄金">
+      <data key="d0">2</data>
+      <data key="d1">75</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="秋草">
+      <data key="d0">1</data>
+      <data key="d1">94</data>
+      <data key="d2">45</data>
+    </node>
+    <node id="白首">
+      <data key="d0">2</data>
+      <data key="d1">96</data>
+      <data key="d2">39</data>
+    </node>
+    <node id="白蘋">
+      <data key="d0">1</data>
+      <data key="d1">78</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="天台">
+      <data key="d0">3</data>
+      <data key="d1">52</data>
+      <data key="d2">29</data>
+    </node>
+    <node id="山中">
+      <data key="d0">3</data>
+      <data key="d1">52</data>
+      <data key="d2">23</data>
+    </node>
+    <node id="草堂">
+      <data key="d0">3</data>
+      <data key="d1">51</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="花满">
+      <data key="d0">0</data>
+      <data key="d1">112</data>
+      <data key="d2">62</data>
+    </node>
+    <node id="少年">
+      <data key="d0">2</data>
+      <data key="d1">94</data>
+      <data key="d2">46</data>
+    </node>
+    <node id="桃源">
+      <data key="d0">3</data>
+      <data key="d1">81</data>
+      <data key="d2">22</data>
+    </node>
+    <node id="汀洲">
+      <data key="d0">1</data>
+      <data key="d1">94</data>
+      <data key="d2">42</data>
+    </node>
+    <node id="花落">
+      <data key="d0">0</data>
+      <data key="d1">103</data>
+      <data key="d2">62</data>
+    </node>
+    <node id="单于">
+      <data key="d0">2</data>
+      <data key="d1">82</data>
+      <data key="d2">39</data>
+    </node>
+    <node id="陌上">
+      <data key="d0">0</data>
+      <data key="d1">108</data>
+      <data key="d2">61</data>
+    </node>
+    <node id="寒食">
+      <data key="d0">0</data>
+      <data key="d1">91</data>
+      <data key="d2">63</data>
+    </node>
+    <node id="落日">
+      <data key="d0">1</data>
+      <data key="d1">99</data>
+      <data key="d2">53</data>
+    </node>
+    <node id="人生">
+      <data key="d0">2</data>
+      <data key="d1">79</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="古来">
+      <data key="d0">2</data>
+      <data key="d1">74</data>
+      <data key="d2">41</data>
+    </node>
+    <node id="流水">
+      <data key="d0">3</data>
+      <data key="d1">85</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="肠断">
+      <data key="d0">0</data>
+      <data key="d1">113</data>
+      <data key="d2">66</data>
+    </node>
+    <node id="江上">
+      <data key="d0">1</data>
+      <data key="d1">99</data>
+      <data key="d2">58</data>
+    </node>
+    <node id="送客">
+      <data key="d0">1</data>
+      <data key="d1">93</data>
+      <data key="d2">48</data>
+    </node>
+    <node id="泉声">
+      <data key="d0">3</data>
+      <data key="d1">58</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="东风">
+      <data key="d0">0</data>
+      <data key="d1">110</data>
+      <data key="d2">80</data>
+    </node>
+    <node id="故乡">
+      <data key="d0">1</data>
+      <data key="d1">103</data>
+      <data key="d2">46</data>
+    </node>
+    <node id="白云">
+      <data key="d0">1</data>
+      <data key="d1">89</data>
+      <data key="d2">42</data>
+    </node>
+    <node id="吟诗">
+      <data key="d0">3</data>
+      <data key="d1">59</data>
+      <data key="d2">24</data>
+    </node>
+    <node id="断肠">
+      <data key="d0">0</data>
+      <data key="d1">108</data>
+      <data key="d2">59</data>
+    </node>
+    <node id="多情">
+      <data key="d0">0</data>
+      <data key="d1">95</data>
+      <data key="d2">59</data>
+    </node>
+    <node id="石上">
+      <data key="d0">3</data>
+      <data key="d1">65</data>
+      <data key="d2">24</data>
+    </node>
+    <node id="多病">
+      <data key="d0">3</data>
+      <data key="d1">66</data>
+      <data key="d2">22</data>
+    </node>
+    <node id="走马">
+      <data key="d0">2</data>
+      <data key="d1">104</data>
+      <data key="d2">41</data>
+    </node>
+    <node id="远山">
+      <data key="d0">3</data>
+      <data key="d1">65</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="云间">
+      <data key="d0">3</data>
+      <data key="d1">87</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="青苔">
+      <data key="d0">3</data>
+      <data key="d1">77</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="世上">
+      <data key="d0">2</data>
+      <data key="d1">68</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="歌舞">
+      <data key="d0">0</data>
+      <data key="d1">115</data>
+      <data key="d2">70</data>
+    </node>
+    <node id="相访">
+      <data key="d0">3</data>
+      <data key="d1">67</data>
+      <data key="d2">28</data>
+    </node>
+    <node id="路难">
+      <data key="d0">2</data>
+      <data key="d1">66</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="意气">
+      <data key="d0">2</data>
+      <data key="d1">78</data>
+      <data key="d2">40</data>
+    </node>
+    <node id="感激">
+      <data key="d0">2</data>
+      <data key="d1">56</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="咸阳">
+      <data key="d0">2</data>
+      <data key="d1">85</data>
+      <data key="d2">42</data>
+    </node>
+    <node id="物外">
+      <data key="d0">3</data>
+      <data key="d1">63</data>
+      <data key="d2">25</data>
+    </node>
+    <node id="他人">
+      <data key="d0">2</data>
+      <data key="d1">69</data>
+      <data key="d2">41</data>
+    </node>
+    <node id="富贵">
+      <data key="d0">2</data>
+      <data key="d1">71</data>
+      <data key="d2">53</data>
+    </node>
+    <node id="今日">
+      <data key="d0">2</data>
+      <data key="d1">101</data>
+      <data key="d2">36</data>
+    </node>
+    <node id="来往">
+      <data key="d0">3</data>
+      <data key="d1">76</data>
+      <data key="d2">22</data>
+    </node>
+    <node id="春来">
+      <data key="d0">0</data>
+      <data key="d1">89</data>
+      <data key="d2">63</data>
+    </node>
+    <node id="歌声">
+      <data key="d0">0</data>
+      <data key="d1">108</data>
+      <data key="d2">65</data>
+    </node>
+    <node id="夜雨">
+      <data key="d0">3</data>
+      <data key="d1">80</data>
+      <data key="d2">23</data>
+    </node>
+    <node id="离别">
+      <data key="d0">1</data>
+      <data key="d1">117</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="封侯">
+      <data key="d0">2</data>
+      <data key="d1">74</data>
+      <data key="d2">36</data>
+    </node>
+    <node id="莺啼">
+      <data key="d0">0</data>
+      <data key="d1">104</data>
+      <data key="d2">70</data>
+    </node>
+    <node id="残阳">
+      <data key="d0">3</data>
+      <data key="d1">79</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="美人">
+      <data key="d0">0</data>
+      <data key="d1">114</data>
+      <data key="d2">71</data>
+    </node>
+    <node id="罗衣">
+      <data key="d0">0</data>
+      <data key="d1">120</data>
+      <data key="d2">76</data>
+    </node>
+    <edge source="焚香" target="道士">
+      <data key="d3">0.493027</data>
+      <data key="d4">0.4765574823378292</data>
+    </edge>
+    <edge source="焚香" target="夜雨">
+      <data key="d3">0.36816</data>
+      <data key="d4">0.16810681290450072</data>
+    </edge>
+    <edge source="焚香" target="白云">
+      <data key="d3">0.359306</data>
+      <data key="d4">0.14623536386542169</data>
+    </edge>
+    <edge source="焚香" target="远山">
+      <data key="d3">0.346843</data>
+      <data key="d4">0.11544884146040217</data>
+    </edge>
+    <edge source="焚香" target="烟霞">
+      <data key="d3">0.346159</data>
+      <data key="d4">0.11375920162047326</data>
+    </edge>
+    <edge source="焚香" target="草堂">
+      <data key="d3">0.337935</data>
+      <data key="d4">0.09344399980238124</data>
+    </edge>
+    <edge source="焚香" target="桃源">
+      <data key="d3">0.331937</data>
+      <data key="d4">0.07862753816511035</data>
+    </edge>
+    <edge source="焚香" target="青山">
+      <data key="d3">0.329687</data>
+      <data key="d4">0.07306951237587075</data>
+    </edge>
+    <edge source="焚香" target="东林">
+      <data key="d3">0.318234</data>
+      <data key="d4">0.04477792599179884</data>
+    </edge>
+    <edge source="焚香" target="物外">
+      <data key="d3">0.313529</data>
+      <data key="d4">0.03315547650807764</data>
+    </edge>
+    <edge source="焚香" target="归客">
+      <data key="d3">0.308457</data>
+      <data key="d4">0.020626451262289337</data>
+    </edge>
+    <edge source="楚客" target="送客">
+      <data key="d3">0.458636</data>
+      <data key="d4">0.3916036757077219</data>
+    </edge>
+    <edge source="楚客" target="秋色">
+      <data key="d3">0.443866</data>
+      <data key="d4">0.35511832419346867</data>
+    </edge>
+    <edge source="楚客" target="白蘋">
+      <data key="d3">0.426107</data>
+      <data key="d4">0.3112494441974211</data>
+    </edge>
+    <edge source="楚客" target="孤舟">
+      <data key="d3">0.415465</data>
+      <data key="d4">0.2849612173311595</data>
+    </edge>
+    <edge source="楚客" target="潇湘">
+      <data key="d3">0.414713</data>
+      <data key="d4">0.2831036016007114</data>
+    </edge>
+    <edge source="楚客" target="春来">
+      <data key="d3">0.395602</data>
+      <data key="d4">0.23589496566375182</data>
+    </edge>
+    <edge source="楚客" target="落日">
+      <data key="d3">0.375557</data>
+      <data key="d4">0.1863791314658366</data>
+    </edge>
+    <edge source="楚客" target="万里">
+      <data key="d3">0.373845</data>
+      <data key="d4">0.18215009139864627</data>
+    </edge>
+    <edge source="楚客" target="春草">
+      <data key="d3">0.364699</data>
+      <data key="d4">0.1595573341238081</data>
+    </edge>
+    <edge source="楚客" target="洞庭">
+      <data key="d3">0.358944</data>
+      <data key="d4">0.14534113927177505</data>
+    </edge>
+    <edge source="楚客" target="千里">
+      <data key="d3">0.350889</data>
+      <data key="d4">0.12544340694629713</data>
+    </edge>
+    <edge source="楚客" target="秋草">
+      <data key="d3">0.349092</data>
+      <data key="d4">0.12100439701595772</data>
+    </edge>
+    <edge source="楚客" target="相思">
+      <data key="d3">0.34848</data>
+      <data key="d4">0.11949261400128454</data>
+    </edge>
+    <edge source="楚客" target="莺啼">
+      <data key="d3">0.3469</data>
+      <data key="d4">0.11558964478039617</data>
+    </edge>
+    <edge source="楚客" target="他乡">
+      <data key="d3">0.340888</data>
+      <data key="d4">0.10073859987154789</data>
+    </edge>
+    <edge source="楚客" target="故国">
+      <data key="d3">0.331609</data>
+      <data key="d4">0.07781730151672343</data>
+    </edge>
+    <edge source="楚客" target="白首">
+      <data key="d3">0.325419</data>
+      <data key="d4">0.06252655501210415</data>
+    </edge>
+    <edge source="楚客" target="江上">
+      <data key="d3">0.317454</data>
+      <data key="d4">0.04285114371819575</data>
+    </edge>
+    <edge source="楚客" target="夕阳">
+      <data key="d3">0.304628</data>
+      <data key="d4">0.011167926485845555</data>
+    </edge>
+    <edge source="楚客" target="流水">
+      <data key="d3">0.302637</data>
+      <data key="d4">0.00624969122078943</data>
+    </edge>
+    <edge source="干戈" target="封侯">
+      <data key="d3">0.421086</data>
+      <data key="d4">0.2988464008695223</data>
+    </edge>
+    <edge source="干戈" target="古来">
+      <data key="d3">0.378905</data>
+      <data key="d4">0.19464947384022527</data>
+    </edge>
+    <edge source="干戈" target="钓鱼">
+      <data key="d3">0.376113</data>
+      <data key="d4">0.1877525813941998</data>
+    </edge>
+    <edge source="干戈" target="歌舞">
+      <data key="d3">0.370845</data>
+      <data key="d4">0.1747393903463267</data>
+    </edge>
+    <edge source="干戈" target="近来">
+      <data key="d3">0.367997</data>
+      <data key="d4">0.16770416481399145</data>
+    </edge>
+    <edge source="干戈" target="将军">
+      <data key="d3">0.366377</data>
+      <data key="d4">0.16370238624573885</data>
+    </edge>
+    <edge source="干戈" target="男儿">
+      <data key="d3">0.359195</data>
+      <data key="d4">0.1459611679264858</data>
+    </edge>
+    <edge source="干戈" target="英雄">
+      <data key="d3">0.325538</data>
+      <data key="d4">0.06282051282051278</data>
+    </edge>
+    <edge source="干戈" target="功名">
+      <data key="d3">0.318252</data>
+      <data key="d4">0.04482239019811266</data>
+    </edge>
+    <edge source="干戈" target="单于">
+      <data key="d3">0.314135</data>
+      <data key="d4">0.03465243812064618</data>
+    </edge>
+    <edge source="干戈" target="泉声">
+      <data key="d3">0.312802</data>
+      <data key="d4">0.03135961661973226</data>
+    </edge>
+    <edge source="干戈" target="行路">
+      <data key="d3">0.311002</data>
+      <data key="d4">0.02691319598834047</data>
+    </edge>
+    <edge source="干戈" target="红尘">
+      <data key="d3">0.309549</data>
+      <data key="d4">0.023323946445333747</data>
+    </edge>
+    <edge source="干戈" target="咸阳">
+      <data key="d3">0.305787</data>
+      <data key="d4">0.014030927325724923</data>
+    </edge>
+    <edge source="将军" target="汉家">
+      <data key="d3">0.525537</data>
+      <data key="d4">0.5568647794081321</data>
+    </edge>
+    <edge source="将军" target="单于">
+      <data key="d3">0.512997</data>
+      <data key="d4">0.5258880490094364</data>
+    </edge>
+    <edge source="将军" target="封侯">
+      <data key="d3">0.484707</data>
+      <data key="d4">0.45600513808606297</data>
+    </edge>
+    <edge source="将军" target="英雄">
+      <data key="d3">0.445344</data>
+      <data key="d4">0.3587693295785782</data>
+    </edge>
+    <edge source="将军" target="走马">
+      <data key="d3">0.440554</data>
+      <data key="d4">0.3469369102317079</data>
+    </edge>
+    <edge source="将军" target="万里">
+      <data key="d3">0.403254</data>
+      <data key="d4">0.25479719381453486</data>
+    </edge>
+    <edge source="将军" target="意气">
+      <data key="d3">0.396942</data>
+      <data key="d4">0.23920507880045455</data>
+    </edge>
+    <edge source="将军" target="路傍">
+      <data key="d3">0.393821</data>
+      <data key="d4">0.23149547947235802</data>
+    </edge>
+    <edge source="将军" target="功名">
+      <data key="d3">0.384439</data>
+      <data key="d4">0.20831974704807069</data>
+    </edge>
+    <edge source="将军" target="少年">
+      <data key="d3">0.361437</data>
+      <data key="d4">0.15149943184625267</data>
+    </edge>
+    <edge source="将军" target="须臾">
+      <data key="d3">0.334331</data>
+      <data key="d4">0.08454127760486137</data>
+    </edge>
+    <edge source="将军" target="咸阳">
+      <data key="d3">0.322402</data>
+      <data key="d4">0.05507385998715481</data>
+    </edge>
+    <edge source="将军" target="古来">
+      <data key="d3">0.313229</data>
+      <data key="d4">0.03241440640284563</data>
+    </edge>
+    <edge source="将军" target="男儿">
+      <data key="d3">0.312599</data>
+      <data key="d4">0.030858159181858615</data>
+    </edge>
+    <edge source="将军" target="歌舞">
+      <data key="d3">0.307112</data>
+      <data key="d4">0.017303986957166107</data>
+    </edge>
+    <edge source="将军" target="红粉">
+      <data key="d3">0.305606</data>
+      <data key="d4">0.013583815028901677</data>
+    </edge>
+    <edge source="将军" target="白首">
+      <data key="d3">0.303026</data>
+      <data key="d4">0.007210612123906934</data>
+    </edge>
+    <edge source="春色" target="东风">
+      <data key="d3">0.434552</data>
+      <data key="d4">0.3321105676597006</data>
+    </edge>
+    <edge source="春色" target="杨柳">
+      <data key="d3">0.430389</data>
+      <data key="d4">0.32182698483276523</data>
+    </edge>
+    <edge source="春色" target="离别">
+      <data key="d3">0.393373</data>
+      <data key="d4">0.23038881478187828</data>
+    </edge>
+    <edge source="春色" target="花间">
+      <data key="d3">0.373861</data>
+      <data key="d4">0.182189615137592</data>
+    </edge>
+    <edge source="春色" target="送客">
+      <data key="d3">0.370087</data>
+      <data key="d4">0.17286695321377402</data>
+    </edge>
+    <edge source="春色" target="肠断">
+      <data key="d3">0.362628</data>
+      <data key="d4">0.1544414801640235</data>
+    </edge>
+    <edge source="春色" target="回首">
+      <data key="d3">0.360452</data>
+      <data key="d4">0.1490662516674077</data>
+    </edge>
+    <edge source="春色" target="相识">
+      <data key="d3">0.359073</data>
+      <data key="d4">0.14565979941702478</data>
+    </edge>
+    <edge source="春色" target="花落">
+      <data key="d3">0.35687</data>
+      <data key="d4">0.14021787461093824</data>
+    </edge>
+    <edge source="春色" target="莺啼">
+      <data key="d3">0.3556</data>
+      <data key="d4">0.13708067783212297</data>
+    </edge>
+    <edge source="春色" target="垂杨">
+      <data key="d3">0.35322</data>
+      <data key="d4">0.13120152166394933</data>
+    </edge>
+    <edge source="春色" target="梨花">
+      <data key="d3">0.351082</data>
+      <data key="d4">0.12592016204732967</data>
+    </edge>
+    <edge source="春色" target="青楼">
+      <data key="d3">0.348988</data>
+      <data key="d4">0.12074749271281067</data>
+    </edge>
+    <edge source="春色" target="宫中">
+      <data key="d3">0.339739</data>
+      <data key="d4">0.09790030136850947</data>
+    </edge>
+    <edge source="春色" target="玉楼">
+      <data key="d3">0.338597</data>
+      <data key="d4">0.09507929450125975</data>
+    </edge>
+    <edge source="春色" target="芙蓉">
+      <data key="d3">0.333607</data>
+      <data key="d4">0.08275282841756824</data>
+    </edge>
+    <edge source="春色" target="君王">
+      <data key="d3">0.330758</data>
+      <data key="d4">0.0757151326515488</data>
+    </edge>
+    <edge source="春色" target="长安">
+      <data key="d3">0.329242</data>
+      <data key="d4">0.07197025838644328</data>
+    </edge>
+    <edge source="春色" target="杏花">
+      <data key="d3">0.327811</data>
+      <data key="d4">0.06843535398448695</data>
+    </edge>
+    <edge source="春色" target="寒食">
+      <data key="d3">0.320878</data>
+      <data key="d4">0.05130922385257642</data>
+    </edge>
+    <edge source="春色" target="夕阳">
+      <data key="d3">0.318076</data>
+      <data key="d4">0.04438762906971003</data>
+    </edge>
+    <edge source="春色" target="断肠">
+      <data key="d3">0.316104</data>
+      <data key="d4">0.039516328244651906</data>
+    </edge>
+    <edge source="春色" target="歌声">
+      <data key="d3">0.315169</data>
+      <data key="d4">0.037206659750012264</data>
+    </edge>
+    <edge source="春色" target="行路">
+      <data key="d3">0.30981</data>
+      <data key="d4">0.02396867743688544</data>
+    </edge>
+    <edge source="春色" target="汉家">
+      <data key="d3">0.30468</data>
+      <data key="d4">0.011296378637419086</data>
+    </edge>
+    <edge source="人间" target="物外">
+      <data key="d3">0.452385</data>
+      <data key="d4">0.3761622449483721</data>
+    </edge>
+    <edge source="人间" target="世上">
+      <data key="d3">0.447467</data>
+      <data key="d4">0.3640136356899363</data>
+    </edge>
+    <edge source="人间" target="流水">
+      <data key="d3">0.363299</data>
+      <data key="d4">0.15609900696605894</data>
+    </edge>
+    <edge source="人间" target="烟霞">
+      <data key="d3">0.344561</data>
+      <data key="d4">0.10981176819327108</data>
+    </edge>
+    <edge source="人间" target="春风">
+      <data key="d3">0.339436</data>
+      <data key="d4">0.0971518205622252</data>
+    </edge>
+    <edge source="人间" target="白云">
+      <data key="d3">0.335371</data>
+      <data key="d4">0.08711032063633212</data>
+    </edge>
+    <edge source="人间" target="世事">
+      <data key="d3">0.333702</data>
+      <data key="d4">0.0829875006175584</data>
+    </edge>
+    <edge source="人间" target="山僧">
+      <data key="d3">0.331626</data>
+      <data key="d4">0.0778592954893532</data>
+    </edge>
+    <edge source="人间" target="富贵">
+      <data key="d3">0.325909</data>
+      <data key="d4">0.06373696951731632</data>
+    </edge>
+    <edge source="人间" target="道士">
+      <data key="d3">0.320983</data>
+      <data key="d4">0.05156859838940766</data>
+    </edge>
+    <edge source="人间" target="离别">
+      <data key="d3">0.31872</data>
+      <data key="d4">0.04597845956227457</data>
+    </edge>
+    <edge source="人间" target="天台">
+      <data key="d3">0.308588</data>
+      <data key="d4">0.020950051874907272</data>
+    </edge>
+    <edge source="芙蓉" target="杨柳">
+      <data key="d3">0.426713</data>
+      <data key="d4">0.31274640580998964</data>
+    </edge>
+    <edge source="芙蓉" target="美人">
+      <data key="d3">0.420717</data>
+      <data key="d4">0.297934884640087</data>
+    </edge>
+    <edge source="芙蓉" target="鸳鸯">
+      <data key="d3">0.412993</data>
+      <data key="d4">0.2788547996640482</data>
+    </edge>
+    <edge source="芙蓉" target="宫中">
+      <data key="d3">0.412901</data>
+      <data key="d4">0.2786275381651105</data>
+    </edge>
+    <edge source="芙蓉" target="桃李">
+      <data key="d3">0.412638</data>
+      <data key="d4">0.2779778667061904</data>
+    </edge>
+    <edge source="芙蓉" target="垂杨">
+      <data key="d3">0.392718</data>
+      <data key="d4">0.22877081171878863</data>
+    </edge>
+    <edge source="芙蓉" target="红粉">
+      <data key="d3">0.385394</data>
+      <data key="d4">0.2106788202163925</data>
+    </edge>
+    <edge source="芙蓉" target="歌舞">
+      <data key="d3">0.370991</data>
+      <data key="d4">0.17510004446420635</data>
+    </edge>
+    <edge source="芙蓉" target="玉楼">
+      <data key="d3">0.367041</data>
+      <data key="d4">0.16534262141198558</data>
+    </edge>
+    <edge source="芙蓉" target="罗衣">
+      <data key="d3">0.363394</data>
+      <data key="d4">0.1563336791660491</data>
+    </edge>
+    <edge source="芙蓉" target="颜色">
+      <data key="d3">0.336246</data>
+      <data key="d4">0.08927177510992534</data>
+    </edge>
+    <edge source="芙蓉" target="秋草">
+      <data key="d3">0.32375</data>
+      <data key="d4">0.0584037349933303</data>
+    </edge>
+    <edge source="芙蓉" target="君王">
+      <data key="d3">0.323077</data>
+      <data key="d4">0.05674126772392667</data>
+    </edge>
+    <edge source="芙蓉" target="江上">
+      <data key="d3">0.303655</data>
+      <data key="d4">0.00876438911120991</data>
+    </edge>
+    <edge source="芙蓉" target="东风">
+      <data key="d3">0.301169</data>
+      <data key="d4">0.002623388172521139</data>
+    </edge>
+    <edge source="春风" target="杨柳">
+      <data key="d3">0.525543</data>
+      <data key="d4">0.5568796008102367</data>
+    </edge>
+    <edge source="春风" target="梨花">
+      <data key="d3">0.485965</data>
+      <data key="d4">0.4591126920606689</data>
+    </edge>
+    <edge source="春风" target="桃李">
+      <data key="d3">0.451071</data>
+      <data key="d4">0.37291635788745614</data>
+    </edge>
+    <edge source="春风" target="青楼">
+      <data key="d3">0.449624</data>
+      <data key="d4">0.3693419297465541</data>
+    </edge>
+    <edge source="春风" target="落花">
+      <data key="d3">0.443646</data>
+      <data key="d4">0.35457487278296523</data>
+    </edge>
+    <edge source="春风" target="罗衣">
+      <data key="d3">0.435135</data>
+      <data key="d4">0.3335507138975347</data>
+    </edge>
+    <edge source="春风" target="花落">
+      <data key="d3">0.426417</data>
+      <data key="d4">0.31201521663949405</data>
+    </edge>
+    <edge source="春风" target="寒食">
+      <data key="d3">0.426414</data>
+      <data key="d4">0.3120078059384418</data>
+    </edge>
+    <edge source="春风" target="莺啼">
+      <data key="d3">0.424732</data>
+      <data key="d4">0.3078528728817746</data>
+    </edge>
+    <edge source="春风" target="花满">
+      <data key="d3">0.399192</data>
+      <data key="d4">0.24476310458969416</data>
+    </edge>
+    <edge source="春风" target="杏花">
+      <data key="d3">0.395002</data>
+      <data key="d4">0.23441282545328793</data>
+    </edge>
+    <edge source="春风" target="美人">
+      <data key="d3">0.388731</data>
+      <data key="d4">0.2189219900202559</data>
+    </edge>
+    <edge source="春风" target="肠断">
+      <data key="d3">0.384728</data>
+      <data key="d4">0.20903364458277757</data>
+    </edge>
+    <edge source="春风" target="歌舞">
+      <data key="d3">0.380535</data>
+      <data key="d4">0.19867595474531893</data>
+    </edge>
+    <edge source="春风" target="君王">
+      <data key="d3">0.378944</data>
+      <data key="d4">0.19474581295390544</data>
+    </edge>
+    <edge source="春风" target="断肠">
+      <data key="d3">0.376934</data>
+      <data key="d4">0.1897806432488513</data>
+    </edge>
+    <edge source="春风" target="玉楼">
+      <data key="d3">0.372076</data>
+      <data key="d4">0.17778024801146192</data>
+    </edge>
+    <edge source="春风" target="相思">
+      <data key="d3">0.357501</data>
+      <data key="d4">0.1417765920656094</data>
+    </edge>
+    <edge source="春风" target="流水">
+      <data key="d3">0.352951</data>
+      <data key="d4">0.13053702880292478</data>
+    </edge>
+    <edge source="春风" target="宫中">
+      <data key="d3">0.351613</data>
+      <data key="d4">0.12723185613359025</data>
+    </edge>
+    <edge source="春风" target="今日">
+      <data key="d3">0.348034</data>
+      <data key="d4">0.11839088977817303</data>
+    </edge>
+    <edge source="春风" target="夜雨">
+      <data key="d3">0.343529</data>
+      <data key="d4">0.10726248703127307</data>
+    </edge>
+    <edge source="春风" target="长安">
+      <data key="d3">0.343369</data>
+      <data key="d4">0.10686724964181604</data>
+    </edge>
+    <edge source="春风" target="花间">
+      <data key="d3">0.34109</data>
+      <data key="d4">0.10123758707573735</data>
+    </edge>
+    <edge source="春风" target="鸳鸯">
+      <data key="d3">0.340773</data>
+      <data key="d4">0.10045452299787556</data>
+    </edge>
+    <edge source="春风" target="落日">
+      <data key="d3">0.340551</data>
+      <data key="d4">0.09990613112000392</data>
+    </edge>
+    <edge source="春风" target="走马">
+      <data key="d3">0.33713</data>
+      <data key="d4">0.0914554616866755</data>
+    </edge>
+    <edge source="春风" target="陌上">
+      <data key="d3">0.333962</data>
+      <data key="d4">0.08362976137542605</data>
+    </edge>
+    <edge source="春风" target="离别">
+      <data key="d3">0.331675</data>
+      <data key="d4">0.07798033693987448</data>
+    </edge>
+    <edge source="春风" target="白蘋">
+      <data key="d3">0.328096</data>
+      <data key="d4">0.06913937058445727</data>
+    </edge>
+    <edge source="春风" target="人生">
+      <data key="d3">0.326932</data>
+      <data key="d4">0.06626401857615728</data>
+    </edge>
+    <edge source="春风" target="别离">
+      <data key="d3">0.326709</data>
+      <data key="d4">0.06571315646460159</data>
+    </edge>
+    <edge source="春风" target="近来">
+      <data key="d3">0.322902</data>
+      <data key="d4">0.056308976829208074</data>
+    </edge>
+    <edge source="春风" target="江上">
+      <data key="d3">0.322791</data>
+      <data key="d4">0.05603478089027218</data>
+    </edge>
+    <edge source="春风" target="多情">
+      <data key="d3">0.318515</data>
+      <data key="d4">0.04547206165703271</data>
+    </edge>
+    <edge source="春风" target="相识">
+      <data key="d3">0.314528</data>
+      <data key="d4">0.03562323995849998</data>
+    </edge>
+    <edge source="春风" target="垂杨">
+      <data key="d3">0.311106</data>
+      <data key="d4">0.02717010029148753</data>
+    </edge>
+    <edge source="春风" target="世事">
+      <data key="d3">0.305424</data>
+      <data key="d4">0.013134232498394252</data>
+    </edge>
+    <edge source="春风" target="青山">
+      <data key="d3">0.30319</data>
+      <data key="d4">0.007615730448100397</data>
+    </edge>
+    <edge source="春风" target="来往">
+      <data key="d3">0.302523</data>
+      <data key="d4">0.00596808458080128</data>
+    </edge>
+    <edge source="潇湘" target="洞庭">
+      <data key="d3">0.582914</data>
+      <data key="d4">0.6985993775011118</data>
+    </edge>
+    <edge source="潇湘" target="夕阳">
+      <data key="d3">0.415762</data>
+      <data key="d4">0.2856948767353392</data>
+    </edge>
+    <edge source="潇湘" target="白蘋">
+      <data key="d3">0.405385</data>
+      <data key="d4">0.2600612617953658</data>
+    </edge>
+    <edge source="潇湘" target="万里">
+      <data key="d3">0.402346</data>
+      <data key="d4">0.2525542216293661</data>
+    </edge>
+    <edge source="潇湘" target="楚水">
+      <data key="d3">0.395413</data>
+      <data key="d4">0.2354280914974557</data>
+    </edge>
+    <edge source="潇湘" target="故乡">
+      <data key="d3">0.392721</data>
+      <data key="d4">0.2287782224198409</data>
+    </edge>
+    <edge source="潇湘" target="天涯">
+      <data key="d3">0.37569</data>
+      <data key="d4">0.18670767254582288</data>
+    </edge>
+    <edge source="潇湘" target="归客">
+      <data key="d3">0.369019</data>
+      <data key="d4">0.17022874363914822</data>
+    </edge>
+    <edge source="潇湘" target="断肠">
+      <data key="d3">0.366076</data>
+      <data key="d4">0.1629588459068228</data>
+    </edge>
+    <edge source="潇湘" target="猿声">
+      <data key="d3">0.360571</data>
+      <data key="d4">0.14936020947581632</data>
+    </edge>
+    <edge source="潇湘" target="落花">
+      <data key="d3">0.337585</data>
+      <data key="d4">0.09257941801294406</data>
+    </edge>
+    <edge source="潇湘" target="秋色">
+      <data key="d3">0.336309</data>
+      <data key="d4">0.08942739983202415</data>
+    </edge>
+    <edge source="潇湘" target="汀洲">
+      <data key="d3">0.326881</data>
+      <data key="d4">0.06613803665826778</data>
+    </edge>
+    <edge source="潇湘" target="江上">
+      <data key="d3">0.326842</data>
+      <data key="d4">0.06604169754458775</data>
+    </edge>
+    <edge source="潇湘" target="秋草">
+      <data key="d3">0.325779</data>
+      <data key="d4">0.06341583913838243</data>
+    </edge>
+    <edge source="潇湘" target="别离">
+      <data key="d3">0.321456</data>
+      <data key="d4">0.05273701892199004</data>
+    </edge>
+    <edge source="潇湘" target="夜雨">
+      <data key="d3">0.318991</data>
+      <data key="d4">0.046647892890667494</data>
+    </edge>
+    <edge source="潇湘" target="意气">
+      <data key="d3">0.318177</data>
+      <data key="d4">0.044637122671804697</data>
+    </edge>
+    <edge source="潇湘" target="离别">
+      <data key="d3">0.310171</data>
+      <data key="d4">0.02486043179684789</data>
+    </edge>
+    <edge source="潇湘" target="孤舟">
+      <data key="d3">0.308444</data>
+      <data key="d4">0.020594338224395988</data>
+    </edge>
+    <edge source="潇湘" target="相识">
+      <data key="d3">0.305626</data>
+      <data key="d4">0.013633219702583856</data>
+    </edge>
+    <edge source="潇湘" target="千里">
+      <data key="d3">0.305422</data>
+      <data key="d4">0.013129292031026172</data>
+    </edge>
+    <edge source="潇湘" target="杏花">
+      <data key="d3">0.303763</data>
+      <data key="d4">0.009031174349093406</data>
+    </edge>
+    <edge source="潇湘" target="鸳鸯">
+      <data key="d3">0.302502</data>
+      <data key="d4">0.005916209673435059</data>
+    </edge>
+    <edge source="故人" target="相思">
+      <data key="d3">0.432047</data>
+      <data key="d4">0.3259226322810138</data>
+    </edge>
+    <edge source="故人" target="秋草">
+      <data key="d3">0.411957</data>
+      <data key="d4">0.2762956375673139</data>
+    </edge>
+    <edge source="故人" target="天涯">
+      <data key="d3">0.39041</data>
+      <data key="d4">0.2230695123758707</data>
+    </edge>
+    <edge source="故人" target="江上">
+      <data key="d3">0.387716</data>
+      <data key="d4">0.21641470283088782</data>
+    </edge>
+    <edge source="故人" target="青山">
+      <data key="d3">0.379036</data>
+      <data key="d4">0.19497307445284318</data>
+    </edge>
+    <edge source="故人" target="长安">
+      <data key="d3">0.35486</data>
+      <data key="d4">0.1352527049058841</data>
+    </edge>
+    <edge source="故人" target="归客">
+      <data key="d3">0.35132</data>
+      <data key="d4">0.12650807766414707</data>
+    </edge>
+    <edge source="故人" target="行路">
+      <data key="d3">0.334756</data>
+      <data key="d4">0.08559112692060666</data>
+    </edge>
+    <edge source="故人" target="万里">
+      <data key="d3">0.332955</data>
+      <data key="d4">0.08114223605553084</data>
+    </edge>
+    <edge source="故人" target="回首">
+      <data key="d3">0.332356</data>
+      <data key="d4">0.079662566078751</data>
+    </edge>
+    <edge source="故人" target="今日">
+      <data key="d3">0.330141</data>
+      <data key="d4">0.07419099846845513</data>
+    </edge>
+    <edge source="故人" target="白蘋">
+      <data key="d3">0.328187</data>
+      <data key="d4">0.06936416184971098</data>
+    </edge>
+    <edge source="故人" target="千里">
+      <data key="d3">0.322456</data>
+      <data key="d4">0.05520725260609656</data>
+    </edge>
+    <edge source="故人" target="山中">
+      <data key="d3">0.320972</data>
+      <data key="d4">0.05154142581888239</data>
+    </edge>
+    <edge source="故人" target="他乡">
+      <data key="d3">0.319753</data>
+      <data key="d4">0.04853021095795662</data>
+    </edge>
+    <edge source="故人" target="多病">
+      <data key="d3">0.310399</data>
+      <data key="d4">0.02542364507682419</data>
+    </edge>
+    <edge source="故人" target="夜雨">
+      <data key="d3">0.307779</data>
+      <data key="d4">0.018951632824465225</data>
+    </edge>
+    <edge source="故人" target="走马">
+      <data key="d3">0.306772</data>
+      <data key="d4">0.016464107504569878</data>
+    </edge>
+    <edge source="故人" target="落日">
+      <data key="d3">0.304081</data>
+      <data key="d4">0.009816708660639242</data>
+    </edge>
+    <edge source="故人" target="草堂">
+      <data key="d3">0.300183</data>
+      <data key="d4">0.00018773775999200877</data>
+    </edge>
+    <edge source="东林" target="泉声">
+      <data key="d3">0.410966</data>
+      <data key="d4">0.2738476359863643</data>
+    </edge>
+    <edge source="东林" target="山僧">
+      <data key="d3">0.402704</data>
+      <data key="d4">0.2534385652882763</data>
+    </edge>
+    <edge source="东林" target="远山">
+      <data key="d3">0.394226</data>
+      <data key="d4">0.23249592411442127</data>
+    </edge>
+    <edge source="东林" target="玉楼">
+      <data key="d3">0.369478</data>
+      <data key="d4">0.17136258090015308</data>
+    </edge>
+    <edge source="东林" target="近来">
+      <data key="d3">0.357439</data>
+      <data key="d4">0.1416234375771948</data>
+    </edge>
+    <edge source="东林" target="残阳">
+      <data key="d3">0.347992</data>
+      <data key="d4">0.11828713996344058</data>
+    </edge>
+    <edge source="东林" target="青山">
+      <data key="d3">0.346969</data>
+      <data key="d4">0.11576009090459963</data>
+    </edge>
+    <edge source="东林" target="夜雨">
+      <data key="d3">0.344826</data>
+      <data key="d4">0.11046638011955934</data>
+    </edge>
+    <edge source="东林" target="草堂">
+      <data key="d3">0.339535</data>
+      <data key="d4">0.09739637369695166</data>
+    </edge>
+    <edge source="东林" target="流水">
+      <data key="d3">0.331307</data>
+      <data key="d4">0.07707129094412334</data>
+    </edge>
+    <edge source="东林" target="物外">
+      <data key="d3">0.328351</data>
+      <data key="d4">0.06976928017390444</data>
+    </edge>
+    <edge source="东林" target="汀洲">
+      <data key="d3">0.320042</data>
+      <data key="d4">0.04924410849266336</data>
+    </edge>
+    <edge source="东林" target="白云">
+      <data key="d3">0.319486</data>
+      <data key="d4">0.04787065856430014</data>
+    </edge>
+    <edge source="东林" target="水声">
+      <data key="d3">0.318464</data>
+      <data key="d4">0.045346079739143355</data>
+    </edge>
+    <edge source="东林" target="猿声">
+      <data key="d3">0.315385</data>
+      <data key="d4">0.037740230225779395</data>
+    </edge>
+    <edge source="东林" target="落日">
+      <data key="d3">0.308517</data>
+      <data key="d4">0.020774665283335738</data>
+    </edge>
+    <edge source="东林" target="落花">
+      <data key="d3">0.304367</data>
+      <data key="d4">0.010523195494293727</data>
+    </edge>
+    <edge source="东林" target="春草">
+      <data key="d3">0.302579</data>
+      <data key="d4">0.006106417667111246</data>
+    </edge>
+    <edge source="杏花" target="寒食">
+      <data key="d3">0.500971</data>
+      <data key="d4">0.4961810187243715</data>
+    </edge>
+    <edge source="杏花" target="东风">
+      <data key="d3">0.460303</data>
+      <data key="d4">0.39572155525912756</data>
+    </edge>
+    <edge source="杏花" target="断肠">
+      <data key="d3">0.455425</data>
+      <data key="d4">0.383671755348056</data>
+    </edge>
+    <edge source="杏花" target="多情">
+      <data key="d3">0.434635</data>
+      <data key="d4">0.3323155970554814</data>
+    </edge>
+    <edge source="杏花" target="春来">
+      <data key="d3">0.408724</data>
+      <data key="d4">0.26830937206659744</data>
+    </edge>
+    <edge source="杏花" target="杨柳">
+      <data key="d3">0.396683</data>
+      <data key="d4">0.23856528827627094</data>
+    </edge>
+    <edge source="杏花" target="别离">
+      <data key="d3">0.392277</data>
+      <data key="d4">0.2276814386640976</data>
+    </edge>
+    <edge source="杏花" target="歌声">
+      <data key="d3">0.382036</data>
+      <data key="d4">0.20238377550516273</data>
+    </edge>
+    <edge source="杏花" target="梨花">
+      <data key="d3">0.368885</data>
+      <data key="d4">0.16989773232547803</data>
+    </edge>
+    <edge source="杏花" target="肠断">
+      <data key="d3">0.352238</data>
+      <data key="d4">0.12877575218615678</data>
+    </edge>
+    <edge source="杏花" target="罗衣">
+      <data key="d3">0.351519</data>
+      <data key="d4">0.12699965416728426</data>
+    </edge>
+    <edge source="杏花" target="千里">
+      <data key="d3">0.350694</data>
+      <data key="d4">0.12496171137789634</data>
+    </edge>
+    <edge source="杏花" target="鸳鸯">
+      <data key="d3">0.347614</data>
+      <data key="d4">0.11735339163084821</data>
+    </edge>
+    <edge source="杏花" target="今日">
+      <data key="d3">0.324885</data>
+      <data key="d4">0.06120745022479119</data>
+    </edge>
+    <edge source="杏花" target="世上">
+      <data key="d3">0.319843</data>
+      <data key="d4">0.04875253198952616</data>
+    </edge>
+    <edge source="杏花" target="草堂">
+      <data key="d3">0.31962</data>
+      <data key="d4">0.04820166987797047</data>
+    </edge>
+    <edge source="杏花" target="道士">
+      <data key="d3">0.310906</data>
+      <data key="d4">0.026676053554666283</data>
+    </edge>
+    <edge source="杏花" target="红粉">
+      <data key="d3">0.309468</data>
+      <data key="d4">0.023123857516921125</data>
+    </edge>
+    <edge source="男儿" target="功名">
+      <data key="d3">0.500461</data>
+      <data key="d4">0.49492119954547714</data>
+    </edge>
+    <edge source="男儿" target="英雄">
+      <data key="d3">0.484154</data>
+      <data key="d4">0.454639098858752</data>
+    </edge>
+    <edge source="男儿" target="封侯">
+      <data key="d3">0.458623</data>
+      <data key="d4">0.39157156266982857</data>
+    </edge>
+    <edge source="男儿" target="丈夫">
+      <data key="d3">0.446809</data>
+      <data key="d4">0.36238822192579423</data>
+    </edge>
+    <edge source="男儿" target="富贵">
+      <data key="d3">0.400858</data>
+      <data key="d4">0.2488785139074156</data>
+    </edge>
+    <edge source="男儿" target="颜色">
+      <data key="d3">0.39782</data>
+      <data key="d4">0.24137394397510006</data>
+    </edge>
+    <edge source="男儿" target="单于">
+      <data key="d3">0.371023</data>
+      <data key="d4">0.1751790919420977</data>
+    </edge>
+    <edge source="男儿" target="人生">
+      <data key="d3">0.360959</data>
+      <data key="d4">0.15031866014524967</data>
+    </edge>
+    <edge source="男儿" target="走马">
+      <data key="d3">0.343755</data>
+      <data key="d4">0.10782075984388116</data>
+    </edge>
+    <edge source="男儿" target="肠断">
+      <data key="d3">0.33275</data>
+      <data key="d4">0.08063583815028898</data>
+    </edge>
+    <edge source="男儿" target="花落">
+      <data key="d3">0.321953</data>
+      <data key="d4">0.05396472506299091</data>
+    </edge>
+    <edge source="男儿" target="闲居">
+      <data key="d3">0.310404</data>
+      <data key="d4">0.025435996245244806</data>
+    </edge>
+    <edge source="男儿" target="咸阳">
+      <data key="d3">0.310049</data>
+      <data key="d4">0.024559063287387006</data>
+    </edge>
+    <edge source="男儿" target="桃李">
+      <data key="d3">0.307389</data>
+      <data key="d4">0.01798824168766368</data>
+    </edge>
+    <edge source="长安" target="走马">
+      <data key="d3">0.440917</data>
+      <data key="d4">0.3478336050590386</data>
+    </edge>
+    <edge source="长安" target="红尘">
+      <data key="d3">0.439101</data>
+      <data key="d4">0.3433476606887012</data>
+    </edge>
+    <edge source="长安" target="行路">
+      <data key="d3">0.430996</data>
+      <data key="d4">0.3233264166790178</data>
+    </edge>
+    <edge source="长安" target="路难">
+      <data key="d3">0.428705</data>
+      <data key="d4">0.3176671113087298</data>
+    </edge>
+    <edge source="长安" target="少年">
+      <data key="d3">0.356073</data>
+      <data key="d4">0.13824909836470523</data>
+    </edge>
+    <edge source="长安" target="须臾">
+      <data key="d3">0.347304</data>
+      <data key="d4">0.11658761918877525</data>
+    </edge>
+    <edge source="长安" target="陌上">
+      <data key="d3">0.346564</data>
+      <data key="d4">0.11475964626253637</data>
+    </edge>
+    <edge source="长安" target="美人">
+      <data key="d3">0.343354</data>
+      <data key="d4">0.10683019613655448</data>
+    </edge>
+    <edge source="长安" target="路傍">
+      <data key="d3">0.339934</data>
+      <data key="d4">0.09838199693691024</data>
+    </edge>
+    <edge source="长安" target="垂杨">
+      <data key="d3">0.339001</data>
+      <data key="d4">0.09607726890963882</data>
+    </edge>
+    <edge source="长安" target="送客">
+      <data key="d3">0.33544</data>
+      <data key="d4">0.08728076676053556</data>
+    </edge>
+    <edge source="长安" target="宫中">
+      <data key="d3">0.324477</data>
+      <data key="d4">0.06019959488167582</data>
+    </edge>
+    <edge source="长安" target="万里">
+      <data key="d3">0.316848</data>
+      <data key="d4">0.04135418210562721</data>
+    </edge>
+    <edge source="长安" target="千里">
+      <data key="d3">0.316229</data>
+      <data key="d4">0.03982510745516519</data>
+    </edge>
+    <edge source="长安" target="寒食">
+      <data key="d3">0.312609</data>
+      <data key="d4">0.030882861518699706</data>
+    </edge>
+    <edge source="长安" target="花满">
+      <data key="d3">0.304459</data>
+      <data key="d4">0.01075045699323148</data>
+    </edge>
+    <edge source="长安" target="古来">
+      <data key="d3">0.303553</data>
+      <data key="d4">0.008512425275431067</data>
+    </edge>
+    <edge source="长安" target="今日">
+      <data key="d3">0.301114</data>
+      <data key="d4">0.002487525319895213</data>
+    </edge>
+    <edge source="山色" target="水声">
+      <data key="d3">0.704927</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="山色" target="泉声">
+      <data key="d3">0.471361</data>
+      <data key="d4">0.42303739933797735</data>
+    </edge>
+    <edge source="山色" target="相识">
+      <data key="d3">0.383554</data>
+      <data key="d4">0.2061335902376365</data>
+    </edge>
+    <edge source="山色" target="夕阳">
+      <data key="d3">0.374902</data>
+      <data key="d4">0.18476112840274692</data>
+    </edge>
+    <edge source="山色" target="花落">
+      <data key="d3">0.362485</data>
+      <data key="d4">0.15408823674719627</data>
+    </edge>
+    <edge source="山色" target="夜雨">
+      <data key="d3">0.357927</data>
+      <data key="d4">0.14282891161503874</data>
+    </edge>
+    <edge source="山色" target="天台">
+      <data key="d3">0.345232</data>
+      <data key="d4">0.1114692949953065</data>
+    </edge>
+    <edge source="山色" target="孤舟">
+      <data key="d3">0.330024</data>
+      <data key="d4">0.07390198112741458</data>
+    </edge>
+    <edge source="山色" target="云间">
+      <data key="d3">0.3158</data>
+      <data key="d4">0.0387653772046836</data>
+    </edge>
+    <edge source="山色" target="落日">
+      <data key="d3">0.314746</data>
+      <data key="d4">0.03616175090163533</data>
+    </edge>
+    <edge source="山色" target="烟霞">
+      <data key="d3">0.313563</data>
+      <data key="d4">0.03323946445333721</data>
+    </edge>
+    <edge source="山色" target="闲居">
+      <data key="d3">0.307075</data>
+      <data key="d4">0.017212588310854145</data>
+    </edge>
+    <edge source="山色" target="回首">
+      <data key="d3">0.306559</data>
+      <data key="d4">0.015937947729855278</data>
+    </edge>
+    <edge source="山色" target="石上">
+      <data key="d3">0.304472</data>
+      <data key="d4">0.010782570031124965</data>
+    </edge>
+    <edge source="山色" target="物外">
+      <data key="d3">0.303968</data>
+      <data key="d4">0.00953757225433527</data>
+    </edge>
+    <edge source="山色" target="白云">
+      <data key="d3">0.30321</data>
+      <data key="d4">0.00766513512178244</data>
+    </edge>
+    <edge source="烟霞" target="水声">
+      <data key="d3">0.424253</data>
+      <data key="d4">0.3066696309470876</data>
+    </edge>
+    <edge source="烟霞" target="汀洲">
+      <data key="d3">0.382724</data>
+      <data key="d4">0.20408329627982807</data>
+    </edge>
+    <edge source="烟霞" target="桃源">
+      <data key="d3">0.377925</data>
+      <data key="d4">0.19222864482980093</data>
+    </edge>
+    <edge source="烟霞" target="天台">
+      <data key="d3">0.369619</data>
+      <data key="d4">0.1717108838496121</data>
+    </edge>
+    <edge source="烟霞" target="道士">
+      <data key="d3">0.364217</data>
+      <data key="d4">0.1583666814880688</data>
+    </edge>
+    <edge source="烟霞" target="泉声">
+      <data key="d3">0.350894</data>
+      <data key="d4">0.1254557581147176</data>
+    </edge>
+    <edge source="烟霞" target="秋色">
+      <data key="d3">0.342587</data>
+      <data key="d4">0.10493552690084473</data>
+    </edge>
+    <edge source="烟霞" target="物外">
+      <data key="d3">0.334816</data>
+      <data key="d4">0.08573934094165306</data>
+    </edge>
+    <edge source="烟霞" target="红尘">
+      <data key="d3">0.333985</data>
+      <data key="d4">0.08368657675016049</data>
+    </edge>
+    <edge source="烟霞" target="山中">
+      <data key="d3">0.333697</data>
+      <data key="d4">0.08297514944913792</data>
+    </edge>
+    <edge source="烟霞" target="钓鱼">
+      <data key="d3">0.318536</data>
+      <data key="d4">0.04552393656439893</data>
+    </edge>
+    <edge source="烟霞" target="青苔">
+      <data key="d3">0.309457</data>
+      <data key="d4">0.023096684946395857</data>
+    </edge>
+    <edge source="青楼" target="红粉">
+      <data key="d3">0.53971</data>
+      <data key="d4">0.5918754014129738</data>
+    </edge>
+    <edge source="青楼" target="美人">
+      <data key="d3">0.477177</data>
+      <data key="d4">0.43740427844474095</data>
+    </edge>
+    <edge source="青楼" target="歌舞">
+      <data key="d3">0.457027</data>
+      <data key="d4">0.3876290697099946</data>
+    </edge>
+    <edge source="青楼" target="垂杨">
+      <data key="d3">0.442811</data>
+      <data key="d4">0.35251222765673634</data>
+    </edge>
+    <edge source="青楼" target="陌上">
+      <data key="d3">0.436526</data>
+      <data key="d4">0.33698680895212696</data>
+    </edge>
+    <edge source="青楼" target="歌声">
+      <data key="d3">0.43518</data>
+      <data key="d4">0.3336618744133195</data>
+    </edge>
+    <edge source="青楼" target="花间">
+      <data key="d3">0.430367</data>
+      <data key="d4">0.3217726396917148</data>
+    </edge>
+    <edge source="青楼" target="花满">
+      <data key="d3">0.424997</data>
+      <data key="d4">0.3085074848080629</data>
+    </edge>
+    <edge source="青楼" target="肠断">
+      <data key="d3">0.418709</data>
+      <data key="d4">0.2929746554024011</data>
+    </edge>
+    <edge source="青楼" target="走马">
+      <data key="d3">0.416281</data>
+      <data key="d4">0.2869769280173905</data>
+    </edge>
+    <edge source="青楼" target="颜色">
+      <data key="d3">0.386474</data>
+      <data key="d4">0.21334667259522747</data>
+    </edge>
+    <edge source="青楼" target="杨柳">
+      <data key="d3">0.370479</data>
+      <data key="d4">0.17383528481794377</data>
+    </edge>
+    <edge source="青楼" target="鸳鸯">
+      <data key="d3">0.369199</data>
+      <data key="d4">0.17067338570228743</data>
+    </edge>
+    <edge source="青楼" target="秋风">
+      <data key="d3">0.369012</data>
+      <data key="d4">0.17021145200335952</data>
+    </edge>
+    <edge source="青楼" target="红尘">
+      <data key="d3">0.367557</data>
+      <data key="d4">0.16661726199298457</data>
+    </edge>
+    <edge source="青楼" target="落花">
+      <data key="d3">0.34698</data>
+      <data key="d4">0.11578726347512476</data>
+    </edge>
+    <edge source="青楼" target="桃李">
+      <data key="d3">0.339003</data>
+      <data key="d4">0.09608220937700704</data>
+    </edge>
+    <edge source="青楼" target="感激">
+      <data key="d3">0.334918</data>
+      <data key="d4">0.0859913047774319</data>
+    </edge>
+    <edge source="青楼" target="楚水">
+      <data key="d3">0.334133</data>
+      <data key="d4">0.08405217133540833</data>
+    </edge>
+    <edge source="青楼" target="他人">
+      <data key="d3">0.326615</data>
+      <data key="d4">0.06548095449829548</data>
+    </edge>
+    <edge source="青楼" target="青苔">
+      <data key="d3">0.320325</data>
+      <data key="d4">0.04994318462526559</data>
+    </edge>
+    <edge source="青楼" target="罗衣">
+      <data key="d3">0.318983</data>
+      <data key="d4">0.04662813102119462</data>
+    </edge>
+    <edge source="青楼" target="断肠">
+      <data key="d3">0.311466</data>
+      <data key="d4">0.028059384417765943</data>
+    </edge>
+    <edge source="青楼" target="春来">
+      <data key="d3">0.311332</data>
+      <data key="d4">0.027728373104095615</data>
+    </edge>
+    <edge source="青楼" target="万里">
+      <data key="d3">0.309591</data>
+      <data key="d4">0.023427696260066185</data>
+    </edge>
+    <edge source="青楼" target="别离">
+      <data key="d3">0.306378</data>
+      <data key="d4">0.015490835433031895</data>
+    </edge>
+    <edge source="青楼" target="宫中">
+      <data key="d3">0.305347</data>
+      <data key="d4">0.012944024504718066</data>
+    </edge>
+    <edge source="青楼" target="流水">
+      <data key="d3">0.302031</data>
+      <data key="d4">0.004752729608220892</data>
+    </edge>
+    <edge source="须臾" target="人生">
+      <data key="d3">0.496791</data>
+      <data key="d4">0.48585544192480606</data>
+    </edge>
+    <edge source="须臾" target="垂杨">
+      <data key="d3">0.441438</data>
+      <data key="d4">0.3491205968084581</data>
+    </edge>
+    <edge source="须臾" target="来往">
+      <data key="d3">0.426078</data>
+      <data key="d4">0.31117780742058204</data>
+    </edge>
+    <edge source="须臾" target="富贵">
+      <data key="d3">0.400858</data>
+      <data key="d4">0.2488785139074156</data>
+    </edge>
+    <edge source="须臾" target="路傍">
+      <data key="d3">0.383671</data>
+      <data key="d4">0.2064226075786769</data>
+    </edge>
+    <edge source="须臾" target="古来">
+      <data key="d3">0.383467</data>
+      <data key="d4">0.2059186799071192</data>
+    </edge>
+    <edge source="须臾" target="美人">
+      <data key="d3">0.366663</data>
+      <data key="d4">0.16440887307939334</data>
+    </edge>
+    <edge source="须臾" target="世上">
+      <data key="d3">0.362341</data>
+      <data key="d4">0.153732523096685</data>
+    </edge>
+    <edge source="须臾" target="落花">
+      <data key="d3">0.345581</data>
+      <data key="d4">0.11233140655105978</data>
+    </edge>
+    <edge source="须臾" target="歌舞">
+      <data key="d3">0.344415</data>
+      <data key="d4">0.10945111407539158</data>
+    </edge>
+    <edge source="须臾" target="颜色">
+      <data key="d3">0.340399</data>
+      <data key="d4">0.09953065560001975</data>
+    </edge>
+    <edge source="须臾" target="路难">
+      <data key="d3">0.330874</data>
+      <data key="d4">0.07600167975890518</data>
+    </edge>
+    <edge source="须臾" target="意气">
+      <data key="d3">0.326087</data>
+      <data key="d4">0.06417667111308731</data>
+    </edge>
+    <edge source="须臾" target="汉家">
+      <data key="d3">0.322852</data>
+      <data key="d4">0.056185465145002625</data>
+    </edge>
+    <edge source="须臾" target="陌上">
+      <data key="d3">0.310666</data>
+      <data key="d4">0.026083197470480674</data>
+    </edge>
+    <edge source="须臾" target="流水">
+      <data key="d3">0.300658</data>
+      <data key="d4">0.0013610987599426121</data>
+    </edge>
+    <edge source="红粉" target="青苔">
+      <data key="d3">0.547277</data>
+      <data key="d4">0.6105676597006078</data>
+    </edge>
+    <edge source="红粉" target="莺啼">
+      <data key="d3">0.476437</data>
+      <data key="d4">0.43557630551850207</data>
+    </edge>
+    <edge source="红粉" target="玉楼">
+      <data key="d3">0.475591</data>
+      <data key="d4">0.4334864878217479</data>
+    </edge>
+    <edge source="红粉" target="歌舞">
+      <data key="d3">0.464685</data>
+      <data key="d4">0.4065461192628823</data>
+    </edge>
+    <edge source="红粉" target="美人">
+      <data key="d3">0.434725</data>
+      <data key="d4">0.33253791808705097</data>
+    </edge>
+    <edge source="红粉" target="鸳鸯">
+      <data key="d3">0.429403</data>
+      <data key="d4">0.3193913344202361</data>
+    </edge>
+    <edge source="红粉" target="垂杨">
+      <data key="d3">0.385868</data>
+      <data key="d4">0.21184971098265892</data>
+    </edge>
+    <edge source="红粉" target="君王">
+      <data key="d3">0.381823</data>
+      <data key="d4">0.20185761573044814</data>
+    </edge>
+    <edge source="红粉" target="咸阳">
+      <data key="d3">0.379259</data>
+      <data key="d4">0.195523936564399</data>
+    </edge>
+    <edge source="红粉" target="落花">
+      <data key="d3">0.363738</data>
+      <data key="d4">0.15718343955338174</data>
+    </edge>
+    <edge source="红粉" target="肠断">
+      <data key="d3">0.349667</data>
+      <data key="d4">0.12242478138431895</data>
+    </edge>
+    <edge source="红粉" target="宫中">
+      <data key="d3">0.348855</data>
+      <data key="d4">0.12041895163282451</data>
+    </edge>
+    <edge source="红粉" target="罗衣">
+      <data key="d3">0.333997</data>
+      <data key="d4">0.0837162195543698</data>
+    </edge>
+    <edge source="红粉" target="泉声">
+      <data key="d3">0.333333</data>
+      <data key="d4">0.08207598438812307</data>
+    </edge>
+    <edge source="红粉" target="杨柳">
+      <data key="d3">0.333323</data>
+      <data key="d4">0.08205128205128198</data>
+    </edge>
+    <edge source="红粉" target="春来">
+      <data key="d3">0.326946</data>
+      <data key="d4">0.06629860184773481</data>
+    </edge>
+    <edge source="红粉" target="陌上">
+      <data key="d3">0.326934</data>
+      <data key="d4">0.0662689590435255</data>
+    </edge>
+    <edge source="红粉" target="歌声">
+      <data key="d3">0.325705</data>
+      <data key="d4">0.06323304184575863</data>
+    </edge>
+    <edge source="红粉" target="花满">
+      <data key="d3">0.316405</data>
+      <data key="d4">0.040259868583567955</data>
+    </edge>
+    <edge source="红粉" target="石上">
+      <data key="d3">0.309468</data>
+      <data key="d4">0.023123857516921125</data>
+    </edge>
+    <edge source="红粉" target="走马">
+      <data key="d3">0.308445</data>
+      <data key="d4">0.020596808458080165</data>
+    </edge>
+    <edge source="归客" target="楚水">
+      <data key="d3">0.488392</data>
+      <data key="d4">0.46510794921199544</data>
+    </edge>
+    <edge source="归客" target="春草">
+      <data key="d3">0.447951</data>
+      <data key="d4">0.3652092287930438</data>
+    </edge>
+    <edge source="归客" target="残阳">
+      <data key="d3">0.430969</data>
+      <data key="d4">0.3232597203695469</data>
+    </edge>
+    <edge source="归客" target="孤舟">
+      <data key="d3">0.401423</data>
+      <data key="d4">0.25027419593893574</data>
+    </edge>
+    <edge source="归客" target="白蘋">
+      <data key="d3">0.397788</data>
+      <data key="d4">0.24129489649720856</data>
+    </edge>
+    <edge source="归客" target="秋风">
+      <data key="d3">0.39072</data>
+      <data key="d4">0.2238352848179438</data>
+    </edge>
+    <edge source="归客" target="江上">
+      <data key="d3">0.389952</data>
+      <data key="d4">0.22193814534855003</data>
+    </edge>
+    <edge source="归客" target="桃源">
+      <data key="d3">0.389802</data>
+      <data key="d4">0.22156761029593394</data>
+    </edge>
+    <edge source="归客" target="送客">
+      <data key="d3">0.388357</data>
+      <data key="d4">0.2179981226224001</data>
+    </edge>
+    <edge source="归客" target="垂杨">
+      <data key="d3">0.37179</data>
+      <data key="d4">0.17707376117780743</data>
+    </edge>
+    <edge source="归客" target="草堂">
+      <data key="d3">0.367238</data>
+      <data key="d4">0.16582925744775456</data>
+    </edge>
+    <edge source="归客" target="杨柳">
+      <data key="d3">0.356896</data>
+      <data key="d4">0.14028210068672492</data>
+    </edge>
+    <edge source="归客" target="钓鱼">
+      <data key="d3">0.353962</data>
+      <data key="d4">0.13303443505755644</data>
+    </edge>
+    <edge source="归客" target="东风">
+      <data key="d3">0.353167</data>
+      <data key="d4">0.13107059927869177</data>
+    </edge>
+    <edge source="归客" target="故乡">
+      <data key="d3">0.347422</data>
+      <data key="d4">0.11687910676349983</data>
+    </edge>
+    <edge source="归客" target="落日">
+      <data key="d3">0.340289</data>
+      <data key="d4">0.09925892989476805</data>
+    </edge>
+    <edge source="归客" target="千里">
+      <data key="d3">0.337075</data>
+      <data key="d4">0.0913195988340497</data>
+    </edge>
+    <edge source="归客" target="夜雨">
+      <data key="d3">0.334028</data>
+      <data key="d4">0.0837927967985771</data>
+    </edge>
+    <edge source="归客" target="白云">
+      <data key="d3">0.329469</data>
+      <data key="d4">0.07253100143273554</data>
+    </edge>
+    <edge source="归客" target="来往">
+      <data key="d3">0.328784</data>
+      <data key="d4">0.0708388913591226</data>
+    </edge>
+    <edge source="归客" target="美人">
+      <data key="d3">0.3277</data>
+      <data key="d4">0.06816115804555106</data>
+    </edge>
+    <edge source="归客" target="丈夫">
+      <data key="d3">0.322745</data>
+      <data key="d4">0.0559211501408033</data>
+    </edge>
+    <edge source="归客" target="人生">
+      <data key="d3">0.31998</data>
+      <data key="d4">0.049090954004248746</data>
+    </edge>
+    <edge source="归客" target="落花">
+      <data key="d3">0.318567</data>
+      <data key="d4">0.04560051380860624</data>
+    </edge>
+    <edge source="归客" target="夕阳">
+      <data key="d3">0.31705</data>
+      <data key="d4">0.041853169309816675</data>
+    </edge>
+    <edge source="归客" target="青山">
+      <data key="d3">0.3096</data>
+      <data key="d4">0.0234499283632231</data>
+    </edge>
+    <edge source="归客" target="秋草">
+      <data key="d3">0.308915</data>
+      <data key="d4">0.021757818289610157</data>
+    </edge>
+    <edge source="归客" target="秋色">
+      <data key="d3">0.305308</data>
+      <data key="d4">0.01284768539103802</data>
+    </edge>
+    <edge source="归客" target="道士">
+      <data key="d3">0.304849</data>
+      <data key="d4">0.011713848130033025</data>
+    </edge>
+    <edge source="归客" target="洞庭">
+      <data key="d3">0.304521</data>
+      <data key="d4">0.010903611481646099</data>
+    </edge>
+    <edge source="秋色" target="夕阳">
+      <data key="d3">0.484458</data>
+      <data key="d4">0.45539004989872045</data>
+    </edge>
+    <edge source="秋色" target="相识">
+      <data key="d3">0.434307</data>
+      <data key="d4">0.3315053604070945</data>
+    </edge>
+    <edge source="秋色" target="送客">
+      <data key="d3">0.425546</data>
+      <data key="d4">0.3098636431006373</data>
+    </edge>
+    <edge source="秋色" target="孤舟">
+      <data key="d3">0.405523</data>
+      <data key="d4">0.2604021540437726</data>
+    </edge>
+    <edge source="秋色" target="洞庭">
+      <data key="d3">0.403637</data>
+      <data key="d4">0.2557432933155477</data>
+    </edge>
+    <edge source="秋色" target="楚水">
+      <data key="d3">0.391822</data>
+      <data key="d4">0.22655748233782916</data>
+    </edge>
+    <edge source="秋色" target="回首">
+      <data key="d3">0.366171</data>
+      <data key="d4">0.16319351810681296</data>
+    </edge>
+    <edge source="秋色" target="落日">
+      <data key="d3">0.358696</data>
+      <data key="d4">0.14472852131811673</data>
+    </edge>
+    <edge source="秋色" target="远山">
+      <data key="d3">0.343474</data>
+      <data key="d4">0.10712662417864728</data>
+    </edge>
+    <edge source="秋色" target="江上">
+      <data key="d3">0.336948</data>
+      <data key="d4">0.09100587915616822</data>
+    </edge>
+    <edge source="秋色" target="白云">
+      <data key="d3">0.334384</data>
+      <data key="d4">0.08467219999011907</data>
+    </edge>
+    <edge source="秋色" target="夜雨">
+      <data key="d3">0.326139</data>
+      <data key="d4">0.06430512326466084</data>
+    </edge>
+    <edge source="秋色" target="万里">
+      <data key="d3">0.315537</data>
+      <data key="d4">0.038115705745763555</data>
+    </edge>
+    <edge source="秋色" target="汀洲">
+      <data key="d3">0.302072</data>
+      <data key="d4">0.0048540091892692915</data>
+    </edge>
+    <edge source="秋色" target="水声">
+      <data key="d3">0.300494</data>
+      <data key="d4">0.0009559804357491496</data>
+    </edge>
+    <edge source="世事" target="梨花">
+      <data key="d3">0.382312</data>
+      <data key="d4">0.20306556000197615</data>
+    </edge>
+    <edge source="世事" target="流水">
+      <data key="d3">0.364453</data>
+      <data key="d4">0.15894965663751795</data>
+    </edge>
+    <edge source="世事" target="闲居">
+      <data key="d3">0.364438</data>
+      <data key="d4">0.15891260313225625</data>
+    </edge>
+    <edge source="世事" target="肠断">
+      <data key="d3">0.348141</data>
+      <data key="d4">0.11865520478237233</data>
+    </edge>
+    <edge source="世事" target="富贵">
+      <data key="d3">0.345803</data>
+      <data key="d4">0.11287979842893142</data>
+    </edge>
+    <edge source="世事" target="功名">
+      <data key="d3">0.337315</data>
+      <data key="d4">0.09191245491823519</data>
+    </edge>
+    <edge source="世事" target="近来">
+      <data key="d3">0.334551</data>
+      <data key="d4">0.0850847290153648</data>
+    </edge>
+    <edge source="世事" target="山中">
+      <data key="d3">0.332505</data>
+      <data key="d4">0.08003063089768289</data>
+    </edge>
+    <edge source="世事" target="残阳">
+      <data key="d3">0.325466</data>
+      <data key="d4">0.06264265599525708</data>
+    </edge>
+    <edge source="世事" target="桃源">
+      <data key="d3">0.32485</data>
+      <data key="d4">0.06112099204584758</data>
+    </edge>
+    <edge source="世事" target="白云">
+      <data key="d3">0.324324</data>
+      <data key="d4">0.059821649128007484</data>
+    </edge>
+    <edge source="世事" target="夜雨">
+      <data key="d3">0.322422</data>
+      <data key="d4">0.055123264660836856</data>
+    </edge>
+    <edge source="世事" target="吟诗">
+      <data key="d3">0.320055</data>
+      <data key="d4">0.04927622153055671</data>
+    </edge>
+    <edge source="世事" target="远山">
+      <data key="d3">0.302504</data>
+      <data key="d4">0.005921150140803277</data>
+    </edge>
+    <edge source="路傍" target="富贵">
+      <data key="d3">0.389815</data>
+      <data key="d4">0.22159972333382744</data>
+    </edge>
+    <edge source="路傍" target="陌上">
+      <data key="d3">0.383025</data>
+      <data key="d4">0.20482683661874412</data>
+    </edge>
+    <edge source="路傍" target="人生">
+      <data key="d3">0.382063</data>
+      <data key="d4">0.20245047181463363</data>
+    </edge>
+    <edge source="路傍" target="多情">
+      <data key="d3">0.375592</data>
+      <data key="d4">0.18646558964478033</data>
+    </edge>
+    <edge source="路傍" target="春草">
+      <data key="d3">0.369597</data>
+      <data key="d4">0.17165653870856185</data>
+    </edge>
+    <edge source="路傍" target="颜色">
+      <data key="d3">0.361026</data>
+      <data key="d4">0.1504841658020849</data>
+    </edge>
+    <edge source="路傍" target="感激">
+      <data key="d3">0.352938</data>
+      <data key="d4">0.1305049157650313</data>
+    </edge>
+    <edge source="路傍" target="垂杨">
+      <data key="d3">0.335679</data>
+      <data key="d4">0.08787115261103699</data>
+    </edge>
+    <edge source="路傍" target="红尘">
+      <data key="d3">0.333085</data>
+      <data key="d4">0.08146336643446472</data>
+    </edge>
+    <edge source="路傍" target="别离">
+      <data key="d3">0.326109</data>
+      <data key="d4">0.06423101625413757</data>
+    </edge>
+    <edge source="路傍" target="寒食">
+      <data key="d3">0.31715</data>
+      <data key="d4">0.0421001926782273</data>
+    </edge>
+    <edge source="路傍" target="丈夫">
+      <data key="d3">0.315612</data>
+      <data key="d4">0.03830097327207152</data>
+    </edge>
+    <edge source="路傍" target="杨柳">
+      <data key="d3">0.309144</data>
+      <data key="d4">0.022323501803270498</data>
+    </edge>
+    <edge source="路傍" target="断肠">
+      <data key="d3">0.301782</data>
+      <data key="d4">0.004137641420878371</data>
+    </edge>
+    <edge source="天涯" target="江上">
+      <data key="d3">0.40855</data>
+      <data key="d4">0.267879551405563</data>
+    </edge>
+    <edge source="天涯" target="万里">
+      <data key="d3">0.401952</data>
+      <data key="d4">0.2515809495578281</data>
+    </edge>
+    <edge source="天涯" target="别离">
+      <data key="d3">0.39301</data>
+      <data key="d4">0.22949211995454777</data>
+    </edge>
+    <edge source="天涯" target="孤舟">
+      <data key="d3">0.383435</data>
+      <data key="d4">0.20583963242922787</data>
+    </edge>
+    <edge source="天涯" target="千里">
+      <data key="d3">0.377239</data>
+      <data key="d4">0.1905340645225038</data>
+    </edge>
+    <edge source="天涯" target="汀洲">
+      <data key="d3">0.352689</data>
+      <data key="d4">0.12988982757768877</data>
+    </edge>
+    <edge source="天涯" target="落日">
+      <data key="d3">0.352082</data>
+      <data key="d4">0.12839039573143618</data>
+    </edge>
+    <edge source="天涯" target="楚水">
+      <data key="d3">0.350962</data>
+      <data key="d4">0.12562373400523688</data>
+    </edge>
+    <edge source="天涯" target="故国">
+      <data key="d3">0.349636</data>
+      <data key="d4">0.12234820414011165</data>
+    </edge>
+    <edge source="天涯" target="相思">
+      <data key="d3">0.348269</data>
+      <data key="d4">0.11897139469393801</data>
+    </edge>
+    <edge source="天涯" target="回首">
+      <data key="d3">0.33773</data>
+      <data key="d4">0.09293760189713939</data>
+    </edge>
+    <edge source="天涯" target="青山">
+      <data key="d3">0.322811</data>
+      <data key="d4">0.056084185563954364</data>
+    </edge>
+    <edge source="天涯" target="肠断">
+      <data key="d3">0.319747</data>
+      <data key="d4">0.04851538955585197</data>
+    </edge>
+    <edge source="天涯" target="莺啼">
+      <data key="d3">0.319586</data>
+      <data key="d4">0.048117681932710765</data>
+    </edge>
+    <edge source="天涯" target="多病">
+      <data key="d3">0.317563</data>
+      <data key="d4">0.043120399189763285</data>
+    </edge>
+    <edge source="天涯" target="人生">
+      <data key="d3">0.316587</data>
+      <data key="d4">0.04070945111407538</data>
+    </edge>
+    <edge source="天涯" target="他乡">
+      <data key="d3">0.313151</data>
+      <data key="d4">0.0322217281754854</data>
+    </edge>
+    <edge source="天涯" target="汉家">
+      <data key="d3">0.309125</data>
+      <data key="d4">0.022276567363272496</data>
+    </edge>
+    <edge source="天涯" target="离别">
+      <data key="d3">0.307739</data>
+      <data key="d4">0.018852823477100867</data>
+    </edge>
+    <edge source="天涯" target="石上">
+      <data key="d3">0.307514</data>
+      <data key="d4">0.01829702089817696</data>
+    </edge>
+    <edge source="天涯" target="垂杨">
+      <data key="d3">0.302789</data>
+      <data key="d4">0.006625166740773585</data>
+    </edge>
+    <edge source="孤舟" target="猿声">
+      <data key="d3">0.483146</data>
+      <data key="d4">0.4521491033051727</data>
+    </edge>
+    <edge source="孤舟" target="万里">
+      <data key="d3">0.464515</data>
+      <data key="d4">0.4061261795365842</data>
+    </edge>
+    <edge source="孤舟" target="落日">
+      <data key="d3">0.439135</data>
+      <data key="d4">0.34343164863396075</data>
+    </edge>
+    <edge source="孤舟" target="洞庭">
+      <data key="d3">0.437392</data>
+      <data key="d4">0.33912603132256314</data>
+    </edge>
+    <edge source="孤舟" target="江上">
+      <data key="d3">0.425004</data>
+      <data key="d4">0.30852477644385157</data>
+    </edge>
+    <edge source="孤舟" target="楚水">
+      <data key="d3">0.423045</data>
+      <data key="d4">0.30368558865668693</data>
+    </edge>
+    <edge source="孤舟" target="千里">
+      <data key="d3">0.395336</data>
+      <data key="d4">0.2352378835037795</data>
+    </edge>
+    <edge source="孤舟" target="夜雨">
+      <data key="d3">0.394856</data>
+      <data key="d4">0.2340521713354083</data>
+    </edge>
+    <edge source="孤舟" target="送客">
+      <data key="d3">0.365362</data>
+      <data key="d4">0.16119509905637078</data>
+    </edge>
+    <edge source="孤舟" target="青山">
+      <data key="d3">0.357082</data>
+      <data key="d4">0.14074156415196878</data>
+    </edge>
+    <edge source="孤舟" target="秋草">
+      <data key="d3">0.354377</data>
+      <data key="d4">0.13405958203646062</data>
+    </edge>
+    <edge source="孤舟" target="春草">
+      <data key="d3">0.331611</data>
+      <data key="d4">0.07782224198409164</data>
+    </edge>
+    <edge source="孤舟" target="汀洲">
+      <data key="d3">0.327582</data>
+      <data key="d4">0.06786967047082648</data>
+    </edge>
+    <edge source="孤舟" target="别离">
+      <data key="d3">0.322242</data>
+      <data key="d4">0.05467862259769765</data>
+    </edge>
+    <edge source="孤舟" target="远山">
+      <data key="d3">0.316239</data>
+      <data key="d4">0.03984980979200628</data>
+    </edge>
+    <edge source="孤舟" target="相访">
+      <data key="d3">0.312288</data>
+      <data key="d4">0.030089916506101475</data>
+    </edge>
+    <edge source="孤舟" target="白蘋">
+      <data key="d3">0.310186</data>
+      <data key="d4">0.024897485302109595</data>
+    </edge>
+    <edge source="孤舟" target="秋风">
+      <data key="d3">0.306424</data>
+      <data key="d4">0.01560446618250077</data>
+    </edge>
+    <edge source="孤舟" target="白云">
+      <data key="d3">0.30319</data>
+      <data key="d4">0.007615730448100397</data>
+    </edge>
+    <edge source="孤舟" target="残阳">
+      <data key="d3">0.302841</data>
+      <data key="d4">0.006753618892347252</data>
+    </edge>
+    <edge source="孤舟" target="山僧">
+      <data key="d3">0.301563</data>
+      <data key="d4">0.00359666024405912</data>
+    </edge>
+    <edge source="钓鱼" target="闲居">
+      <data key="d3">0.366009</data>
+      <data key="d4">0.16279334024998757</data>
+    </edge>
+    <edge source="钓鱼" target="白首">
+      <data key="d3">0.365621</data>
+      <data key="d4">0.16183488958055425</data>
+    </edge>
+    <edge source="钓鱼" target="远山">
+      <data key="d3">0.356021</data>
+      <data key="d4">0.1381206462131317</data>
+    </edge>
+    <edge source="钓鱼" target="青山">
+      <data key="d3">0.345424</data>
+      <data key="d4">0.111943579862655</data>
+    </edge>
+    <edge source="钓鱼" target="相访">
+      <data key="d3">0.336019</data>
+      <data key="d4">0.08871103206363323</data>
+    </edge>
+    <edge source="钓鱼" target="垂杨">
+      <data key="d3">0.332673</data>
+      <data key="d4">0.08044563015661278</data>
+    </edge>
+    <edge source="钓鱼" target="残阳">
+      <data key="d3">0.326934</data>
+      <data key="d4">0.0662689590435255</data>
+    </edge>
+    <edge source="钓鱼" target="桃源">
+      <data key="d3">0.326317</data>
+      <data key="d4">0.06474482486043183</data>
+    </edge>
+    <edge source="钓鱼" target="山僧">
+      <data key="d3">0.325705</data>
+      <data key="d4">0.06323304184575863</data>
+    </edge>
+    <edge source="钓鱼" target="流水">
+      <data key="d3">0.318471</data>
+      <data key="d4">0.04536337137493205</data>
+    </edge>
+    <edge source="楚水" target="洞庭">
+      <data key="d3">0.468944</data>
+      <data key="d4">0.417066844523492</data>
+    </edge>
+    <edge source="楚水" target="春草">
+      <data key="d3">0.398567</data>
+      <data key="d4">0.2432192085371276</data>
+    </edge>
+    <edge source="楚水" target="江上">
+      <data key="d3">0.366571</data>
+      <data key="d4">0.16418161158045544</data>
+    </edge>
+    <edge source="楚水" target="千里">
+      <data key="d3">0.359068</data>
+      <data key="d4">0.1456474482486043</data>
+    </edge>
+    <edge source="楚水" target="秋风">
+      <data key="d3">0.339643</data>
+      <data key="d4">0.09766315893483515</data>
+    </edge>
+    <edge source="楚水" target="白蘋">
+      <data key="d3">0.339321</data>
+      <data key="d4">0.09686774368855287</data>
+    </edge>
+    <edge source="楚水" target="相思">
+      <data key="d3">0.336846</data>
+      <data key="d4">0.09075391532038923</data>
+    </edge>
+    <edge source="楚水" target="万里">
+      <data key="d3">0.333843</data>
+      <data key="d4">0.08333580356701742</data>
+    </edge>
+    <edge source="楚水" target="陌上">
+      <data key="d3">0.332258</data>
+      <data key="d4">0.07942048317770858</data>
+    </edge>
+    <edge source="楚水" target="歌声">
+      <data key="d3">0.331029</data>
+      <data key="d4">0.07638456597994173</data>
+    </edge>
+    <edge source="楚水" target="杨柳">
+      <data key="d3">0.32598</data>
+      <data key="d4">0.06391235610888786</data>
+    </edge>
+    <edge source="楚水" target="故国">
+      <data key="d3">0.310272</data>
+      <data key="d4">0.025109925398942693</data>
+    </edge>
+    <edge source="楚水" target="落日">
+      <data key="d3">0.304835</data>
+      <data key="d4">0.011679264858455636</data>
+    </edge>
+    <edge source="回首" target="故乡">
+      <data key="d3">0.403693</data>
+      <data key="d4">0.2558816264018577</data>
+    </edge>
+    <edge source="回首" target="断肠">
+      <data key="d3">0.38517</data>
+      <data key="d4">0.21012548787115262</data>
+    </edge>
+    <edge source="回首" target="夕阳">
+      <data key="d3">0.376758</data>
+      <data key="d4">0.18934588212044853</data>
+    </edge>
+    <edge source="回首" target="别离">
+      <data key="d3">0.34301</data>
+      <data key="d4">0.10598043574922181</data>
+    </edge>
+    <edge source="回首" target="江上">
+      <data key="d3">0.339972</data>
+      <data key="d4">0.09847586581690625</data>
+    </edge>
+    <edge source="回首" target="颜色">
+      <data key="d3">0.334959</data>
+      <data key="d4">0.0860925843584803</data>
+    </edge>
+    <edge source="回首" target="行路">
+      <data key="d3">0.334006</data>
+      <data key="d4">0.08373845165752684</data>
+    </edge>
+    <edge source="回首" target="落日">
+      <data key="d3">0.330533</data>
+      <data key="d4">0.0751593300726249</data>
+    </edge>
+    <edge source="回首" target="东风">
+      <data key="d3">0.32869</data>
+      <data key="d4">0.07060668939281649</data>
+    </edge>
+    <edge source="回首" target="青山">
+      <data key="d3">0.328492</data>
+      <data key="d4">0.07011758312336346</data>
+    </edge>
+    <edge source="回首" target="白云">
+      <data key="d3">0.327046</data>
+      <data key="d4">0.06654562521614543</data>
+    </edge>
+    <edge source="回首" target="秋风">
+      <data key="d3">0.319513</data>
+      <data key="d4">0.04793735487377101</data>
+    </edge>
+    <edge source="回首" target="离别">
+      <data key="d3">0.316522</data>
+      <data key="d4">0.0405488859246085</data>
+    </edge>
+    <edge source="回首" target="残阳">
+      <data key="d3">0.315792</data>
+      <data key="d4">0.038745615335210724</data>
+    </edge>
+    <edge source="回首" target="路难">
+      <data key="d3">0.314844</data>
+      <data key="d4">0.03640383380267774</data>
+    </edge>
+    <edge source="回首" target="流水">
+      <data key="d3">0.313232</data>
+      <data key="d4">0.03242181710389803</data>
+    </edge>
+    <edge source="回首" target="送客">
+      <data key="d3">0.304699</data>
+      <data key="d4">0.011343313077417087</data>
+    </edge>
+    <edge source="回首" target="千里">
+      <data key="d3">0.302285</data>
+      <data key="d4">0.0053801689639840266</data>
+    </edge>
+    <edge source="回首" target="咸阳">
+      <data key="d3">0.302117</data>
+      <data key="d4">0.004965169705054128</data>
+    </edge>
+    <edge source="桃李" target="美人">
+      <data key="d3">0.424478</data>
+      <data key="d4">0.3072254335260116</data>
+    </edge>
+    <edge source="桃李" target="莺啼">
+      <data key="d3">0.386626</data>
+      <data key="d4">0.21372214811521176</data>
+    </edge>
+    <edge source="桃李" target="颜色">
+      <data key="d3">0.379276</data>
+      <data key="d4">0.1955659305370288</data>
+    </edge>
+    <edge source="桃李" target="梨花">
+      <data key="d3">0.378589</data>
+      <data key="d4">0.19386887999604763</data>
+    </edge>
+    <edge source="桃李" target="歌舞">
+      <data key="d3">0.376188</data>
+      <data key="d4">0.1879378489205079</data>
+    </edge>
+    <edge source="桃李" target="杨柳">
+      <data key="d3">0.374204</data>
+      <data key="d4">0.1830369052912405</data>
+    </edge>
+    <edge source="桃李" target="垂杨">
+      <data key="d3">0.369109</data>
+      <data key="d4">0.17045106467071788</data>
+    </edge>
+    <edge source="桃李" target="陌上">
+      <data key="d3">0.362704</data>
+      <data key="d4">0.15462921792401566</data>
+    </edge>
+    <edge source="桃李" target="歌声">
+      <data key="d3">0.361332</data>
+      <data key="d4">0.15124005730942142</data>
+    </edge>
+    <edge source="桃李" target="东风">
+      <data key="d3">0.348416</data>
+      <data key="d4">0.1193345190455017</data>
+    </edge>
+    <edge source="桃李" target="花落">
+      <data key="d3">0.345888</data>
+      <data key="d4">0.11308976829208034</data>
+    </edge>
+    <edge source="桃李" target="寒食">
+      <data key="d3">0.335388</data>
+      <data key="d4">0.08715231460896203</data>
+    </edge>
+    <edge source="桃李" target="落花">
+      <data key="d3">0.330705</data>
+      <data key="d4">0.07558421026629124</data>
+    </edge>
+    <edge source="桃李" target="玉楼">
+      <data key="d3">0.328837</data>
+      <data key="d4">0.07096981374438018</data>
+    </edge>
+    <edge source="桃李" target="君王">
+      <data key="d3">0.32805</data>
+      <data key="d4">0.06902573983498839</data>
+    </edge>
+    <edge source="桃李" target="富贵">
+      <data key="d3">0.327748</data>
+      <data key="d4">0.06827972926238816</data>
+    </edge>
+    <edge source="桃李" target="罗衣">
+      <data key="d3">0.314284</data>
+      <data key="d4">0.03502050293957808</data>
+    </edge>
+    <edge source="桃李" target="来往">
+      <data key="d3">0.313529</data>
+      <data key="d4">0.03315547650807764</data>
+    </edge>
+    <edge source="桃李" target="鸳鸯">
+      <data key="d3">0.307444</data>
+      <data key="d4">0.01812410454028947</data>
+    </edge>
+    <edge source="杨柳" target="别离">
+      <data key="d3">0.483361</data>
+      <data key="d4">0.4526802035472556</data>
+    </edge>
+    <edge source="杨柳" target="离别">
+      <data key="d3">0.450573</data>
+      <data key="d4">0.3716861815127711</data>
+    </edge>
+    <edge source="杨柳" target="东风">
+      <data key="d3">0.436196</data>
+      <data key="d4">0.33617163183637166</data>
+    </edge>
+    <edge source="杨柳" target="多情">
+      <data key="d3">0.436067</data>
+      <data key="d4">0.33585297169112194</data>
+    </edge>
+    <edge source="杨柳" target="断肠">
+      <data key="d3">0.416685</data>
+      <data key="d4">0.28797490242576956</data>
+    </edge>
+    <edge source="杨柳" target="肠断">
+      <data key="d3">0.409422</data>
+      <data key="d4">0.2700335951781039</data>
+    </edge>
+    <edge source="杨柳" target="送客">
+      <data key="d3">0.402453</data>
+      <data key="d4">0.2528185366335655</data>
+    </edge>
+    <edge source="杨柳" target="白蘋">
+      <data key="d3">0.394347</data>
+      <data key="d4">0.2327948223901981</data>
+    </edge>
+    <edge source="杨柳" target="花满">
+      <data key="d3">0.39</data>
+      <data key="d4">0.2220567165653871</data>
+    </edge>
+    <edge source="杨柳" target="花落">
+      <data key="d3">0.387899</data>
+      <data key="d4">0.21686675559507926</data>
+    </edge>
+    <edge source="杨柳" target="梨花">
+      <data key="d3">0.372681</data>
+      <data key="d4">0.17927473939034627</data>
+    </edge>
+    <edge source="杨柳" target="罗衣">
+      <data key="d3">0.366839</data>
+      <data key="d4">0.1648436342077961</data>
+    </edge>
+    <edge source="杨柳" target="玉楼">
+      <data key="d3">0.349791</data>
+      <data key="d4">0.1227310903611482</data>
+    </edge>
+    <edge source="杨柳" target="陌上">
+      <data key="d3">0.348697</data>
+      <data key="d4">0.12002865471073557</data>
+    </edge>
+    <edge source="杨柳" target="世上">
+      <data key="d3">0.347997</data>
+      <data key="d4">0.11829949113186106</data>
+    </edge>
+    <edge source="杨柳" target="鸳鸯">
+      <data key="d3">0.341304</data>
+      <data key="d4">0.10176621708413613</data>
+    </edge>
+    <edge source="杨柳" target="歌声">
+      <data key="d3">0.336663</data>
+      <data key="d4">0.09030186255619777</data>
+    </edge>
+    <edge source="杨柳" target="云间">
+      <data key="d3">0.330649</data>
+      <data key="d4">0.07544587717998127</data>
+    </edge>
+    <edge source="杨柳" target="汀洲">
+      <data key="d3">0.327708</data>
+      <data key="d4">0.06818091991502394</data>
+    </edge>
+    <edge source="杨柳" target="万里">
+      <data key="d3">0.32472</data>
+      <data key="d4">0.06079986166691369</data>
+    </edge>
+    <edge source="杨柳" target="江上">
+      <data key="d3">0.313411</data>
+      <data key="d4">0.03286398893335306</data>
+    </edge>
+    <edge source="杨柳" target="春草">
+      <data key="d3">0.309052</data>
+      <data key="d4">0.022096240304332746</data>
+    </edge>
+    <edge source="杨柳" target="歌舞">
+      <data key="d3">0.305626</data>
+      <data key="d4">0.013633219702583856</data>
+    </edge>
+    <edge source="杨柳" target="美人">
+      <data key="d3">0.302448</data>
+      <data key="d4">0.005782817054493311</data>
+    </edge>
+    <edge source="杨柳" target="相思">
+      <data key="d3">0.302179</data>
+      <data key="d4">0.0051183241934686105</data>
+    </edge>
+    <edge source="杨柳" target="秋风">
+      <data key="d3">0.30079</data>
+      <data key="d4">0.0016871696062447242</data>
+    </edge>
+    <edge source="杨柳" target="春来">
+      <data key="d3">0.300561</data>
+      <data key="d4">0.0011214860925843832</data>
+    </edge>
+    <edge source="近来" target="云间">
+      <data key="d3">0.404732</data>
+      <data key="d4">0.25844819919964424</data>
+    </edge>
+    <edge source="近来" target="离别">
+      <data key="d3">0.396959</data>
+      <data key="d4">0.23924707277308435</data>
+    </edge>
+    <edge source="近来" target="歌声">
+      <data key="d3">0.370505</data>
+      <data key="d4">0.17389951089373046</data>
+    </edge>
+    <edge source="近来" target="吟诗">
+      <data key="d3">0.366157</data>
+      <data key="d4">0.16315893483523541</data>
+    </edge>
+    <edge source="近来" target="故国">
+      <data key="d3">0.34892</data>
+      <data key="d4">0.12057951682229139</data>
+    </edge>
+    <edge source="近来" target="草堂">
+      <data key="d3">0.348035</data>
+      <data key="d4">0.11839336001185706</data>
+    </edge>
+    <edge source="近来" target="功名">
+      <data key="d3">0.330978</data>
+      <data key="d4">0.07625858406205223</data>
+    </edge>
+    <edge source="近来" target="泉声">
+      <data key="d3">0.325528</data>
+      <data key="d4">0.0627958104836717</data>
+    </edge>
+    <edge source="近来" target="道士">
+      <data key="d3">0.323677</data>
+      <data key="d4">0.05822340793439055</data>
+    </edge>
+    <edge source="近来" target="天台">
+      <data key="d3">0.322658</data>
+      <data key="d4">0.05570623981028603</data>
+    </edge>
+    <edge source="近来" target="红尘">
+      <data key="d3">0.322275</data>
+      <data key="d4">0.054760140309273175</data>
+    </edge>
+    <edge source="近来" target="世上">
+      <data key="d3">0.318513</data>
+      <data key="d4">0.04546712118966449</data>
+    </edge>
+    <edge source="近来" target="君王">
+      <data key="d3">0.316706</data>
+      <data key="d4">0.04100340892248401</data>
+    </edge>
+    <edge source="近来" target="多情">
+      <data key="d3">0.311981</data>
+      <data key="d4">0.02933155476508077</data>
+    </edge>
+    <edge source="近来" target="多病">
+      <data key="d3">0.310841</data>
+      <data key="d4">0.026515488365199267</data>
+    </edge>
+    <edge source="近来" target="花满">
+      <data key="d3">0.3086</data>
+      <data key="d4">0.02097969467911658</data>
+    </edge>
+    <edge source="近来" target="走马">
+      <data key="d3">0.30064</data>
+      <data key="d4">0.0013166345536287875</data>
+    </edge>
+    <edge source="鸳鸯" target="罗衣">
+      <data key="d3">0.522371</data>
+      <data key="d4">0.5490440195642509</data>
+    </edge>
+    <edge source="鸳鸯" target="歌声">
+      <data key="d3">0.42686</data>
+      <data key="d4">0.31310953016155335</data>
+    </edge>
+    <edge source="鸳鸯" target="玉楼">
+      <data key="d3">0.413182</data>
+      <data key="d4">0.27932167383034434</data>
+    </edge>
+    <edge source="鸳鸯" target="陌上">
+      <data key="d3">0.400116</data>
+      <data key="d4">0.24704560051380867</data>
+    </edge>
+    <edge source="鸳鸯" target="美人">
+      <data key="d3">0.388898</data>
+      <data key="d4">0.21933451904550175</data>
+    </edge>
+    <edge source="鸳鸯" target="宫中">
+      <data key="d3">0.359771</data>
+      <data key="d4">0.1473840225285312</data>
+    </edge>
+    <edge source="鸳鸯" target="黄金">
+      <data key="d3">0.338665</data>
+      <data key="d4">0.09524727039177902</data>
+    </edge>
+    <edge source="鸳鸯" target="相思">
+      <data key="d3">0.338322</data>
+      <data key="d4">0.09439998023813054</data>
+    </edge>
+    <edge source="鸳鸯" target="云间">
+      <data key="d3">0.334073</data>
+      <data key="d4">0.08390395731436194</data>
+    </edge>
+    <edge source="鸳鸯" target="莺啼">
+      <data key="d3">0.333886</data>
+      <data key="d4">0.08344202361543404</data>
+    </edge>
+    <edge source="鸳鸯" target="夕阳">
+      <data key="d3">0.333719</data>
+      <data key="d4">0.08302949459018819</data>
+    </edge>
+    <edge source="鸳鸯" target="落花">
+      <data key="d3">0.321195</data>
+      <data key="d4">0.052092287930438214</data>
+    </edge>
+    <edge source="鸳鸯" target="白蘋">
+      <data key="d3">0.318506</data>
+      <data key="d4">0.0454498295538758</data>
+    </edge>
+    <edge source="鸳鸯" target="远山">
+      <data key="d3">0.316126</data>
+      <data key="d4">0.039570673385702304</data>
+    </edge>
+    <edge source="鸳鸯" target="歌舞">
+      <data key="d3">0.306317</data>
+      <data key="d4">0.015340151178301452</data>
+    </edge>
+    <edge source="鸳鸯" target="多情">
+      <data key="d3">0.303297</data>
+      <data key="d4">0.007880045452299715</data>
+    </edge>
+    <edge source="鸳鸯" target="离别">
+      <data key="d3">0.302839</data>
+      <data key="d4">0.006748678424979034</data>
+    </edge>
+    <edge source="鸳鸯" target="颜色">
+      <data key="d3">0.302128</data>
+      <data key="d4">0.004992342275579258</data>
+    </edge>
+    <edge source="别离" target="相思">
+      <data key="d3">0.406359</data>
+      <data key="d4">0.26246726940368564</data>
+    </edge>
+    <edge source="别离" target="莺啼">
+      <data key="d3">0.395798</data>
+      <data key="d4">0.2363791314658366</data>
+    </edge>
+    <edge source="别离" target="断肠">
+      <data key="d3">0.379595</data>
+      <data key="d4">0.19635393508225882</data>
+    </edge>
+    <edge source="别离" target="他乡">
+      <data key="d3">0.379178</data>
+      <data key="d4">0.1953238476359864</data>
+    </edge>
+    <edge source="别离" target="东风">
+      <data key="d3">0.366809</data>
+      <data key="d4">0.16476952719727284</data>
+    </edge>
+    <edge source="别离" target="人生">
+      <data key="d3">0.365365</data>
+      <data key="d4">0.16120250975742303</data>
+    </edge>
+    <edge source="别离" target="春草">
+      <data key="d3">0.36315</data>
+      <data key="d4">0.15573094214712704</data>
+    </edge>
+    <edge source="别离" target="秋草">
+      <data key="d3">0.35612</data>
+      <data key="d4">0.13836519934785826</data>
+    </edge>
+    <edge source="别离" target="秋风">
+      <data key="d3">0.352376</data>
+      <data key="d4">0.12911664443456355</data>
+    </edge>
+    <edge source="别离" target="故国">
+      <data key="d3">0.345818</data>
+      <data key="d4">0.11291685193419299</data>
+    </edge>
+    <edge source="别离" target="万里">
+      <data key="d3">0.343284</data>
+      <data key="d4">0.10665727977866699</data>
+    </edge>
+    <edge source="别离" target="洞庭">
+      <data key="d3">0.340901</data>
+      <data key="d4">0.10077071290944124</data>
+    </edge>
+    <edge source="别离" target="陌上">
+      <data key="d3">0.32945</data>
+      <data key="d4">0.07248406699273754</data>
+    </edge>
+    <edge source="别离" target="少年">
+      <data key="d3">0.323859</data>
+      <data key="d4">0.058672990464897976</data>
+    </edge>
+    <edge source="别离" target="吟诗">
+      <data key="d3">0.323411</data>
+      <data key="d4">0.057566325774418246</data>
+    </edge>
+    <edge source="别离" target="垂杨">
+      <data key="d3">0.310609</data>
+      <data key="d4">0.025942394150486665</data>
+    </edge>
+    <edge source="别离" target="山僧">
+      <data key="d3">0.302979</data>
+      <data key="d4">0.00709451114075388</data>
+    </edge>
+    <edge source="别离" target="夜雨">
+      <data key="d3">0.300992</data>
+      <data key="d4">0.002186156810434191</data>
+    </edge>
+    <edge source="行路" target="相识">
+      <data key="d3">0.510339</data>
+      <data key="d4">0.5193221678770812</data>
+    </edge>
+    <edge source="行路" target="封侯">
+      <data key="d3">0.458756</data>
+      <data key="d4">0.3919001037498147</data>
+    </edge>
+    <edge source="行路" target="颜色">
+      <data key="d3">0.430688</data>
+      <data key="d4">0.32256558470431307</data>
+    </edge>
+    <edge source="行路" target="人生">
+      <data key="d3">0.419374</data>
+      <data key="d4">0.294617360802332</data>
+    </edge>
+    <edge source="行路" target="富贵">
+      <data key="d3">0.409347</data>
+      <data key="d4">0.2698483276517959</data>
+    </edge>
+    <edge source="行路" target="黄金">
+      <data key="d3">0.403847</data>
+      <data key="d4">0.25626204238921</data>
+    </edge>
+    <edge source="行路" target="他人">
+      <data key="d3">0.38537</data>
+      <data key="d4">0.2106195346079739</data>
+    </edge>
+    <edge source="行路" target="英雄">
+      <data key="d3">0.373588</data>
+      <data key="d4">0.18151524134183086</data>
+    </edge>
+    <edge source="行路" target="少年">
+      <data key="d3">0.360853</data>
+      <data key="d4">0.1500568153747344</data>
+    </edge>
+    <edge source="行路" target="古来">
+      <data key="d3">0.349978</data>
+      <data key="d4">0.1231930240600761</data>
+    </edge>
+    <edge source="行路" target="罗衣">
+      <data key="d3">0.342507</data>
+      <data key="d4">0.1047379082061163</data>
+    </edge>
+    <edge source="行路" target="单于">
+      <data key="d3">0.322829</data>
+      <data key="d4">0.056128649770268185</data>
+    </edge>
+    <edge source="行路" target="今日">
+      <data key="d3">0.302744</data>
+      <data key="d4">0.006514006224988886</data>
+    </edge>
+    <edge source="玉楼" target="梨花">
+      <data key="d3">0.489392</data>
+      <data key="d4">0.467578182896102</data>
+    </edge>
+    <edge source="玉楼" target="宫中">
+      <data key="d3">0.449901</data>
+      <data key="d4">0.37002618447705155</data>
+    </edge>
+    <edge source="玉楼" target="罗衣">
+      <data key="d3">0.431715</data>
+      <data key="d4">0.3251025146978905</data>
+    </edge>
+    <edge source="玉楼" target="歌舞">
+      <data key="d3">0.424376</data>
+      <data key="d4">0.30697346969023265</data>
+    </edge>
+    <edge source="玉楼" target="英雄">
+      <data key="d3">0.403721</data>
+      <data key="d4">0.2559507929450126</data>
+    </edge>
+    <edge source="玉楼" target="春来">
+      <data key="d3">0.401339</data>
+      <data key="d4">0.25006669630947087</data>
+    </edge>
+    <edge source="玉楼" target="咸阳">
+      <data key="d3">0.383181</data>
+      <data key="d4">0.20521219307346472</data>
+    </edge>
+    <edge source="玉楼" target="君王">
+      <data key="d3">0.359838</data>
+      <data key="d4">0.1475495281853663</data>
+    </edge>
+    <edge source="玉楼" target="莺啼">
+      <data key="d3">0.35214</data>
+      <data key="d4">0.12853366928511437</data>
+    </edge>
+    <edge source="玉楼" target="花落">
+      <data key="d3">0.313515</data>
+      <data key="d4">0.03312089323650012</data>
+    </edge>
+    <edge source="玉楼" target="走马">
+      <data key="d3">0.312217</data>
+      <data key="d4">0.02991452991452994</data>
+    </edge>
+    <edge source="玉楼" target="落花">
+      <data key="d3">0.311753</data>
+      <data key="d4">0.02876834148510447</data>
+    </edge>
+    <edge source="玉楼" target="故国">
+      <data key="d3">0.30872</data>
+      <data key="d4">0.021276122721209385</data>
+    </edge>
+    <edge source="玉楼" target="落日">
+      <data key="d3">0.303174</data>
+      <data key="d4">0.007576206709154654</data>
+    </edge>
+    <edge source="玉楼" target="青山">
+      <data key="d3">0.302628</data>
+      <data key="d4">0.006227459117632518</data>
+    </edge>
+    <edge source="红尘" target="走马">
+      <data key="d3">0.444981</data>
+      <data key="d4">0.35787263475124753</data>
+    </edge>
+    <edge source="红尘" target="垂杨">
+      <data key="d3">0.411552</data>
+      <data key="d4">0.2752951929252507</data>
+    </edge>
+    <edge source="红尘" target="白首">
+      <data key="d3">0.350912</data>
+      <data key="d4">0.12550022232103156</data>
+    </edge>
+    <edge source="红尘" target="寒食">
+      <data key="d3">0.33295</data>
+      <data key="d4">0.08112988488711036</data>
+    </edge>
+    <edge source="红尘" target="多病">
+      <data key="d3">0.304902</data>
+      <data key="d4">0.011844770515290733</data>
+    </edge>
+    <edge source="红尘" target="花满">
+      <data key="d3">0.302661</data>
+      <data key="d4">0.006308976829208045</data>
+    </edge>
+    <edge source="红尘" target="美人">
+      <data key="d3">0.302141</data>
+      <data key="d4">0.005024455313472606</data>
+    </edge>
+    <edge source="梨花" target="寒食">
+      <data key="d3">0.564745</data>
+      <data key="d4">0.6537177016945804</data>
+    </edge>
+    <edge source="梨花" target="罗衣">
+      <data key="d3">0.446355</data>
+      <data key="d4">0.36126673583320984</data>
+    </edge>
+    <edge source="梨花" target="肠断">
+      <data key="d3">0.433886</data>
+      <data key="d4">0.33046539202608566</data>
+    </edge>
+    <edge source="梨花" target="宫中">
+      <data key="d3">0.431424</data>
+      <data key="d4">0.32438367669581536</data>
+    </edge>
+    <edge source="梨花" target="君王">
+      <data key="d3">0.428392</data>
+      <data key="d4">0.31689392816560447</data>
+    </edge>
+    <edge source="梨花" target="少年">
+      <data key="d3">0.373651</data>
+      <data key="d4">0.18167086606392965</data>
+    </edge>
+    <edge source="梨花" target="东风">
+      <data key="d3">0.353295</data>
+      <data key="d4">0.13138678919025745</data>
+    </edge>
+    <edge source="梨花" target="走马">
+      <data key="d3">0.347048</data>
+      <data key="d4">0.11595523936564403</data>
+    </edge>
+    <edge source="梨花" target="断肠">
+      <data key="d3">0.336994</data>
+      <data key="d4">0.0911195099056371</data>
+    </edge>
+    <edge source="梨花" target="莺啼">
+      <data key="d3">0.335266</data>
+      <data key="d4">0.08685094609950102</data>
+    </edge>
+    <edge source="梨花" target="春草">
+      <data key="d3">0.321395</data>
+      <data key="d4">0.05258633466725946</data>
+    </edge>
+    <edge source="梨花" target="歌声">
+      <data key="d3">0.312602</data>
+      <data key="d4">0.030865569882910872</data>
+    </edge>
+    <edge source="梨花" target="歌舞">
+      <data key="d3">0.309633</data>
+      <data key="d4">0.023531446074798627</data>
+    </edge>
+    <edge source="功名" target="富贵">
+      <data key="d3">0.568507</data>
+      <data key="d4">0.663010720814189</data>
+    </edge>
+    <edge source="功名" target="丈夫">
+      <data key="d3">0.43176</data>
+      <data key="d4">0.32521367521367517</data>
+    </edge>
+    <edge source="功名" target="封侯">
+      <data key="d3">0.396948</data>
+      <data key="d4">0.2392199002025592</data>
+    </edge>
+    <edge source="功名" target="走马">
+      <data key="d3">0.394937</data>
+      <data key="d4">0.2342522602638209</data>
+    </edge>
+    <edge source="功名" target="意气">
+      <data key="d3">0.390695</data>
+      <data key="d4">0.22377352897584113</data>
+    </edge>
+    <edge source="功名" target="古来">
+      <data key="d3">0.355962</data>
+      <data key="d4">0.13797490242576946</data>
+    </edge>
+    <edge source="功名" target="离别">
+      <data key="d3">0.342531</data>
+      <data key="d4">0.10479719381453477</data>
+    </edge>
+    <edge source="功名" target="英雄">
+      <data key="d3">0.341028</data>
+      <data key="d4">0.10108443258732273</data>
+    </edge>
+    <edge source="功名" target="他人">
+      <data key="d3">0.33659</data>
+      <data key="d4">0.09012153549725802</data>
+    </edge>
+    <edge source="功名" target="单于">
+      <data key="d3">0.329626</data>
+      <data key="d4">0.07291882812114017</data>
+    </edge>
+    <edge source="功名" target="秋风">
+      <data key="d3">0.327884</data>
+      <data key="d4">0.0686156810434267</data>
+    </edge>
+    <edge source="功名" target="闲居">
+      <data key="d3">0.32208</data>
+      <data key="d4">0.05427844474087241</data>
+    </edge>
+    <edge source="功名" target="世上">
+      <data key="d3">0.321277</data>
+      <data key="d4">0.052294847092534874</data>
+    </edge>
+    <edge source="功名" target="咸阳">
+      <data key="d3">0.321277</data>
+      <data key="d4">0.052294847092534874</data>
+    </edge>
+    <edge source="功名" target="吟诗">
+      <data key="d3">0.316483</data>
+      <data key="d4">0.04045254681092832</data>
+    </edge>
+    <edge source="功名" target="少年">
+      <data key="d3">0.308511</data>
+      <data key="d4">0.020759843881231085</data>
+    </edge>
+    <edge source="功名" target="东风">
+      <data key="d3">0.30633</data>
+      <data key="d4">0.0153722642161948</data>
+    </edge>
+    <edge source="秋风" target="夜雨">
+      <data key="d3">0.410483</data>
+      <data key="d4">0.27265451311694083</data>
+    </edge>
+    <edge source="秋风" target="落日">
+      <data key="d3">0.39682</data>
+      <data key="d4">0.23890371029099353</data>
+    </edge>
+    <edge source="秋风" target="洞庭">
+      <data key="d3">0.393059</data>
+      <data key="d4">0.2296131614050689</data>
+    </edge>
+    <edge source="秋风" target="江上">
+      <data key="d3">0.384996</data>
+      <data key="d4">0.2096956672101181</data>
+    </edge>
+    <edge source="秋风" target="云间">
+      <data key="d3">0.359047</data>
+      <data key="d4">0.14559557334123807</data>
+    </edge>
+    <edge source="秋风" target="宫中">
+      <data key="d3">0.343241</data>
+      <data key="d4">0.1065510597302505</data>
+    </edge>
+    <edge source="秋风" target="花落">
+      <data key="d3">0.340963</data>
+      <data key="d4">0.10092386739785586</data>
+    </edge>
+    <edge source="秋风" target="相思">
+      <data key="d3">0.339164</data>
+      <data key="d4">0.09647991700014824</data>
+    </edge>
+    <edge source="秋风" target="万里">
+      <data key="d3">0.323239</data>
+      <data key="d4">0.05714144558075191</data>
+    </edge>
+    <edge source="秋风" target="送客">
+      <data key="d3">0.319827</data>
+      <data key="d4">0.04871300825058041</data>
+    </edge>
+    <edge source="秋风" target="陌上">
+      <data key="d3">0.314441</data>
+      <data key="d4">0.03540832962798284</data>
+    </edge>
+    <edge source="秋风" target="人生">
+      <data key="d3">0.31361</data>
+      <data key="d4">0.033355565436490264</data>
+    </edge>
+    <edge source="秋风" target="今日">
+      <data key="d3">0.312575</data>
+      <data key="d4">0.030798873573439998</data>
+    </edge>
+    <edge source="秋风" target="千里">
+      <data key="d3">0.309714</data>
+      <data key="d4">0.02373153500321125</data>
+    </edge>
+    <edge source="秋风" target="他人">
+      <data key="d3">0.309435</data>
+      <data key="d4">0.023042339805345594</data>
+    </edge>
+    <edge source="秋风" target="来往">
+      <data key="d3">0.305037</data>
+      <data key="d4">0.012178252062645103</data>
+    </edge>
+    <edge source="秋风" target="古来">
+      <data key="d3">0.303703</data>
+      <data key="d4">0.008882960328047005</data>
+    </edge>
+    <edge source="秋风" target="花满">
+      <data key="d3">0.302495</data>
+      <data key="d4">0.005898918037646365</data>
+    </edge>
+    <edge source="他乡" target="故国">
+      <data key="d3">0.5462</data>
+      <data key="d4">0.607907218022825</data>
+    </edge>
+    <edge source="他乡" target="青山">
+      <data key="d3">0.404941</data>
+      <data key="d4">0.2589644780396225</data>
+    </edge>
+    <edge source="他乡" target="相访">
+      <data key="d3">0.387821</data>
+      <data key="d4">0.21667407736771904</data>
+    </edge>
+    <edge source="他乡" target="离别">
+      <data key="d3">0.377497</data>
+      <data key="d4">0.19117138481300336</data>
+    </edge>
+    <edge source="他乡" target="云间">
+      <data key="d3">0.371539</data>
+      <data key="d4">0.17645373252309668</data>
+    </edge>
+    <edge source="他乡" target="万里">
+      <data key="d3">0.362845</data>
+      <data key="d4">0.15497752087347455</data>
+    </edge>
+    <edge source="他乡" target="莺啼">
+      <data key="d3">0.3469</data>
+      <data key="d4">0.11558964478039617</data>
+    </edge>
+    <edge source="他乡" target="送客">
+      <data key="d3">0.336968</data>
+      <data key="d4">0.09105528382985026</data>
+    </edge>
+    <edge source="他乡" target="多病">
+      <data key="d3">0.317178</data>
+      <data key="d4">0.04216935922138235</data>
+    </edge>
+    <edge source="他乡" target="花满">
+      <data key="d3">0.314937</data>
+      <data key="d4">0.036633565535299666</data>
+    </edge>
+    <edge source="他乡" target="寒食">
+      <data key="d3">0.312427</data>
+      <data key="d4">0.03043327898819228</data>
+    </edge>
+    <edge source="他乡" target="花落">
+      <data key="d3">0.307907</data>
+      <data key="d4">0.019267822736030765</data>
+    </edge>
+    <edge source="他乡" target="今日">
+      <data key="d3">0.304204</data>
+      <data key="d4">0.010120547403784305</data>
+    </edge>
+    <edge source="水声" target="桃源">
+      <data key="d3">0.425157</data>
+      <data key="d4">0.3089027221975199</data>
+    </edge>
+    <edge source="水声" target="青苔">
+      <data key="d3">0.394178</data>
+      <data key="d4">0.23237735289758404</data>
+    </edge>
+    <edge source="水声" target="断肠">
+      <data key="d3">0.356155</data>
+      <data key="d4">0.13845165752680202</data>
+    </edge>
+    <edge source="水声" target="相访">
+      <data key="d3">0.341343</data>
+      <data key="d4">0.10186255619781631</data>
+    </edge>
+    <edge source="水声" target="白蘋">
+      <data key="d3">0.339321</data>
+      <data key="d4">0.09686774368855287</data>
+    </edge>
+    <edge source="水声" target="山僧">
+      <data key="d3">0.331029</data>
+      <data key="d4">0.07638456597994173</data>
+    </edge>
+    <edge source="水声" target="夜雨">
+      <data key="d3">0.329214</data>
+      <data key="d4">0.07190109184328837</data>
+    </edge>
+    <edge source="水声" target="吟诗">
+      <data key="d3">0.326847</data>
+      <data key="d4">0.06605404871300823</data>
+    </edge>
+    <edge source="水声" target="天台">
+      <data key="d3">0.316239</data>
+      <data key="d4">0.03984980979200628</data>
+    </edge>
+    <edge source="水声" target="山中">
+      <data key="d3">0.314758</data>
+      <data key="d4">0.0361913937058445</data>
+    </edge>
+    <edge source="水声" target="夕阳">
+      <data key="d3">0.311897</data>
+      <data key="d4">0.02912405513561575</data>
+    </edge>
+    <edge source="水声" target="故国">
+      <data key="d3">0.310272</data>
+      <data key="d4">0.025109925398942693</data>
+    </edge>
+    <edge source="花间" target="君王">
+      <data key="d3">0.434004</data>
+      <data key="d4">0.33075687960081024</data>
+    </edge>
+    <edge source="花间" target="陌上">
+      <data key="d3">0.409295</data>
+      <data key="d4">0.26971987550022236</data>
+    </edge>
+    <edge source="花间" target="歌声">
+      <data key="d3">0.386629</data>
+      <data key="d4">0.21372955881626401</data>
+    </edge>
+    <edge source="花间" target="花满">
+      <data key="d3">0.376958</data>
+      <data key="d4">0.1898399288572699</data>
+    </edge>
+    <edge source="花间" target="走马">
+      <data key="d3">0.368681</data>
+      <data key="d4">0.1693938046539202</data>
+    </edge>
+    <edge source="花间" target="草堂">
+      <data key="d3">0.364629</data>
+      <data key="d4">0.1593844177659206</data>
+    </edge>
+    <edge source="花间" target="远山">
+      <data key="d3">0.364029</data>
+      <data key="d4">0.15790227755545672</data>
+    </edge>
+    <edge source="花间" target="白蘋">
+      <data key="d3">0.341698</data>
+      <data key="d4">0.10273948915567412</data>
+    </edge>
+    <edge source="花间" target="断肠">
+      <data key="d3">0.334671</data>
+      <data key="d4">0.08538115705745761</data>
+    </edge>
+    <edge source="花间" target="来往">
+      <data key="d3">0.326346</data>
+      <data key="d4">0.06481646163727092</data>
+    </edge>
+    <edge source="花间" target="石上">
+      <data key="d3">0.317169</data>
+      <data key="d4">0.042147127118225304</data>
+    </edge>
+    <edge source="花间" target="秋草">
+      <data key="d3">0.306477</data>
+      <data key="d4">0.01573538856775848</data>
+    </edge>
+    <edge source="花间" target="相思">
+      <data key="d3">0.305722</data>
+      <data key="d4">0.013870362136258045</data>
+    </edge>
+    <edge source="猿声" target="洞庭">
+      <data key="d3">0.4584</data>
+      <data key="d4">0.39102070055827276</data>
+    </edge>
+    <edge source="猿声" target="落日">
+      <data key="d3">0.399845</data>
+      <data key="d4">0.24637616718541575</data>
+    </edge>
+    <edge source="猿声" target="送客">
+      <data key="d3">0.379909</data>
+      <data key="d4">0.19712958845906822</data>
+    </edge>
+    <edge source="猿声" target="白云">
+      <data key="d3">0.358751</data>
+      <data key="d4">0.14486438417074252</data>
+    </edge>
+    <edge source="猿声" target="万里">
+      <data key="d3">0.343366</data>
+      <data key="d4">0.10685983894076378</data>
+    </edge>
+    <edge source="猿声" target="花落">
+      <data key="d3">0.342225</data>
+      <data key="d4">0.10404130230719824</data>
+    </edge>
+    <edge source="猿声" target="春草">
+      <data key="d3">0.33782</data>
+      <data key="d4">0.09315992292870906</data>
+    </edge>
+    <edge source="猿声" target="夜雨">
+      <data key="d3">0.326135</data>
+      <data key="d4">0.06429524232992441</data>
+    </edge>
+    <edge source="猿声" target="吟诗">
+      <data key="d3">0.323768</data>
+      <data key="d4">0.05844819919964426</data>
+    </edge>
+    <edge source="猿声" target="云间">
+      <data key="d3">0.322607</data>
+      <data key="d4">0.05558025789239654</data>
+    </edge>
+    <edge source="猿声" target="千里">
+      <data key="d3">0.3202</data>
+      <data key="d4">0.04963440541475217</data>
+    </edge>
+    <edge source="猿声" target="石上">
+      <data key="d3">0.311713</data>
+      <data key="d4">0.028669532137740247</data>
+    </edge>
+    <edge source="猿声" target="落花">
+      <data key="d3">0.310119</data>
+      <data key="d4">0.02473197964527436</data>
+    </edge>
+    <edge source="猿声" target="故乡">
+      <data key="d3">0.301054</data>
+      <data key="d4">0.0023393112988488113</data>
+    </edge>
+    <edge source="猿声" target="断肠">
+      <data key="d3">0.301022</data>
+      <data key="d4">0.0022602638209574606</data>
+    </edge>
+    <edge source="猿声" target="青山">
+      <data key="d3">0.300956</data>
+      <data key="d4">0.0020972283978064046</data>
+    </edge>
+    <edge source="猿声" target="肠断">
+      <data key="d3">0.300107</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="君王" target="宫中">
+      <data key="d3">0.588269</data>
+      <data key="d4">0.7118274788795022</data>
+    </edge>
+    <edge source="君王" target="歌舞">
+      <data key="d3">0.56898</data>
+      <data key="d4">0.6641791413467716</data>
+    </edge>
+    <edge source="君王" target="青苔">
+      <data key="d3">0.424788</data>
+      <data key="d4">0.3079912059680846</data>
+    </edge>
+    <edge source="君王" target="罗衣">
+      <data key="d3">0.393553</data>
+      <data key="d4">0.2308334568450175</data>
+    </edge>
+    <edge source="君王" target="黄金">
+      <data key="d3">0.37539</data>
+      <data key="d4">0.18596660244059088</data>
+    </edge>
+    <edge source="君王" target="颜色">
+      <data key="d3">0.372046</data>
+      <data key="d4">0.17770614100093865</data>
+    </edge>
+    <edge source="君王" target="春来">
+      <data key="d3">0.3646</data>
+      <data key="d4">0.1593127809890815</data>
+    </edge>
+    <edge source="君王" target="歌声">
+      <data key="d3">0.349198</data>
+      <data key="d4">0.12126624178647301</data>
+    </edge>
+    <edge source="君王" target="断肠">
+      <data key="d3">0.331548</data>
+      <data key="d4">0.07766661726199299</data>
+    </edge>
+    <edge source="君王" target="单于">
+      <data key="d3">0.315259</data>
+      <data key="d4">0.03742898078158194</data>
+    </edge>
+    <edge source="君王" target="秋草">
+      <data key="d3">0.306383</data>
+      <data key="d4">0.015503186601452508</data>
+    </edge>
+    <edge source="春草" target="东风">
+      <data key="d3">0.448814</data>
+      <data key="d4">0.3673410404624277</data>
+    </edge>
+    <edge source="春草" target="莺啼">
+      <data key="d3">0.441512</data>
+      <data key="d4">0.349303394101082</data>
+    </edge>
+    <edge source="春草" target="夕阳">
+      <data key="d3">0.415009</data>
+      <data key="d4">0.283834790771207</data>
+    </edge>
+    <edge source="春草" target="万里">
+      <data key="d3">0.355996</data>
+      <data key="d4">0.13805889037102903</data>
+    </edge>
+    <edge source="春草" target="多情">
+      <data key="d3">0.353356</data>
+      <data key="d4">0.1315374734449879</data>
+    </edge>
+    <edge source="春草" target="故乡">
+      <data key="d3">0.352306</data>
+      <data key="d4">0.12894372807667606</data>
+    </edge>
+    <edge source="春草" target="相思">
+      <data key="d3">0.350559</data>
+      <data key="d4">0.12462822983054198</data>
+    </edge>
+    <edge source="春草" target="汀洲">
+      <data key="d3">0.342804</data>
+      <data key="d4">0.10547156761029591</data>
+    </edge>
+    <edge source="春草" target="山中">
+      <data key="d3">0.336111</data>
+      <data key="d4">0.08893829356257098</data>
+    </edge>
+    <edge source="春草" target="江上">
+      <data key="d3">0.325477</data>
+      <data key="d4">0.06266982856578233</data>
+    </edge>
+    <edge source="春草" target="泉声">
+      <data key="d3">0.32419</data>
+      <data key="d4">0.05949063781433716</data>
+    </edge>
+    <edge source="春草" target="今日">
+      <data key="d3">0.323885</data>
+      <data key="d4">0.05873721654068467</data>
+    </edge>
+    <edge source="春草" target="离别">
+      <data key="d3">0.319988</data>
+      <data key="d4">0.049110715873721615</data>
+    </edge>
+    <edge source="春草" target="肠断">
+      <data key="d3">0.315979</data>
+      <data key="d4">0.039207549034138624</data>
+    </edge>
+    <edge source="春草" target="远山">
+      <data key="d3">0.30838</data>
+      <data key="d4">0.020436243268613152</data>
+    </edge>
+    <edge source="春草" target="白蘋">
+      <data key="d3">0.307216</data>
+      <data key="d4">0.01756089126031317</data>
+    </edge>
+    <edge source="春草" target="送客">
+      <data key="d3">0.304214</data>
+      <data key="d4">0.010145249740625395</data>
+    </edge>
+    <edge source="垂杨" target="陌上">
+      <data key="d3">0.468511</data>
+      <data key="d4">0.4159972333382738</data>
+    </edge>
+    <edge source="垂杨" target="东风">
+      <data key="d3">0.455523</data>
+      <data key="d4">0.3839138382490984</data>
+    </edge>
+    <edge source="垂杨" target="落花">
+      <data key="d3">0.411773</data>
+      <data key="d4">0.2758411145694383</data>
+    </edge>
+    <edge source="垂杨" target="物外">
+      <data key="d3">0.401686</data>
+      <data key="d4">0.2509238673978558</data>
+    </edge>
+    <edge source="垂杨" target="春来">
+      <data key="d3">0.39882</data>
+      <data key="d4">0.24384417765920657</data>
+    </edge>
+    <edge source="垂杨" target="断肠">
+      <data key="d3">0.394694</data>
+      <data key="d4">0.23365199347858304</data>
+    </edge>
+    <edge source="垂杨" target="美人">
+      <data key="d3">0.393676</data>
+      <data key="d4">0.2311372955881627</data>
+    </edge>
+    <edge source="垂杨" target="花落">
+      <data key="d3">0.385803</data>
+      <data key="d4">0.21168914579319204</data>
+    </edge>
+    <edge source="垂杨" target="相识">
+      <data key="d3">0.334814</data>
+      <data key="d4">0.08573440047428485</data>
+    </edge>
+    <edge source="垂杨" target="黄金">
+      <data key="d3">0.325375</data>
+      <data key="d4">0.0624178647300035</data>
+    </edge>
+    <edge source="垂杨" target="宫中">
+      <data key="d3">0.309211</data>
+      <data key="d4">0.02248900746010573</data>
+    </edge>
+    <edge source="垂杨" target="多情">
+      <data key="d3">0.308636</data>
+      <data key="d4">0.021068623091744502</data>
+    </edge>
+    <edge source="垂杨" target="颜色">
+      <data key="d3">0.30776</data>
+      <data key="d4">0.018904698384467088</data>
+    </edge>
+    <edge source="夕阳" target="秋草">
+      <data key="d3">0.428583</data>
+      <data key="d4">0.31736574279926877</data>
+    </edge>
+    <edge source="夕阳" target="来往">
+      <data key="d3">0.393763</data>
+      <data key="d4">0.23135220591867983</data>
+    </edge>
+    <edge source="夕阳" target="流水">
+      <data key="d3">0.377797</data>
+      <data key="d4">0.19191245491823525</data>
+    </edge>
+    <edge source="夕阳" target="故国">
+      <data key="d3">0.360108</data>
+      <data key="d4">0.14821649128007505</data>
+    </edge>
+    <edge source="夕阳" target="陌上">
+      <data key="d3">0.343306</data>
+      <data key="d4">0.10671162491971739</data>
+    </edge>
+    <edge source="夕阳" target="青山">
+      <data key="d3">0.337081</data>
+      <data key="d4">0.09133442023615437</data>
+    </edge>
+    <edge source="夕阳" target="断肠">
+      <data key="d3">0.3336</data>
+      <data key="d4">0.08273553678177956</data>
+    </edge>
+    <edge source="夕阳" target="千里">
+      <data key="d3">0.332879</data>
+      <data key="d4">0.08095449829553869</data>
+    </edge>
+    <edge source="夕阳" target="青苔">
+      <data key="d3">0.327123</data>
+      <data key="d4">0.06673583320982161</data>
+    </edge>
+    <edge source="夕阳" target="汀洲">
+      <data key="d3">0.313586</data>
+      <data key="d4">0.03329627982807165</data>
+    </edge>
+    <edge source="夕阳" target="相访">
+      <data key="d3">0.313521</data>
+      <data key="d4">0.03313571463860477</data>
+    </edge>
+    <edge source="夕阳" target="洞庭">
+      <data key="d3">0.313282</data>
+      <data key="d4">0.03254532878810334</data>
+    </edge>
+    <edge source="夕阳" target="云间">
+      <data key="d3">0.310722</data>
+      <data key="d4">0.026221530556790638</data>
+    </edge>
+    <edge source="夕阳" target="相思">
+      <data key="d3">0.302043</data>
+      <data key="d4">0.004782372412430199</data>
+    </edge>
+    <edge source="山僧" target="吟诗">
+      <data key="d3">0.394937</data>
+      <data key="d4">0.2342522602638209</data>
+    </edge>
+    <edge source="山僧" target="相访">
+      <data key="d3">0.370505</data>
+      <data key="d4">0.17389951089373046</data>
+    </edge>
+    <edge source="山僧" target="相识">
+      <data key="d3">0.366261</data>
+      <data key="d4">0.16341583913838248</data>
+    </edge>
+    <edge source="山僧" target="山中">
+      <data key="d3">0.364121</data>
+      <data key="d4">0.15812953905439447</data>
+    </edge>
+    <edge source="山僧" target="云间">
+      <data key="d3">0.354223</data>
+      <data key="d4">0.13367916604910826</data>
+    </edge>
+    <edge source="山僧" target="道士">
+      <data key="d3">0.343001</data>
+      <data key="d4">0.1059582036460649</data>
+    </edge>
+    <edge source="山僧" target="物外">
+      <data key="d3">0.340916</data>
+      <data key="d4">0.1008077664147028</data>
+    </edge>
+    <edge source="山僧" target="白云">
+      <data key="d3">0.327497</data>
+      <data key="d4">0.06765970060767743</data>
+    </edge>
+    <edge source="山僧" target="流水">
+      <data key="d3">0.323647</data>
+      <data key="d4">0.058149300923867414</data>
+    </edge>
+    <edge source="山僧" target="泉声">
+      <data key="d3">0.315214</data>
+      <data key="d4">0.0373178202657971</data>
+    </edge>
+    <edge source="山僧" target="世上">
+      <data key="d3">0.308199</data>
+      <data key="d4">0.019989130971789903</data>
+    </edge>
+    <edge source="山僧" target="春来">
+      <data key="d3">0.308104</data>
+      <data key="d4">0.019754458771799755</data>
+    </edge>
+    <edge source="山僧" target="夜雨">
+      <data key="d3">0.305771</data>
+      <data key="d4">0.013991403586779317</data>
+    </edge>
+    <edge source="山僧" target="多病">
+      <data key="d3">0.300527</data>
+      <data key="d4">0.0010374981473246776</data>
+    </edge>
+    <edge source="万里" target="汉家">
+      <data key="d3">0.400326</data>
+      <data key="d4">0.247564349587471</data>
+    </edge>
+    <edge source="万里" target="江上">
+      <data key="d3">0.377435</data>
+      <data key="d4">0.19101823032458876</data>
+    </edge>
+    <edge source="万里" target="封侯">
+      <data key="d3">0.370216</data>
+      <data key="d4">0.17318561335902372</data>
+    </edge>
+    <edge source="万里" target="洞庭">
+      <data key="d3">0.369926</data>
+      <data key="d4">0.1724692455906328</data>
+    </edge>
+    <edge source="万里" target="相思">
+      <data key="d3">0.364512</data>
+      <data key="d4">0.15909540042488018</data>
+    </edge>
+    <edge source="万里" target="单于">
+      <data key="d3">0.364343</data>
+      <data key="d4">0.15867793093226612</data>
+    </edge>
+    <edge source="万里" target="落日">
+      <data key="d3">0.35374</data>
+      <data key="d4">0.13248604317968476</data>
+    </edge>
+    <edge source="万里" target="白首">
+      <data key="d3">0.352457</data>
+      <data key="d4">0.12931673336297617</data>
+    </edge>
+    <edge source="万里" target="故乡">
+      <data key="d3">0.351232</data>
+      <data key="d4">0.12629069709994561</data>
+    </edge>
+    <edge source="万里" target="陌上">
+      <data key="d3">0.349437</data>
+      <data key="d4">0.12185662763697443</data>
+    </edge>
+    <edge source="万里" target="断肠">
+      <data key="d3">0.34876</data>
+      <data key="d4">0.12018427943283436</data>
+    </edge>
+    <edge source="万里" target="今日">
+      <data key="d3">0.326939</data>
+      <data key="d4">0.06628131021194597</data>
+    </edge>
+    <edge source="万里" target="送客">
+      <data key="d3">0.324986</data>
+      <data key="d4">0.06145694382688599</data>
+    </edge>
+    <edge source="万里" target="肠断">
+      <data key="d3">0.318864</data>
+      <data key="d4">0.04633417321278586</data>
+    </edge>
+    <edge source="万里" target="故国">
+      <data key="d3">0.31699</data>
+      <data key="d4">0.04170495528877027</data>
+    </edge>
+    <edge source="万里" target="走马">
+      <data key="d3">0.315725</data>
+      <data key="d4">0.03858010967837549</data>
+    </edge>
+    <edge source="万里" target="秋草">
+      <data key="d3">0.31478</data>
+      <data key="d4">0.0362457388468949</data>
+    </edge>
+    <edge source="万里" target="青山">
+      <data key="d3">0.312762</data>
+      <data key="d4">0.0312608072723679</data>
+    </edge>
+    <edge source="万里" target="离别">
+      <data key="d3">0.31169</data>
+      <data key="d4">0.028612716763005808</data>
+    </edge>
+    <edge source="万里" target="千里">
+      <data key="d3">0.31036</data>
+      <data key="d4">0.025327305963144146</data>
+    </edge>
+    <edge source="道士" target="天台">
+      <data key="d3">0.493683</data>
+      <data key="d4">0.478177955634603</data>
+    </edge>
+    <edge source="道士" target="桃源">
+      <data key="d3">0.484689</data>
+      <data key="d4">0.455960673879749</data>
+    </edge>
+    <edge source="道士" target="白云">
+      <data key="d3">0.377404</data>
+      <data key="d4">0.19094165308038144</data>
+    </edge>
+    <edge source="道士" target="山中">
+      <data key="d3">0.354567</data>
+      <data key="d4">0.13452892643644093</data>
+    </edge>
+    <edge source="道士" target="相访">
+      <data key="d3">0.354295</data>
+      <data key="d4">0.13385702287436396</data>
+    </edge>
+    <edge source="道士" target="物外">
+      <data key="d3">0.34831</data>
+      <data key="d4">0.11907267427498641</data>
+    </edge>
+    <edge source="道士" target="石上">
+      <data key="d3">0.338446</data>
+      <data key="d4">0.09470628921495977</data>
+    </edge>
+    <edge source="道士" target="世上">
+      <data key="d3">0.313295</data>
+      <data key="d4">0.032577441825996686</data>
+    </edge>
+    <edge source="道士" target="流水">
+      <data key="d3">0.310651</data>
+      <data key="d4">0.026046143965219107</data>
+    </edge>
+    <edge source="汉家" target="单于">
+      <data key="d3">0.58678</data>
+      <data key="d4">0.7081493009238674</data>
+    </edge>
+    <edge source="汉家" target="咸阳">
+      <data key="d3">0.441831</data>
+      <data key="d4">0.3500913986463119</data>
+    </edge>
+    <edge source="汉家" target="流水">
+      <data key="d3">0.355086</data>
+      <data key="d4">0.13581097771849218</data>
+    </edge>
+    <edge source="汉家" target="英雄">
+      <data key="d3">0.342104</data>
+      <data key="d4">0.1037424040314214</data>
+    </edge>
+    <edge source="汉家" target="少年">
+      <data key="d3">0.337898</data>
+      <data key="d4">0.09335260115606929</data>
+    </edge>
+    <edge source="汉家" target="故乡">
+      <data key="d3">0.331911</data>
+      <data key="d4">0.07856331208932366</data>
+    </edge>
+    <edge source="汉家" target="秋草">
+      <data key="d3">0.330609</data>
+      <data key="d4">0.07534706783261691</data>
+    </edge>
+    <edge source="汉家" target="肠断">
+      <data key="d3">0.32963</data>
+      <data key="d4">0.0729287090558766</data>
+    </edge>
+    <edge source="汉家" target="路难">
+      <data key="d3">0.309978</data>
+      <data key="d4">0.024383676695815336</data>
+    </edge>
+    <edge source="汉家" target="丈夫">
+      <data key="d3">0.307307</data>
+      <data key="d4">0.017785682525566882</data>
+    </edge>
+    <edge source="汉家" target="白首">
+      <data key="d3">0.306246</data>
+      <data key="d4">0.01516476458672992</data>
+    </edge>
+    <edge source="汉家" target="古来">
+      <data key="d3">0.30351</data>
+      <data key="d4">0.00840620522701445</data>
+    </edge>
+    <edge source="汉家" target="青山">
+      <data key="d3">0.30114</data>
+      <data key="d4">0.002551751395682047</data>
+    </edge>
+    <edge source="英雄" target="路难">
+      <data key="d3">0.389478</data>
+      <data key="d4">0.22076725458228344</data>
+    </edge>
+    <edge source="英雄" target="世上">
+      <data key="d3">0.381593</data>
+      <data key="d4">0.20128946198310363</data>
+    </edge>
+    <edge source="英雄" target="丈夫">
+      <data key="d3">0.367335</data>
+      <data key="d4">0.16606887011511293</data>
+    </edge>
+    <edge source="英雄" target="感激">
+      <data key="d3">0.352178</data>
+      <data key="d4">0.12862753816511038</data>
+    </edge>
+    <edge source="英雄" target="富贵">
+      <data key="d3">0.349664</data>
+      <data key="d4">0.12241737068326655</data>
+    </edge>
+    <edge source="英雄" target="咸阳">
+      <data key="d3">0.328562</data>
+      <data key="d4">0.07029049948125095</data>
+    </edge>
+    <edge source="英雄" target="歌声">
+      <data key="d3">0.32795</data>
+      <data key="d4">0.06877871646657777</data>
+    </edge>
+    <edge source="英雄" target="宫中">
+      <data key="d3">0.322607</data>
+      <data key="d4">0.05558025789239654</data>
+    </edge>
+    <edge source="英雄" target="多情">
+      <data key="d3">0.322031</data>
+      <data key="d4">0.05415740329035127</data>
+    </edge>
+    <edge source="英雄" target="古来">
+      <data key="d3">0.3112</data>
+      <data key="d4">0.0274023022577935</data>
+    </edge>
+    <edge source="英雄" target="故乡">
+      <data key="d3">0.301054</data>
+      <data key="d4">0.0023393112988488113</data>
+    </edge>
+    <edge source="洞庭" target="白蘋">
+      <data key="d3">0.406407</data>
+      <data key="d4">0.26258584062052276</data>
+    </edge>
+    <edge source="洞庭" target="汀洲">
+      <data key="d3">0.399325</data>
+      <data key="d4">0.2450916456696803</data>
+    </edge>
+    <edge source="洞庭" target="送客">
+      <data key="d3">0.380709</data>
+      <data key="d4">0.1991057754063535</data>
+    </edge>
+    <edge source="洞庭" target="江上">
+      <data key="d3">0.368874</data>
+      <data key="d4">0.16987055975495274</data>
+    </edge>
+    <edge source="洞庭" target="白云">
+      <data key="d3">0.323568</data>
+      <data key="d4">0.05795415246282301</data>
+    </edge>
+    <edge source="洞庭" target="落日">
+      <data key="d3">0.322464</data>
+      <data key="d4">0.0552270144755693</data>
+    </edge>
+    <edge source="洞庭" target="青山">
+      <data key="d3">0.317799</data>
+      <data key="d4">0.04370337433921246</data>
+    </edge>
+    <edge source="洞庭" target="千里">
+      <data key="d3">0.308184</data>
+      <data key="d4">0.01995207746652834</data>
+    </edge>
+    <edge source="颜色" target="路难">
+      <data key="d3">0.432204</data>
+      <data key="d4">0.32631045896941846</data>
+    </edge>
+    <edge source="颜色" target="富贵">
+      <data key="d3">0.404872</data>
+      <data key="d4">0.2587940319154192</data>
+    </edge>
+    <edge source="颜色" target="世上">
+      <data key="d3">0.370048</data>
+      <data key="d4">0.17277061410009384</data>
+    </edge>
+    <edge source="颜色" target="东风">
+      <data key="d3">0.357347</data>
+      <data key="d4">0.14139617607825705</data>
+    </edge>
+    <edge source="颜色" target="他人">
+      <data key="d3">0.355463</data>
+      <data key="d4">0.13674225581740024</data>
+    </edge>
+    <edge source="颜色" target="多情">
+      <data key="d3">0.348172</data>
+      <data key="d4">0.11873178202657965</data>
+    </edge>
+    <edge source="颜色" target="花落">
+      <data key="d3">0.347154</data>
+      <data key="d4">0.1162170841361593</data>
+    </edge>
+    <edge source="颜色" target="美人">
+      <data key="d3">0.347145</data>
+      <data key="d4">0.11619485203300225</data>
+    </edge>
+    <edge source="颜色" target="落花">
+      <data key="d3">0.345222</data>
+      <data key="d4">0.1114445926584654</data>
+    </edge>
+    <edge source="颜色" target="黄金">
+      <data key="d3">0.339793</data>
+      <data key="d4">0.09803369398745122</data>
+    </edge>
+    <edge source="颜色" target="人生">
+      <data key="d3">0.321504</data>
+      <data key="d4">0.05285559013882714</data>
+    </edge>
+    <edge source="颜色" target="相访">
+      <data key="d3">0.311239</data>
+      <data key="d4">0.027498641371473682</data>
+    </edge>
+    <edge source="颜色" target="单于">
+      <data key="d3">0.309833</data>
+      <data key="d4">0.024025492811620013</data>
+    </edge>
+    <edge source="颜色" target="断肠">
+      <data key="d3">0.3096</data>
+      <data key="d4">0.0234499283632231</data>
+    </edge>
+    <edge source="颜色" target="相识">
+      <data key="d3">0.305267</data>
+      <data key="d4">0.012746405809989621</data>
+    </edge>
+    <edge source="相识" target="路难">
+      <data key="d3">0.462721</data>
+      <data key="d4">0.40169458030729704</data>
+    </edge>
+    <edge source="相识" target="陌上">
+      <data key="d3">0.399209</data>
+      <data key="d4">0.24480509856232394</data>
+    </edge>
+    <edge source="相识" target="少年">
+      <data key="d3">0.388821</data>
+      <data key="d4">0.21914431105182555</data>
+    </edge>
+    <edge source="相识" target="意气">
+      <data key="d3">0.384081</data>
+      <data key="d4">0.2074354033891606</data>
+    </edge>
+    <edge source="相识" target="咸阳">
+      <data key="d3">0.383425</data>
+      <data key="d4">0.20581493009238677</data>
+    </edge>
+    <edge source="相识" target="故乡">
+      <data key="d3">0.339036</data>
+      <data key="d4">0.09616372708858256</data>
+    </edge>
+    <edge source="相识" target="云间">
+      <data key="d3">0.322011</data>
+      <data key="d4">0.05410799861666909</data>
+    </edge>
+    <edge source="相识" target="断肠">
+      <data key="d3">0.319589</data>
+      <data key="d4">0.048125092633763154</data>
+    </edge>
+    <edge source="相识" target="青山">
+      <data key="d3">0.317191</data>
+      <data key="d4">0.0422014722592757</data>
+    </edge>
+    <edge source="相识" target="白首">
+      <data key="d3">0.313079</data>
+      <data key="d4">0.032043871350229694</data>
+    </edge>
+    <edge source="相识" target="古来">
+      <data key="d3">0.310149</data>
+      <data key="d4">0.02480608665579763</data>
+    </edge>
+    <edge source="相识" target="歌舞">
+      <data key="d3">0.309284</data>
+      <data key="d4">0.02266933451904548</data>
+    </edge>
+    <edge source="相识" target="寒食">
+      <data key="d3">0.308799</data>
+      <data key="d4">0.02147127118225379</data>
+    </edge>
+    <edge source="相识" target="故国">
+      <data key="d3">0.305981</data>
+      <data key="d4">0.014510152660441655</data>
+    </edge>
+    <edge source="落花" target="流水">
+      <data key="d3">0.492522</data>
+      <data key="d4">0.4753100143273554</data>
+    </edge>
+    <edge source="落花" target="莺啼">
+      <data key="d3">0.462468</data>
+      <data key="d4">0.4010696111852181</data>
+    </edge>
+    <edge source="落花" target="桃源">
+      <data key="d3">0.436174</data>
+      <data key="d4">0.33611728669532137</data>
+    </edge>
+    <edge source="落花" target="东风">
+      <data key="d3">0.423851</data>
+      <data key="d4">0.30567659700607674</data>
+    </edge>
+    <edge source="落花" target="相思">
+      <data key="d3">0.355901</data>
+      <data key="d4">0.13782421817103901</data>
+    </edge>
+    <edge source="落花" target="青苔">
+      <data key="d3">0.35427</data>
+      <data key="d4">0.13379526703226116</data>
+    </edge>
+    <edge source="落花" target="寒食">
+      <data key="d3">0.351729</data>
+      <data key="d4">0.1275184032409466</data>
+    </edge>
+    <edge source="落花" target="春来">
+      <data key="d3">0.345705</data>
+      <data key="d4">0.11263771552788888</data>
+    </edge>
+    <edge source="落花" target="少年">
+      <data key="d3">0.345642</data>
+      <data key="d4">0.11248209080579022</data>
+    </edge>
+    <edge source="落花" target="远山">
+      <data key="d3">0.341102</data>
+      <data key="d4">0.10126722987994666</data>
+    </edge>
+    <edge source="落花" target="美人">
+      <data key="d3">0.328514</data>
+      <data key="d4">0.07017192826441372</data>
+    </edge>
+    <edge source="落花" target="罗衣">
+      <data key="d3">0.327205</data>
+      <data key="d4">0.06693839237191841</data>
+    </edge>
+    <edge source="落花" target="夜雨">
+      <data key="d3">0.316138</data>
+      <data key="d4">0.03960031618991148</data>
+    </edge>
+    <edge source="落花" target="青山">
+      <data key="d3">0.314722</data>
+      <data key="d4">0.036102465293216715</data>
+    </edge>
+    <edge source="落花" target="肠断">
+      <data key="d3">0.312441</data>
+      <data key="d4">0.030467862259769805</data>
+    </edge>
+    <edge source="落花" target="多情">
+      <data key="d3">0.311644</data>
+      <data key="d4">0.028499086013536793</data>
+    </edge>
+    <edge source="落花" target="天台">
+      <data key="d3">0.310454</data>
+      <data key="d4">0.025559507929450116</data>
+    </edge>
+    <edge source="落花" target="来往">
+      <data key="d3">0.310395</data>
+      <data key="d4">0.025413764142087753</data>
+    </edge>
+    <edge source="青山" target="白首">
+      <data key="d3">0.43398</data>
+      <data key="d4">0.3306975939923916</data>
+    </edge>
+    <edge source="青山" target="流水">
+      <data key="d3">0.400747</data>
+      <data key="d4">0.24860431796847987</data>
+    </edge>
+    <edge source="青山" target="落日">
+      <data key="d3">0.39117</data>
+      <data key="d4">0.22494688997579174</data>
+    </edge>
+    <edge source="青山" target="白云">
+      <data key="d3">0.390593</data>
+      <data key="d4">0.2235215651400623</data>
+    </edge>
+    <edge source="青山" target="云间">
+      <data key="d3">0.35539</data>
+      <data key="d4">0.1365619287584605</data>
+    </edge>
+    <edge source="青山" target="故乡">
+      <data key="d3">0.348039</data>
+      <data key="d4">0.11840324094659349</data>
+    </edge>
+    <edge source="青山" target="闲居">
+      <data key="d3">0.340367</data>
+      <data key="d4">0.09945160812212828</data>
+    </edge>
+    <edge source="青山" target="残阳">
+      <data key="d3">0.336163</data>
+      <data key="d4">0.08906674571414451</data>
+    </edge>
+    <edge source="青山" target="桃源">
+      <data key="d3">0.325562</data>
+      <data key="d4">0.06287979842893139</data>
+    </edge>
+    <edge source="青山" target="千里">
+      <data key="d3">0.316517</data>
+      <data key="d4">0.04053653475618789</data>
+    </edge>
+    <edge source="青山" target="江上">
+      <data key="d3">0.31328</data>
+      <data key="d4">0.03254038832073512</data>
+    </edge>
+    <edge source="青山" target="莺啼">
+      <data key="d3">0.303474</data>
+      <data key="d4">0.008317276814386664</data>
+    </edge>
+    <edge source="宫中" target="歌舞">
+      <data key="d3">0.560799</data>
+      <data key="d4">0.6439701595770961</data>
+    </edge>
+    <edge source="宫中" target="美人">
+      <data key="d3">0.473308</data>
+      <data key="d4">0.4278469443209328</data>
+    </edge>
+    <edge source="宫中" target="走马">
+      <data key="d3">0.407032</data>
+      <data key="d4">0.2641297366730893</data>
+    </edge>
+    <edge source="宫中" target="陌上">
+      <data key="d3">0.39501</data>
+      <data key="d4">0.23443258732276065</data>
+    </edge>
+    <edge source="宫中" target="罗衣">
+      <data key="d3">0.383847</data>
+      <data key="d4">0.20685736870707966</data>
+    </edge>
+    <edge source="宫中" target="歌声">
+      <data key="d3">0.354223</data>
+      <data key="d4">0.13367916604910826</data>
+    </edge>
+    <edge source="宫中" target="黄金">
+      <data key="d3">0.352751</data>
+      <data key="d4">0.1300429820661034</data>
+    </edge>
+    <edge source="宫中" target="肠断">
+      <data key="d3">0.345691</data>
+      <data key="d4">0.1126031322563115</data>
+    </edge>
+    <edge source="宫中" target="花满">
+      <data key="d3">0.344552</data>
+      <data key="d4">0.10978953609011417</data>
+    </edge>
+    <edge source="宫中" target="东风">
+      <data key="d3">0.316375</data>
+      <data key="d4">0.04018576157304483</data>
+    </edge>
+    <edge source="宫中" target="世上">
+      <data key="d3">0.302856</data>
+      <data key="d4">0.0067906723976088185</data>
+    </edge>
+    <edge source="相思" target="肠断">
+      <data key="d3">0.445478</data>
+      <data key="d4">0.35910034089224835</data>
+    </edge>
+    <edge source="相思" target="离别">
+      <data key="d3">0.392075</data>
+      <data key="d4">0.22718245145990812</data>
+    </edge>
+    <edge source="相思" target="千里">
+      <data key="d3">0.387781</data>
+      <data key="d4">0.21657526802035468</data>
+    </edge>
+    <edge source="相思" target="罗衣">
+      <data key="d3">0.386988</data>
+      <data key="d4">0.21461637270885825</data>
+    </edge>
+    <edge source="相思" target="美人">
+      <data key="d3">0.385523</data>
+      <data key="d4">0.2109974803616422</data>
+    </edge>
+    <edge source="相思" target="莺啼">
+      <data key="d3">0.364414</data>
+      <data key="d4">0.15885331752383777</data>
+    </edge>
+    <edge source="相思" target="断肠">
+      <data key="d3">0.358332</data>
+      <data key="d4">0.14382935625710186</data>
+    </edge>
+    <edge source="相思" target="流水">
+      <data key="d3">0.347574</data>
+      <data key="d4">0.11725458228348398</data>
+    </edge>
+    <edge source="相思" target="花落">
+      <data key="d3">0.342023</data>
+      <data key="d4">0.10354231510300878</data>
+    </edge>
+    <edge source="相思" target="送客">
+      <data key="d3">0.331087</data>
+      <data key="d4">0.07652783953361991</data>
+    </edge>
+    <edge source="相思" target="青苔">
+      <data key="d3">0.331044</data>
+      <data key="d4">0.07642161948520329</data>
+    </edge>
+    <edge source="相思" target="江上">
+      <data key="d3">0.328772</data>
+      <data key="d4">0.07080924855491329</data>
+    </edge>
+    <edge source="相思" target="云间">
+      <data key="d3">0.304187</data>
+      <data key="d4">0.01007855343115452</data>
+    </edge>
+    <edge source="闲居" target="多病">
+      <data key="d3">0.383707</data>
+      <data key="d4">0.2065115359913048</data>
+    </edge>
+    <edge source="闲居" target="青苔">
+      <data key="d3">0.373318</data>
+      <data key="d4">0.18084827824712213</data>
+    </edge>
+    <edge source="闲居" target="吟诗">
+      <data key="d3">0.342142</data>
+      <data key="d4">0.10383627291141741</data>
+    </edge>
+    <edge source="闲居" target="相访">
+      <data key="d3">0.319206</data>
+      <data key="d4">0.047178993132750306</data>
+    </edge>
+    <edge source="闲居" target="来往">
+      <data key="d3">0.301139</data>
+      <data key="d4">0.0025492811619978696</data>
+    </edge>
+    <edge source="闲居" target="白云">
+      <data key="d3">0.300163</data>
+      <data key="d4">0.00013833308630996615</data>
+    </edge>
+    <edge source="故国" target="江上">
+      <data key="d3">0.423188</data>
+      <data key="d4">0.3040388320735142</data>
+    </edge>
+    <edge source="故国" target="感激">
+      <data key="d3">0.403127</data>
+      <data key="d4">0.25448347413665334</data>
+    </edge>
+    <edge source="故国" target="千里">
+      <data key="d3">0.339927</data>
+      <data key="d4">0.09836470530112142</data>
+    </edge>
+    <edge source="故国" target="离别">
+      <data key="d3">0.336536</data>
+      <data key="d4">0.08998814287831627</data>
+    </edge>
+    <edge source="故国" target="石上">
+      <data key="d3">0.32131</data>
+      <data key="d4">0.052376364804110405</data>
+    </edge>
+    <edge source="故国" target="汀洲">
+      <data key="d3">0.311849</data>
+      <data key="d4">0.029005483918778656</data>
+    </edge>
+    <edge source="千里" target="送客">
+      <data key="d3">0.355374</data>
+      <data key="d4">0.13652240501951488</data>
+    </edge>
+    <edge source="千里" target="白蘋">
+      <data key="d3">0.353172</data>
+      <data key="d4">0.13108295044711224</data>
+    </edge>
+    <edge source="千里" target="咸阳">
+      <data key="d3">0.349698</data>
+      <data key="d4">0.12250135862852626</data>
+    </edge>
+    <edge source="千里" target="落日">
+      <data key="d3">0.349463</data>
+      <data key="d4">0.12192085371276126</data>
+    </edge>
+    <edge source="千里" target="江上">
+      <data key="d3">0.332807</data>
+      <data key="d4">0.08077664147028311</data>
+    </edge>
+    <edge source="千里" target="单于">
+      <data key="d3">0.328452</data>
+      <data key="d4">0.07001877377599924</data>
+    </edge>
+    <edge source="千里" target="少年">
+      <data key="d3">0.326651</data>
+      <data key="d4">0.06556988291092342</data>
+    </edge>
+    <edge source="千里" target="离别">
+      <data key="d3">0.302815</data>
+      <data key="d4">0.006689392816560418</data>
+    </edge>
+    <edge source="丈夫" target="封侯">
+      <data key="d3">0.470038</data>
+      <data key="d4">0.41976928017390447</data>
+    </edge>
+    <edge source="丈夫" target="富贵">
+      <data key="d3">0.434523</data>
+      <data key="d4">0.3320389308828615</data>
+    </edge>
+    <edge source="丈夫" target="走马">
+      <data key="d3">0.366923</data>
+      <data key="d4">0.165051133837261</data>
+    </edge>
+    <edge source="丈夫" target="少年">
+      <data key="d3">0.344578</data>
+      <data key="d4">0.10985376216590087</data>
+    </edge>
+    <edge source="丈夫" target="白首">
+      <data key="d3">0.332213</data>
+      <data key="d4">0.07930932266192375</data>
+    </edge>
+    <edge source="丈夫" target="人生">
+      <data key="d3">0.314193</data>
+      <data key="d4">0.03479571167432436</data>
+    </edge>
+    <edge source="丈夫" target="他人">
+      <data key="d3">0.310413</data>
+      <data key="d4">0.025458228348401717</data>
+    </edge>
+    <edge source="丈夫" target="单于">
+      <data key="d3">0.30345</data>
+      <data key="d4">0.008257991205968047</data>
+    </edge>
+    <edge source="丈夫" target="黄金">
+      <data key="d3">0.30298</data>
+      <data key="d4">0.007096981374438058</data>
+    </edge>
+    <edge source="黄金" target="少年">
+      <data key="d3">0.421193</data>
+      <data key="d4">0.2991107158737216</data>
+    </edge>
+    <edge source="黄金" target="路难">
+      <data key="d3">0.404879</data>
+      <data key="d4">0.2588113235512079</data>
+    </edge>
+    <edge source="黄金" target="单于">
+      <data key="d3">0.369217</data>
+      <data key="d4">0.1707178499086014</data>
+    </edge>
+    <edge source="黄金" target="美人">
+      <data key="d3">0.365738</data>
+      <data key="d4">0.16212390692159478</data>
+    </edge>
+    <edge source="黄金" target="歌舞">
+      <data key="d3">0.363951</data>
+      <data key="d4">0.15770959932809647</data>
+    </edge>
+    <edge source="黄金" target="封侯">
+      <data key="d3">0.342892</data>
+      <data key="d4">0.10568894817449723</data>
+    </edge>
+    <edge source="黄金" target="富贵">
+      <data key="d3">0.341482</data>
+      <data key="d4">0.10220591867990712</data>
+    </edge>
+    <edge source="黄金" target="意气">
+      <data key="d3">0.336181</data>
+      <data key="d4">0.08911120992045847</data>
+    </edge>
+    <edge source="黄金" target="陌上">
+      <data key="d3">0.330219</data>
+      <data key="d4">0.07438367669581536</data>
+    </edge>
+    <edge source="黄金" target="白首">
+      <data key="d3">0.326544</data>
+      <data key="d4">0.06530556790672395</data>
+    </edge>
+    <edge source="黄金" target="歌声">
+      <data key="d3">0.317598</data>
+      <data key="d4">0.04320685736870703</data>
+    </edge>
+    <edge source="黄金" target="他人">
+      <data key="d3">0.310135</data>
+      <data key="d4">0.024771503384220104</data>
+    </edge>
+    <edge source="黄金" target="东风">
+      <data key="d3">0.30731</data>
+      <data key="d4">0.01779309322661928</data>
+    </edge>
+    <edge source="秋草" target="意气">
+      <data key="d3">0.349092</data>
+      <data key="d4">0.12100439701595772</data>
+    </edge>
+    <edge source="秋草" target="落日">
+      <data key="d3">0.34541</data>
+      <data key="d4">0.11190899659107749</data>
+    </edge>
+    <edge source="秋草" target="残阳">
+      <data key="d3">0.333055</data>
+      <data key="d4">0.08138925942394146</data>
+    </edge>
+    <edge source="秋草" target="花满">
+      <data key="d3">0.322106</data>
+      <data key="d4">0.054342670816659236</data>
+    </edge>
+    <edge source="秋草" target="白云">
+      <data key="d3">0.315277</data>
+      <data key="d4">0.03747344498789576</data>
+    </edge>
+    <edge source="白首" target="故乡">
+      <data key="d3">0.400982</data>
+      <data key="d4">0.24918482288424484</data>
+    </edge>
+    <edge source="白首" target="落日">
+      <data key="d3">0.36663</data>
+      <data key="d4">0.1643273553678178</data>
+    </edge>
+    <edge source="白首" target="远山">
+      <data key="d3">0.353572</data>
+      <data key="d4">0.1320710439207549</data>
+    </edge>
+    <edge source="白首" target="古来">
+      <data key="d3">0.344347</data>
+      <data key="d4">0.1092831381848723</data>
+    </edge>
+    <edge source="白首" target="少年">
+      <data key="d3">0.329866</data>
+      <data key="d4">0.07351168420532578</data>
+    </edge>
+    <edge source="白首" target="单于">
+      <data key="d3">0.317423</data>
+      <data key="d4">0.04277456647398844</data>
+    </edge>
+    <edge source="白首" target="江上">
+      <data key="d3">0.314347</data>
+      <data key="d4">0.035176127661676736</data>
+    </edge>
+    <edge source="白首" target="世上">
+      <data key="d3">0.308741</data>
+      <data key="d4">0.021327997628575603</data>
+    </edge>
+    <edge source="白首" target="夜雨">
+      <data key="d3">0.306217</data>
+      <data key="d4">0.015093127809890828</data>
+    </edge>
+    <edge source="白首" target="多情">
+      <data key="d3">0.301949</data>
+      <data key="d4">0.00455017044612423</data>
+    </edge>
+    <edge source="白蘋" target="汀洲">
+      <data key="d3">0.553719</data>
+      <data key="d4">0.6264809050936218</data>
+    </edge>
+    <edge source="白蘋" target="送客">
+      <data key="d3">0.470239</data>
+      <data key="d4">0.4202657971444099</data>
+    </edge>
+    <edge source="白蘋" target="春来">
+      <data key="d3">0.355105</data>
+      <data key="d4">0.1358579121584902</data>
+    </edge>
+    <edge source="白蘋" target="故乡">
+      <data key="d3">0.326056</data>
+      <data key="d4">0.06410009386888</data>
+    </edge>
+    <edge source="白蘋" target="离别">
+      <data key="d3">0.319558</data>
+      <data key="d4">0.048048515389555846</data>
+    </edge>
+    <edge source="白蘋" target="歌声">
+      <data key="d3">0.315878</data>
+      <data key="d4">0.03895805543204382</data>
+    </edge>
+    <edge source="白蘋" target="夜雨">
+      <data key="d3">0.314064</data>
+      <data key="d4">0.03447705152907465</data>
+    </edge>
+    <edge source="白蘋" target="吟诗">
+      <data key="d3">0.311697</data>
+      <data key="d4">0.028630008398794503</data>
+    </edge>
+    <edge source="天台" target="石上">
+      <data key="d3">0.391003</data>
+      <data key="d4">0.22453436095054588</data>
+    </edge>
+    <edge source="天台" target="来往">
+      <data key="d3">0.366032</data>
+      <data key="d4">0.16285015562472213</data>
+    </edge>
+    <edge source="天台" target="多病">
+      <data key="d3">0.352536</data>
+      <data key="d4">0.12951188182402057</data>
+    </edge>
+    <edge source="天台" target="流水">
+      <data key="d3">0.32211</data>
+      <data key="d4">0.054352551751395674</data>
+    </edge>
+    <edge source="天台" target="草堂">
+      <data key="d3">0.32138</data>
+      <data key="d4">0.0525492811619979</data>
+    </edge>
+    <edge source="天台" target="落日">
+      <data key="d3">0.309881</data>
+      <data key="d4">0.024144064028457108</data>
+    </edge>
+    <edge source="天台" target="物外">
+      <data key="d3">0.303131</data>
+      <data key="d4">0.007469986660738035</data>
+    </edge>
+    <edge source="天台" target="花满">
+      <data key="d3">0.301947</data>
+      <data key="d4">0.004545229978756012</data>
+    </edge>
+    <edge source="山中" target="世上">
+      <data key="d3">0.437793</data>
+      <data key="d4">0.3401165950298898</data>
+    </edge>
+    <edge source="山中" target="石上">
+      <data key="d3">0.429026</data>
+      <data key="d4">0.31846005632132807</data>
+    </edge>
+    <edge source="山中" target="白云">
+      <data key="d3">0.356285</data>
+      <data key="d4">0.1387727879057359</data>
+    </edge>
+    <edge source="山中" target="吟诗">
+      <data key="d3">0.330931</data>
+      <data key="d4">0.07614248307889918</data>
+    </edge>
+    <edge source="山中" target="来往">
+      <data key="d3">0.327666</data>
+      <data key="d4">0.06807717010029149</data>
+    </edge>
+    <edge source="山中" target="云间">
+      <data key="d3">0.319113</data>
+      <data key="d4">0.046949261400128374</data>
+    </edge>
+    <edge source="山中" target="相访">
+      <data key="d3">0.313358</data>
+      <data key="d4">0.032733066548095484</data>
+    </edge>
+    <edge source="草堂" target="相访">
+      <data key="d3">0.379216</data>
+      <data key="d4">0.1954177165159824</data>
+    </edge>
+    <edge source="草堂" target="石上">
+      <data key="d3">0.350144</data>
+      <data key="d4">0.12360308285163778</data>
+    </edge>
+    <edge source="草堂" target="来往">
+      <data key="d3">0.345498</data>
+      <data key="d4">0.11212637715527894</data>
+    </edge>
+    <edge source="草堂" target="江上">
+      <data key="d3">0.337501</data>
+      <data key="d4">0.09237191838347904</data>
+    </edge>
+    <edge source="花满" target="莺啼">
+      <data key="d3">0.446414</data>
+      <data key="d4">0.36141247962057205</data>
+    </edge>
+    <edge source="花满" target="歌声">
+      <data key="d3">0.421598</data>
+      <data key="d4">0.30011116051578474</data>
+    </edge>
+    <edge source="花满" target="美人">
+      <data key="d3">0.402754</data>
+      <data key="d4">0.2535620769724816</data>
+    </edge>
+    <edge source="花满" target="送客">
+      <data key="d3">0.379346</data>
+      <data key="d4">0.1957388468949163</data>
+    </edge>
+    <edge source="花满" target="肠断">
+      <data key="d3">0.376082</data>
+      <data key="d4">0.18767600414999264</data>
+    </edge>
+    <edge source="花满" target="来往">
+      <data key="d3">0.342767</data>
+      <data key="d4">0.10538016896398394</data>
+    </edge>
+    <edge source="花满" target="春来">
+      <data key="d3">0.336277</data>
+      <data key="d4">0.08934835235413266</data>
+    </edge>
+    <edge source="花满" target="流水">
+      <data key="d3">0.335011</data>
+      <data key="d4">0.08622103651005383</data>
+    </edge>
+    <edge source="花满" target="花落">
+      <data key="d3">0.322813</data>
+      <data key="d4">0.05608912603132258</data>
+    </edge>
+    <edge source="花满" target="寒食">
+      <data key="d3">0.318138</data>
+      <data key="d4">0.04454078355812451</data>
+    </edge>
+    <edge source="花满" target="少年">
+      <data key="d3">0.304786</data>
+      <data key="d4">0.011558223407934365</data>
+    </edge>
+    <edge source="少年" target="走马">
+      <data key="d3">0.504677</data>
+      <data key="d4">0.5053357047576702</data>
+    </edge>
+    <edge source="少年" target="多情">
+      <data key="d3">0.419662</data>
+      <data key="d4">0.2953287881033545</data>
+    </edge>
+    <edge source="少年" target="他人">
+      <data key="d3">0.41534</data>
+      <data key="d4">0.28465243812064617</data>
+    </edge>
+    <edge source="少年" target="单于">
+      <data key="d3">0.378305</data>
+      <data key="d4">0.19316733362976138</data>
+    </edge>
+    <edge source="少年" target="寒食">
+      <data key="d3">0.365598</data>
+      <data key="d4">0.1617780742058198</data>
+    </edge>
+    <edge source="少年" target="意气">
+      <data key="d3">0.362644</data>
+      <data key="d4">0.15448100390296926</data>
+    </edge>
+    <edge source="少年" target="封侯">
+      <data key="d3">0.360563</data>
+      <data key="d4">0.1493404476063436</data>
+    </edge>
+    <edge source="少年" target="美人">
+      <data key="d3">0.343543</data>
+      <data key="d4">0.1072970703028506</data>
+    </edge>
+    <edge source="少年" target="莺啼">
+      <data key="d3">0.34105</data>
+      <data key="d4">0.10113877772837314</data>
+    </edge>
+    <edge source="少年" target="富贵">
+      <data key="d3">0.339532</data>
+      <data key="d4">0.09738896299589939</data>
+    </edge>
+    <edge source="少年" target="陌上">
+      <data key="d3">0.335891</data>
+      <data key="d4">0.08839484215206755</data>
+    </edge>
+    <edge source="少年" target="今日">
+      <data key="d3">0.335251</data>
+      <data key="d4">0.08681389259423944</data>
+    </edge>
+    <edge source="少年" target="咸阳">
+      <data key="d3">0.335181</data>
+      <data key="d4">0.08664097623635195</data>
+    </edge>
+    <edge source="少年" target="路难">
+      <data key="d3">0.325167</data>
+      <data key="d4">0.061904056123709236</data>
+    </edge>
+    <edge source="少年" target="东风">
+      <data key="d3">0.308971</data>
+      <data key="d4">0.021896151375920124</data>
+    </edge>
+    <edge source="桃源" target="流水">
+      <data key="d3">0.422082</data>
+      <data key="d4">0.30130675361889236</data>
+    </edge>
+    <edge source="桃源" target="莺啼">
+      <data key="d3">0.383985</data>
+      <data key="d4">0.20719826095548644</data>
+    </edge>
+    <edge source="桃源" target="歌舞">
+      <data key="d3">0.325163</data>
+      <data key="d4">0.061894175188972805</data>
+    </edge>
+    <edge source="桃源" target="单于">
+      <data key="d3">0.31716</data>
+      <data key="d4">0.04212489501506839</data>
+    </edge>
+    <edge source="桃源" target="泉声">
+      <data key="d3">0.315827</data>
+      <data key="d4">0.03883207351415447</data>
+    </edge>
+    <edge source="桃源" target="残阳">
+      <data key="d3">0.309428</data>
+      <data key="d4">0.023025048169556764</data>
+    </edge>
+    <edge source="桃源" target="断肠">
+      <data key="d3">0.308921</data>
+      <data key="d4">0.02177263969171481</data>
+    </edge>
+    <edge source="桃源" target="春来">
+      <data key="d3">0.308741</data>
+      <data key="d4">0.021327997628575603</data>
+    </edge>
+    <edge source="桃源" target="多情">
+      <data key="d3">0.30228</data>
+      <data key="d4">0.0053678177955634124</data>
+    </edge>
+    <edge source="汀洲" target="远山">
+      <data key="d3">0.435381</data>
+      <data key="d4">0.33415839138382497</data>
+    </edge>
+    <edge source="汀洲" target="故乡">
+      <data key="d3">0.375045</data>
+      <data key="d4">0.18511437181957416</data>
+    </edge>
+    <edge source="汀洲" target="离别">
+      <data key="d3">0.337222</data>
+      <data key="d4">0.0916827231856134</data>
+    </edge>
+    <edge source="汀洲" target="多病">
+      <data key="d3">0.325547</data>
+      <data key="d4">0.06284274492366969</data>
+    </edge>
+    <edge source="花落" target="莺啼">
+      <data key="d3">0.478958</data>
+      <data key="d4">0.4418037646361346</data>
+    </edge>
+    <edge source="花落" target="青苔">
+      <data key="d3">0.356107</data>
+      <data key="d4">0.13833308630996494</data>
+    </edge>
+    <edge source="花落" target="罗衣">
+      <data key="d3">0.354609</data>
+      <data key="d4">0.13463267625117337</data>
+    </edge>
+    <edge source="花落" target="流水">
+      <data key="d3">0.334006</data>
+      <data key="d4">0.08373845165752684</data>
+    </edge>
+    <edge source="花落" target="寒食">
+      <data key="d3">0.333413</data>
+      <data key="d4">0.08227360308285166</data>
+    </edge>
+    <edge source="花落" target="送客">
+      <data key="d3">0.323848</data>
+      <data key="d4">0.05864581789437284</data>
+    </edge>
+    <edge source="花落" target="东风">
+      <data key="d3">0.3181</data>
+      <data key="d4">0.04444691467812851</data>
+    </edge>
+    <edge source="花落" target="来往">
+      <data key="d3">0.312198</data>
+      <data key="d4">0.029867595474531803</data>
+    </edge>
+    <edge source="单于" target="走马">
+      <data key="d3">0.474109</data>
+      <data key="d4">0.4298256015019021</data>
+    </edge>
+    <edge source="单于" target="封侯">
+      <data key="d3">0.433258</data>
+      <data key="d4">0.32891408527246674</data>
+    </edge>
+    <edge source="单于" target="云间">
+      <data key="d3">0.403285</data>
+      <data key="d4">0.25487377105874215</data>
+    </edge>
+    <edge source="单于" target="歌舞">
+      <data key="d3">0.383299</data>
+      <data key="d4">0.2055036806481893</data>
+    </edge>
+    <edge source="单于" target="咸阳">
+      <data key="d3">0.369736</data>
+      <data key="d4">0.17199990119065264</data>
+    </edge>
+    <edge source="单于" target="路难">
+      <data key="d3">0.358891</data>
+      <data key="d4">0.14521021688651747</data>
+    </edge>
+    <edge source="单于" target="送客">
+      <data key="d3">0.34945</data>
+      <data key="d4">0.12188874067486778</data>
+    </edge>
+    <edge source="单于" target="意气">
+      <data key="d3">0.333198</data>
+      <data key="d4">0.0817425028407687</data>
+    </edge>
+    <edge source="单于" target="罗衣">
+      <data key="d3">0.32484</data>
+      <data key="d4">0.06109628970900649</data>
+    </edge>
+    <edge source="单于" target="陌上">
+      <data key="d3">0.317777</data>
+      <data key="d4">0.04364902919816206</data>
+    </edge>
+    <edge source="单于" target="歌声">
+      <data key="d3">0.316547</data>
+      <data key="d4">0.04061064176671116</data>
+    </edge>
+    <edge source="陌上" target="美人">
+      <data key="d3">0.431682</data>
+      <data key="d4">0.3250209969863149</data>
+    </edge>
+    <edge source="陌上" target="离别">
+      <data key="d3">0.409781</data>
+      <data key="d4">0.2709204090706981</data>
+    </edge>
+    <edge source="陌上" target="他人">
+      <data key="d3">0.324741</data>
+      <data key="d4">0.060851736574279905</data>
+    </edge>
+    <edge source="陌上" target="东风">
+      <data key="d3">0.323572</data>
+      <data key="d4">0.05796403339755945</data>
+    </edge>
+    <edge source="陌上" target="世上">
+      <data key="d3">0.309428</data>
+      <data key="d4">0.023025048169556764</data>
+    </edge>
+    <edge source="陌上" target="春来">
+      <data key="d3">0.309382</data>
+      <data key="d4">0.022911417420087888</data>
+    </edge>
+    <edge source="陌上" target="歌声">
+      <data key="d3">0.308815</data>
+      <data key="d4">0.021510794921199533</data>
+    </edge>
+    <edge source="陌上" target="多情">
+      <data key="d3">0.302897</data>
+      <data key="d4">0.006891951978657218</data>
+    </edge>
+    <edge source="寒食" target="东风">
+      <data key="d3">0.380501</data>
+      <data key="d4">0.19859196680005922</data>
+    </edge>
+    <edge source="寒食" target="莺啼">
+      <data key="d3">0.35276</data>
+      <data key="d4">0.13006521416926045</data>
+    </edge>
+    <edge source="寒食" target="走马">
+      <data key="d3">0.349319</data>
+      <data key="d4">0.12156514006224985</data>
+    </edge>
+    <edge source="寒食" target="春来">
+      <data key="d3">0.344828</data>
+      <data key="d4">0.11047132058692756</data>
+    </edge>
+    <edge source="寒食" target="江上">
+      <data key="d3">0.332299</data>
+      <data key="d4">0.07952176275875698</data>
+    </edge>
+    <edge source="寒食" target="多情">
+      <data key="d3">0.321801</data>
+      <data key="d4">0.05358924954300675</data>
+    </edge>
+    <edge source="寒食" target="肠断">
+      <data key="d3">0.312231</data>
+      <data key="d4">0.02994911318610733</data>
+    </edge>
+    <edge source="寒食" target="他人">
+      <data key="d3">0.311661</data>
+      <data key="d4">0.028541079986166715</data>
+    </edge>
+    <edge source="寒食" target="罗衣">
+      <data key="d3">0.303601</data>
+      <data key="d4">0.008630996492268162</data>
+    </edge>
+    <edge source="落日" target="远山">
+      <data key="d3">0.47232</data>
+      <data key="d4">0.42540635344103556</data>
+    </edge>
+    <edge source="落日" target="物外">
+      <data key="d3">0.345843</data>
+      <data key="d4">0.11297860777629565</data>
+    </edge>
+    <edge source="落日" target="江上">
+      <data key="d3">0.345194</data>
+      <data key="d4">0.1113754261153105</data>
+    </edge>
+    <edge source="落日" target="送客">
+      <data key="d3">0.302519</data>
+      <data key="d4">0.005958203646064844</data>
+    </edge>
+    <edge source="人生" target="富贵">
+      <data key="d3">0.478174</data>
+      <data key="d4">0.43986710142779506</data>
+    </edge>
+    <edge source="人生" target="意气">
+      <data key="d3">0.426934</data>
+      <data key="d4">0.3132923274541771</data>
+    </edge>
+    <edge source="人生" target="路难">
+      <data key="d3">0.374408</data>
+      <data key="d4">0.18354083296279833</data>
+    </edge>
+    <edge source="人生" target="今日">
+      <data key="d3">0.334216</data>
+      <data key="d4">0.08425720073118918</data>
+    </edge>
+    <edge source="人生" target="世上">
+      <data key="d3">0.328866</data>
+      <data key="d4">0.07104145052121927</data>
+    </edge>
+    <edge source="人生" target="流水">
+      <data key="d3">0.32791</data>
+      <data key="d4">0.0686799071192134</data>
+    </edge>
+    <edge source="人生" target="离别">
+      <data key="d3">0.311196</data>
+      <data key="d4">0.027392421323057064</data>
+    </edge>
+    <edge source="人生" target="古来">
+      <data key="d3">0.310285</data>
+      <data key="d4">0.02514203843683604</data>
+    </edge>
+    <edge source="古来" target="富贵">
+      <data key="d3">0.407084</data>
+      <data key="d4">0.2642581888246628</data>
+    </edge>
+    <edge source="古来" target="感激">
+      <data key="d3">0.367557</data>
+      <data key="d4">0.16661726199298457</data>
+    </edge>
+    <edge source="古来" target="咸阳">
+      <data key="d3">0.363693</data>
+      <data key="d4">0.1570722790375969</data>
+    </edge>
+    <edge source="古来" target="意气">
+      <data key="d3">0.359677</data>
+      <data key="d4">0.14715182056222523</data>
+    </edge>
+    <edge source="古来" target="路难">
+      <data key="d3">0.331742</data>
+      <data key="d4">0.07814584259670958</data>
+    </edge>
+    <edge source="古来" target="封侯">
+      <data key="d3">0.3135</data>
+      <data key="d4">0.03308383973123855</data>
+    </edge>
+    <edge source="古来" target="今日">
+      <data key="d3">0.31126</data>
+      <data key="d4">0.027550516278839903</data>
+    </edge>
+    <edge source="流水" target="白云">
+      <data key="d3">0.420647</data>
+      <data key="d4">0.2977619682821995</data>
+    </edge>
+    <edge source="流水" target="青苔">
+      <data key="d3">0.356494</data>
+      <data key="d4">0.13928906674571406</data>
+    </edge>
+    <edge source="流水" target="云间">
+      <data key="d3">0.3495</data>
+      <data key="d4">0.12201225235907309</data>
+    </edge>
+    <edge source="流水" target="离别">
+      <data key="d3">0.328269</data>
+      <data key="d4">0.06956672101180764</data>
+    </edge>
+    <edge source="流水" target="远山">
+      <data key="d3">0.320905</data>
+      <data key="d4">0.05137592016204729</data>
+    </edge>
+    <edge source="流水" target="肠断">
+      <data key="d3">0.313973</data>
+      <data key="d4">0.03425226026382094</data>
+    </edge>
+    <edge source="流水" target="送客">
+      <data key="d3">0.301783</data>
+      <data key="d4">0.004140111654562548</data>
+    </edge>
+    <edge source="肠断" target="美人">
+      <data key="d3">0.363407</data>
+      <data key="d4">0.15636579220394242</data>
+    </edge>
+    <edge source="肠断" target="夜雨">
+      <data key="d3">0.349416</data>
+      <data key="d4">0.12180475272960821</data>
+    </edge>
+    <edge source="肠断" target="罗衣">
+      <data key="d3">0.339449</data>
+      <data key="d4">0.09718393360011855</data>
+    </edge>
+    <edge source="肠断" target="路难">
+      <data key="d3">0.337886</data>
+      <data key="d4">0.09332295835186011</data>
+    </edge>
+    <edge source="肠断" target="今日">
+      <data key="d3">0.334358</data>
+      <data key="d4">0.08460797391433225</data>
+    </edge>
+    <edge source="肠断" target="多情">
+      <data key="d3">0.324671</data>
+      <data key="d4">0.06067882021639241</data>
+    </edge>
+    <edge source="肠断" target="故乡">
+      <data key="d3">0.317161</data>
+      <data key="d4">0.04212736524875257</data>
+    </edge>
+    <edge source="肠断" target="东风">
+      <data key="d3">0.316622</data>
+      <data key="d4">0.04079590929301913</data>
+    </edge>
+    <edge source="肠断" target="春来">
+      <data key="d3">0.316432</data>
+      <data key="d4">0.04032656489303883</data>
+    </edge>
+    <edge source="肠断" target="走马">
+      <data key="d3">0.312877</data>
+      <data key="d4">0.03154488414604023</data>
+    </edge>
+    <edge source="江上" target="送客">
+      <data key="d3">0.361375</data>
+      <data key="d4">0.15134627735783804</data>
+    </edge>
+    <edge source="江上" target="离别">
+      <data key="d3">0.327935</data>
+      <data key="d4">0.06874166296131606</data>
+    </edge>
+    <edge source="江上" target="故乡">
+      <data key="d3">0.326794</data>
+      <data key="d4">0.06592312632775052</data>
+    </edge>
+    <edge source="江上" target="东风">
+      <data key="d3">0.319519</data>
+      <data key="d4">0.04795217627587567</data>
+    </edge>
+    <edge source="江上" target="今日">
+      <data key="d3">0.307887</data>
+      <data key="d4">0.019218418062348724</data>
+    </edge>
+    <edge source="江上" target="残阳">
+      <data key="d3">0.300243</data>
+      <data key="d4">0.0003359517810384109</data>
+    </edge>
+    <edge source="送客" target="莺啼">
+      <data key="d3">0.363918</data>
+      <data key="d4">0.15762808161652095</data>
+    </edge>
+    <edge source="送客" target="封侯">
+      <data key="d3">0.34322</data>
+      <data key="d4">0.10649918482288429</data>
+    </edge>
+    <edge source="送客" target="离别">
+      <data key="d3">0.342382</data>
+      <data key="d4">0.10442912899560301</data>
+    </edge>
+    <edge source="送客" target="走马">
+      <data key="d3">0.339643</data>
+      <data key="d4">0.09766315893483515</data>
+    </edge>
+    <edge source="泉声" target="物外">
+      <data key="d3">0.402372</data>
+      <data key="d4">0.2526184477051529</data>
+    </edge>
+    <edge source="泉声" target="夜雨">
+      <data key="d3">0.313399</data>
+      <data key="d4">0.032834346129143745</data>
+    </edge>
+    <edge source="泉声" target="吟诗">
+      <data key="d3">0.311033</data>
+      <data key="d4">0.02698977323254778</data>
+    </edge>
+    <edge source="泉声" target="云间">
+      <data key="d3">0.309871</data>
+      <data key="d4">0.024119361691616017</data>
+    </edge>
+    <edge source="东风" target="春来">
+      <data key="d3">0.365958</data>
+      <data key="d4">0.16266735833209822</data>
+    </edge>
+    <edge source="东风" target="断肠">
+      <data key="d3">0.349458</data>
+      <data key="d4">0.12190850254434066</data>
+    </edge>
+    <edge source="东风" target="多情">
+      <data key="d3">0.341091</data>
+      <data key="d4">0.1012400573094214</data>
+    </edge>
+    <edge source="东风" target="美人">
+      <data key="d3">0.326314</data>
+      <data key="d4">0.06473741415937943</data>
+    </edge>
+    <edge source="东风" target="今日">
+      <data key="d3">0.307356</data>
+      <data key="d4">0.017906723976088154</data>
+    </edge>
+    <edge source="东风" target="故乡">
+      <data key="d3">0.301501</data>
+      <data key="d4">0.0034435057556445</data>
+    </edge>
+    <edge source="故乡" target="咸阳">
+      <data key="d3">0.4358</data>
+      <data key="d4">0.3351934192974656</data>
+    </edge>
+    <edge source="故乡" target="残阳">
+      <data key="d3">0.33442</data>
+      <data key="d4">0.08476112840274687</data>
+    </edge>
+    <edge source="故乡" target="来往">
+      <data key="d3">0.325442</data>
+      <data key="d4">0.06258337038683859</data>
+    </edge>
+    <edge source="故乡" target="断肠">
+      <data key="d3">0.318162</data>
+      <data key="d4">0.04460006916654313</data>
+    </edge>
+    <edge source="白云" target="来往">
+      <data key="d3">0.326051</data>
+      <data key="d4">0.06408774270045939</data>
+    </edge>
+    <edge source="白云" target="石上">
+      <data key="d3">0.308237</data>
+      <data key="d4">0.02008299985178591</data>
+    </edge>
+    <edge source="吟诗" target="夜雨">
+      <data key="d3">0.353544</data>
+      <data key="d4">0.13200187737759997</data>
+    </edge>
+    <edge source="吟诗" target="来往">
+      <data key="d3">0.34809</data>
+      <data key="d4">0.11852922286448299</data>
+    </edge>
+    <edge source="吟诗" target="咸阳">
+      <data key="d3">0.332158</data>
+      <data key="d4">0.07917345980929796</data>
+    </edge>
+    <edge source="吟诗" target="多情">
+      <data key="d3">0.325486</data>
+      <data key="d4">0.06269206066893925</data>
+    </edge>
+    <edge source="吟诗" target="他人">
+      <data key="d3">0.31933</data>
+      <data key="d4">0.04748530210957955</data>
+    </edge>
+    <edge source="吟诗" target="相访">
+      <data key="d3">0.313718</data>
+      <data key="d4">0.03362235067437376</data>
+    </edge>
+    <edge source="吟诗" target="残阳">
+      <data key="d3">0.304634</data>
+      <data key="d4">0.01118274788795021</data>
+    </edge>
+    <edge source="断肠" target="多情">
+      <data key="d3">0.422703</data>
+      <data key="d4">0.3028407687367225</data>
+    </edge>
+    <edge source="断肠" target="歌舞">
+      <data key="d3">0.344001</data>
+      <data key="d4">0.10842843733017142</data>
+    </edge>
+    <edge source="断肠" target="青苔">
+      <data key="d3">0.341797</data>
+      <data key="d4">0.1029840422904007</data>
+    </edge>
+    <edge source="断肠" target="歌声">
+      <data key="d3">0.331777</data>
+      <data key="d4">0.07823230077565332</data>
+    </edge>
+    <edge source="断肠" target="离别">
+      <data key="d3">0.329779</data>
+      <data key="d4">0.0732967738748085</data>
+    </edge>
+    <edge source="多情" target="莺啼">
+      <data key="d3">0.377193</data>
+      <data key="d4">0.19042043377303491</data>
+    </edge>
+    <edge source="多情" target="春来">
+      <data key="d3">0.339896</data>
+      <data key="d4">0.0982881280569141</data>
+    </edge>
+    <edge source="多情" target="美人">
+      <data key="d3">0.320989</data>
+      <data key="d4">0.05158341979151231</data>
+    </edge>
+    <edge source="石上" target="来往">
+      <data key="d3">0.374481</data>
+      <data key="d4">0.18372116002173808</data>
+    </edge>
+    <edge source="石上" target="青苔">
+      <data key="d3">0.352915</data>
+      <data key="d4">0.13044810039029686</data>
+    </edge>
+    <edge source="石上" target="咸阳">
+      <data key="d3">0.343532</data>
+      <data key="d4">0.10726989773232547</data>
+    </edge>
+    <edge source="石上" target="云间">
+      <data key="d3">0.337339</data>
+      <data key="d4">0.0919717405266538</data>
+    </edge>
+    <edge source="多病" target="夜雨">
+      <data key="d3">0.350551</data>
+      <data key="d4">0.1246084679610691</data>
+    </edge>
+    <edge source="多病" target="残阳">
+      <data key="d3">0.301756</data>
+      <data key="d4">0.004073415345091674</data>
+    </edge>
+    <edge source="走马" target="意气">
+      <data key="d3">0.458682</data>
+      <data key="d4">0.39171730645719083</data>
+    </edge>
+    <edge source="走马" target="美人">
+      <data key="d3">0.393473</data>
+      <data key="d4">0.23063583815028904</data>
+    </edge>
+    <edge source="走马" target="罗衣">
+      <data key="d3">0.389815</data>
+      <data key="d4">0.22159972333382744</data>
+    </edge>
+    <edge source="走马" target="封侯">
+      <data key="d3">0.365399</data>
+      <data key="d4">0.1612864977026826</data>
+    </edge>
+    <edge source="走马" target="春来">
+      <data key="d3">0.35847</data>
+      <data key="d4">0.14417024850550864</data>
+    </edge>
+    <edge source="走马" target="残阳">
+      <data key="d3">0.343109</data>
+      <data key="d4">0.10622498888394839</data>
+    </edge>
+    <edge source="走马" target="咸阳">
+      <data key="d3">0.342468</data>
+      <data key="d4">0.1046415690924361</data>
+    </edge>
+    <edge source="走马" target="富贵">
+      <data key="d3">0.310538</data>
+      <data key="d4">0.025767007558914996</data>
+    </edge>
+    <edge source="远山" target="相访">
+      <data key="d3">0.347905</data>
+      <data key="d4">0.1180722296329233</data>
+    </edge>
+    <edge source="远山" target="云间">
+      <data key="d3">0.331623</data>
+      <data key="d4">0.07785188478830095</data>
+    </edge>
+    <edge source="云间" target="歌声">
+      <data key="d3">0.354223</data>
+      <data key="d4">0.13367916604910826</data>
+    </edge>
+    <edge source="云间" target="路难">
+      <data key="d3">0.323394</data>
+      <data key="d4">0.05752433180178846</data>
+    </edge>
+    <edge source="云间" target="相访">
+      <data key="d3">0.312557</data>
+      <data key="d4">0.030754409367126038</data>
+    </edge>
+    <edge source="青苔" target="歌舞">
+      <data key="d3">0.369085</data>
+      <data key="d4">0.17039177906229927</data>
+    </edge>
+    <edge source="青苔" target="物外">
+      <data key="d3">0.350551</data>
+      <data key="d4">0.1246084679610691</data>
+    </edge>
+    <edge source="青苔" target="意气">
+      <data key="d3">0.333872</data>
+      <data key="d4">0.08340744034385651</data>
+    </edge>
+    <edge source="世上" target="咸阳">
+      <data key="d3">0.382027</data>
+      <data key="d4">0.20236154340200582</data>
+    </edge>
+    <edge source="世上" target="富贵">
+      <data key="d3">0.367863</data>
+      <data key="d4">0.16737315350032111</data>
+    </edge>
+    <edge source="世上" target="物外">
+      <data key="d3">0.341528</data>
+      <data key="d4">0.10231954942937599</data>
+    </edge>
+    <edge source="世上" target="意气">
+      <data key="d3">0.32485</data>
+      <data key="d4">0.06112099204584758</data>
+    </edge>
+    <edge source="歌舞" target="罗衣">
+      <data key="d3">0.489594</data>
+      <data key="d4">0.46807717010029143</data>
+    </edge>
+    <edge source="歌舞" target="意气">
+      <data key="d3">0.472724</data>
+      <data key="d4">0.4264043278494145</data>
+    </edge>
+    <edge source="歌舞" target="美人">
+      <data key="d3">0.432283</data>
+      <data key="d4">0.32650560743046286</data>
+    </edge>
+    <edge source="歌舞" target="今日">
+      <data key="d3">0.371504</data>
+      <data key="d4">0.17636727434415295</data>
+    </edge>
+    <edge source="歌舞" target="莺啼">
+      <data key="d3">0.36669</data>
+      <data key="d4">0.1644755693888642</data>
+    </edge>
+    <edge source="歌舞" target="他人">
+      <data key="d3">0.359479</data>
+      <data key="d4">0.14666271429277206</data>
+    </edge>
+    <edge source="相访" target="残阳">
+      <data key="d3">0.319129</data>
+      <data key="d4">0.04698878513907412</data>
+    </edge>
+    <edge source="相访" target="来往">
+      <data key="d3">0.310841</data>
+      <data key="d4">0.026515488365199267</data>
+    </edge>
+    <edge source="路难" target="封侯">
+      <data key="d3">0.475602</data>
+      <data key="d4">0.4335136603922732</data>
+    </edge>
+    <edge source="路难" target="富贵">
+      <data key="d3">0.380004</data>
+      <data key="d4">0.19736426065905835</data>
+    </edge>
+    <edge source="路难" target="他人">
+      <data key="d3">0.321787</data>
+      <data key="d4">0.05355466627142923</data>
+    </edge>
+    <edge source="路难" target="今日">
+      <data key="d3">0.308737</data>
+      <data key="d4">0.021318116693839168</data>
+    </edge>
+    <edge source="意气" target="咸阳">
+      <data key="d3">0.417888</data>
+      <data key="d4">0.29094659354774954</data>
+    </edge>
+    <edge source="意气" target="封侯">
+      <data key="d3">0.400663</data>
+      <data key="d4">0.24839681833901484</data>
+    </edge>
+    <edge source="意气" target="美人">
+      <data key="d3">0.315279</data>
+      <data key="d4">0.03747838545526398</data>
+    </edge>
+    <edge source="感激" target="离别">
+      <data key="d3">0.316105</data>
+      <data key="d4">0.03951879847833609</data>
+    </edge>
+    <edge source="他人" target="歌声">
+      <data key="d3">0.323511</data>
+      <data key="d4">0.05781334914282887</data>
+    </edge>
+    <edge source="他人" target="富贵">
+      <data key="d3">0.321332</data>
+      <data key="d4">0.0524307099451608</data>
+    </edge>
+    <edge source="富贵" target="封侯">
+      <data key="d3">0.391463</data>
+      <data key="d4">0.22567066844523492</data>
+    </edge>
+    <edge source="今日" target="歌声">
+      <data key="d3">0.309561</data>
+      <data key="d4">0.023353589249542915</data>
+    </edge>
+    <edge source="来往" target="罗衣">
+      <data key="d3">0.361062</data>
+      <data key="d4">0.15057309421471268</data>
+    </edge>
+    <edge source="春来" target="罗衣">
+      <data key="d3">0.316727</data>
+      <data key="d4">0.04105528382985023</data>
+    </edge>
+    <edge source="歌声" target="莺啼">
+      <data key="d3">0.423667</data>
+      <data key="d4">0.3052220740082012</data>
+    </edge>
+    <edge source="歌声" target="美人">
+      <data key="d3">0.413598</data>
+      <data key="d4">0.2803492910429327</data>
+    </edge>
+    <edge source="离别" target="封侯">
+      <data key="d3">0.397891</data>
+      <data key="d4">0.24154933056667158</data>
+    </edge>
+    <edge source="离别" target="罗衣">
+      <data key="d3">0.353562</data>
+      <data key="d4">0.1320463415839138</data>
+    </edge>
+    <edge source="莺啼" target="美人">
+      <data key="d3">0.378335</data>
+      <data key="d4">0.1932414406402845</data>
+    </edge>
+    <edge source="美人" target="罗衣">
+      <data key="d3">0.541187</data>
+      <data key="d4">0.595523936564399</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,5 @@
+﻿Period,Number of Poems,Nodes,Edges,Network Density,Average Degree,Max Degree,Degree Std,Avg Clustering Coefficient,Number of Communities
+Early Tang,Unknown,631,12878,0.0648,40.82,191,31.82,0.329,8
+High Tang,Unknown,662,8151,0.0373,24.63,119,15.93,0.152,10
+Mid Tang,Unknown,638,3577,0.0176,11.21,125,11.61,0.145,9
+Late Tang,Unknown,636,3248,0.0161,10.21,73,9.84,0.118,12
